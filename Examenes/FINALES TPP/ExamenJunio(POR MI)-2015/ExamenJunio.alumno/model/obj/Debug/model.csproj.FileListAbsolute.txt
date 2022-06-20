@@ -1,0 +1,5 @@
+Z:\Dropbox\DOCENCIA\TPP\1415\_examenes\ExamenJunio\Practica02.solucion\model\bin\Debug\model.dll
+Z:\Dropbox\DOCENCIA\TPP\1415\_examenes\ExamenJunio\Practica02.solucion\model\bin\Debug\model.pdb
+Z:\Dropbox\DOCENCIA\TPP\1415\_examenes\ExamenJunio\Practica02.solucion\model\obj\Debug\model.csprojResolveAssemblyReference.cache
+Z:\Dropbox\DOCENCIA\TPP\1415\_examenes\ExamenJunio\Practica02.solucion\model\obj\Debug\model.dll
+Z:\Dropbox\DOCENCIA\TPP\1415\_examenes\ExamenJunio\Practica02.solucion\model\obj\Debug\model.pdb

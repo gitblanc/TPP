@@ -1,0 +1,12 @@
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\inheritance.polymorphism\dynamic.binding\bin\Debug\netcoreapp3.1\dynamic.binding.exe
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\inheritance.polymorphism\dynamic.binding\bin\Debug\netcoreapp3.1\dynamic.binding.deps.json
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\inheritance.polymorphism\dynamic.binding\bin\Debug\netcoreapp3.1\dynamic.binding.runtimeconfig.json
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\inheritance.polymorphism\dynamic.binding\bin\Debug\netcoreapp3.1\dynamic.binding.runtimeconfig.dev.json
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\inheritance.polymorphism\dynamic.binding\bin\Debug\netcoreapp3.1\dynamic.binding.dll
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\inheritance.polymorphism\dynamic.binding\bin\Debug\netcoreapp3.1\dynamic.binding.pdb
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\inheritance.polymorphism\dynamic.binding\obj\Debug\netcoreapp3.1\dynamic.binding.csproj.AssemblyReference.cache
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\inheritance.polymorphism\dynamic.binding\obj\Debug\netcoreapp3.1\dynamic.binding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\inheritance.polymorphism\dynamic.binding\obj\Debug\netcoreapp3.1\dynamic.binding.csproj.CoreCompileInputs.cache
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\inheritance.polymorphism\dynamic.binding\obj\Debug\netcoreapp3.1\dynamic.binding.dll
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\inheritance.polymorphism\dynamic.binding\obj\Debug\netcoreapp3.1\dynamic.binding.pdb
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\inheritance.polymorphism\dynamic.binding\obj\Debug\netcoreapp3.1\dynamic.binding.genruntimeconfig.cache

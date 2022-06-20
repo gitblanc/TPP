@@ -1,0 +1,12 @@
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\overload\named.optional.parameters\bin\Debug\netcoreapp3.1\named.optional.parameters.exe
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\overload\named.optional.parameters\bin\Debug\netcoreapp3.1\named.optional.parameters.deps.json
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\overload\named.optional.parameters\bin\Debug\netcoreapp3.1\named.optional.parameters.runtimeconfig.json
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\overload\named.optional.parameters\bin\Debug\netcoreapp3.1\named.optional.parameters.runtimeconfig.dev.json
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\overload\named.optional.parameters\bin\Debug\netcoreapp3.1\named.optional.parameters.dll
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\overload\named.optional.parameters\bin\Debug\netcoreapp3.1\named.optional.parameters.pdb
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\overload\named.optional.parameters\obj\Debug\netcoreapp3.1\named.optional.parameters.csproj.AssemblyReference.cache
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\overload\named.optional.parameters\obj\Debug\netcoreapp3.1\named.optional.parameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\overload\named.optional.parameters\obj\Debug\netcoreapp3.1\named.optional.parameters.csproj.CoreCompileInputs.cache
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\overload\named.optional.parameters\obj\Debug\netcoreapp3.1\named.optional.parameters.dll
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\overload\named.optional.parameters\obj\Debug\netcoreapp3.1\named.optional.parameters.pdb
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\overload\named.optional.parameters\obj\Debug\netcoreapp3.1\named.optional.parameters.genruntimeconfig.cache

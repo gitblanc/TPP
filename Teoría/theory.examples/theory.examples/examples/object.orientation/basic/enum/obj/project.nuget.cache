@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "oHZx16C1jrX2l3un9E6JSuriU4K9nXQT//ropk0fFY0JMgs84ie8R1+bxksWJCO1Jqc4I5I9+p3Zp5P4wGt3aw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omenp\\Desktop\\TPP\\Teoría\\theory.examples\\theory.examples\\examples\\object.orientation\\basic\\enum\\enum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omenp\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\omenp\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

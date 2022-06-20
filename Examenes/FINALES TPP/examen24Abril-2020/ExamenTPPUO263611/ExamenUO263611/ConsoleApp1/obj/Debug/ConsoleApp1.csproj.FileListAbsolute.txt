@@ -1,0 +1,6 @@
+C:\Users\Enol-Estudios\Desktop\ExamenTPPUO263611\ExamenUO263611\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Enol-Estudios\Desktop\ExamenTPPUO263611\ExamenUO263611\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Enol-Estudios\Desktop\ExamenTPPUO263611\ExamenUO263611\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Enol-Estudios\Desktop\ExamenTPPUO263611\ExamenUO263611\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Enol-Estudios\Desktop\ExamenTPPUO263611\ExamenUO263611\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Enol-Estudios\Desktop\ExamenTPPUO263611\ExamenUO263611\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

@@ -1,0 +1,5 @@
+C:\Users\Enol-Estudios\Desktop\ExamenTPPUO263611\ExamenUO263611\ConsoleApp1\bin\Release\ConsoleApp1.exe.config
+C:\Users\Enol-Estudios\Desktop\ExamenTPPUO263611\ExamenUO263611\ConsoleApp1\bin\Release\ConsoleApp1.exe
+C:\Users\Enol-Estudios\Desktop\ExamenTPPUO263611\ExamenUO263611\ConsoleApp1\bin\Release\ConsoleApp1.pdb
+C:\Users\Enol-Estudios\Desktop\ExamenTPPUO263611\ExamenUO263611\ConsoleApp1\obj\Release\ConsoleApp1.exe
+C:\Users\Enol-Estudios\Desktop\ExamenTPPUO263611\ExamenUO263611\ConsoleApp1\obj\Release\ConsoleApp1.pdb

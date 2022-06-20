@@ -1,0 +1,16 @@
+C:\Users\SARA\Desktop\ACADEMIA TPP\examen24Abril-2020\SOLUCION MIA\Examen24Abril2020TPP\Examen24Abril2020TPP\bin\Debug\net5.0\Examen24Abril2020TPP.exe
+C:\Users\SARA\Desktop\ACADEMIA TPP\examen24Abril-2020\SOLUCION MIA\Examen24Abril2020TPP\Examen24Abril2020TPP\bin\Debug\net5.0\Examen24Abril2020TPP.deps.json
+C:\Users\SARA\Desktop\ACADEMIA TPP\examen24Abril-2020\SOLUCION MIA\Examen24Abril2020TPP\Examen24Abril2020TPP\bin\Debug\net5.0\Examen24Abril2020TPP.runtimeconfig.json
+C:\Users\SARA\Desktop\ACADEMIA TPP\examen24Abril-2020\SOLUCION MIA\Examen24Abril2020TPP\Examen24Abril2020TPP\bin\Debug\net5.0\Examen24Abril2020TPP.runtimeconfig.dev.json
+C:\Users\SARA\Desktop\ACADEMIA TPP\examen24Abril-2020\SOLUCION MIA\Examen24Abril2020TPP\Examen24Abril2020TPP\bin\Debug\net5.0\Examen24Abril2020TPP.dll
+C:\Users\SARA\Desktop\ACADEMIA TPP\examen24Abril-2020\SOLUCION MIA\Examen24Abril2020TPP\Examen24Abril2020TPP\bin\Debug\net5.0\ref\Examen24Abril2020TPP.dll
+C:\Users\SARA\Desktop\ACADEMIA TPP\examen24Abril-2020\SOLUCION MIA\Examen24Abril2020TPP\Examen24Abril2020TPP\bin\Debug\net5.0\Examen24Abril2020TPP.pdb
+C:\Users\SARA\Desktop\ACADEMIA TPP\examen24Abril-2020\SOLUCION MIA\Examen24Abril2020TPP\Examen24Abril2020TPP\obj\Debug\net5.0\Examen24Abril2020TPP.csprojAssemblyReference.cache
+C:\Users\SARA\Desktop\ACADEMIA TPP\examen24Abril-2020\SOLUCION MIA\Examen24Abril2020TPP\Examen24Abril2020TPP\obj\Debug\net5.0\Examen24Abril2020TPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SARA\Desktop\ACADEMIA TPP\examen24Abril-2020\SOLUCION MIA\Examen24Abril2020TPP\Examen24Abril2020TPP\obj\Debug\net5.0\Examen24Abril2020TPP.AssemblyInfoInputs.cache
+C:\Users\SARA\Desktop\ACADEMIA TPP\examen24Abril-2020\SOLUCION MIA\Examen24Abril2020TPP\Examen24Abril2020TPP\obj\Debug\net5.0\Examen24Abril2020TPP.AssemblyInfo.cs
+C:\Users\SARA\Desktop\ACADEMIA TPP\examen24Abril-2020\SOLUCION MIA\Examen24Abril2020TPP\Examen24Abril2020TPP\obj\Debug\net5.0\Examen24Abril2020TPP.csproj.CoreCompileInputs.cache
+C:\Users\SARA\Desktop\ACADEMIA TPP\examen24Abril-2020\SOLUCION MIA\Examen24Abril2020TPP\Examen24Abril2020TPP\obj\Debug\net5.0\Examen24Abril2020TPP.dll
+C:\Users\SARA\Desktop\ACADEMIA TPP\examen24Abril-2020\SOLUCION MIA\Examen24Abril2020TPP\Examen24Abril2020TPP\obj\Debug\net5.0\ref\Examen24Abril2020TPP.dll
+C:\Users\SARA\Desktop\ACADEMIA TPP\examen24Abril-2020\SOLUCION MIA\Examen24Abril2020TPP\Examen24Abril2020TPP\obj\Debug\net5.0\Examen24Abril2020TPP.pdb
+C:\Users\SARA\Desktop\ACADEMIA TPP\examen24Abril-2020\SOLUCION MIA\Examen24Abril2020TPP\Examen24Abril2020TPP\obj\Debug\net5.0\Examen24Abril2020TPP.genruntimeconfig.cache

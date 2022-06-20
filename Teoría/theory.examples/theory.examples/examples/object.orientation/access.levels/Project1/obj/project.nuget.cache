@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "KHa91dIlRkVbGNdRkvxWRzYvgWwtDBDJLzyYcJ9etiz0rKK/4JMWghRbhaXXjxdKWIIxZqsenIy4lLEG3I8/xA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omenp\\Desktop\\TPP\\Teoría\\theory.examples\\theory.examples\\examples\\object.orientation\\access.levels\\Project1\\Project1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omenp\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\omenp\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\omenp\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\omenp\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

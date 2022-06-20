@@ -1,0 +1,12 @@
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\encapsulation\partial.classes\bin\Debug\netcoreapp3.1\partial.classes.exe
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\encapsulation\partial.classes\bin\Debug\netcoreapp3.1\partial.classes.deps.json
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\encapsulation\partial.classes\bin\Debug\netcoreapp3.1\partial.classes.runtimeconfig.json
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\encapsulation\partial.classes\bin\Debug\netcoreapp3.1\partial.classes.runtimeconfig.dev.json
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\encapsulation\partial.classes\bin\Debug\netcoreapp3.1\partial.classes.dll
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\encapsulation\partial.classes\bin\Debug\netcoreapp3.1\partial.classes.pdb
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\encapsulation\partial.classes\obj\Debug\netcoreapp3.1\partial.classes.csproj.AssemblyReference.cache
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\encapsulation\partial.classes\obj\Debug\netcoreapp3.1\partial.classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\encapsulation\partial.classes\obj\Debug\netcoreapp3.1\partial.classes.csproj.CoreCompileInputs.cache
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\encapsulation\partial.classes\obj\Debug\netcoreapp3.1\partial.classes.dll
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\encapsulation\partial.classes\obj\Debug\netcoreapp3.1\partial.classes.pdb
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\encapsulation\partial.classes\obj\Debug\netcoreapp3.1\partial.classes.genruntimeconfig.cache

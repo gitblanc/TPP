@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "f1hfL5fryeIxuM8yt1feGv8/6EKzR62JdhMaz5ImrqzPvBEAgtA0xnR5rM3AskHS+xci3ujt6SC2TrAPA/e+Rg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omenp\\Desktop\\TPP\\Teoría\\theory.examples\\theory.examples\\examples\\object.orientation\\overload\\extension.methods\\extension.methods.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omenp\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\omenp\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

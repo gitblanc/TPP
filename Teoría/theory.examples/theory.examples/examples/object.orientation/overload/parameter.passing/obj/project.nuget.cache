@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vTO9EdgSc2ZRZC5Vvp5Kkw6t7eCRKWbs7S3+Q2ou6wX9rS9E7xAzh9DgIiNhv98aiuflNRnMGzWNZc+eibb7yA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omenp\\Desktop\\TPP\\Teoría\\theory.examples\\theory.examples\\examples\\object.orientation\\overload\\parameter.passing\\parameter.passing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omenp\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\omenp\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

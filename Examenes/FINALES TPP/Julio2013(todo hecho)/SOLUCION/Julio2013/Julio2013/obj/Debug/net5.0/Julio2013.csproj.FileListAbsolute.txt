@@ -1,0 +1,16 @@
+C:\Users\SARA\Desktop\ACADEMIA TPP\Julio2013(todo hecho)\SOLUCION\Julio2013\Julio2013\bin\Debug\net5.0\Julio2013.exe
+C:\Users\SARA\Desktop\ACADEMIA TPP\Julio2013(todo hecho)\SOLUCION\Julio2013\Julio2013\bin\Debug\net5.0\Julio2013.deps.json
+C:\Users\SARA\Desktop\ACADEMIA TPP\Julio2013(todo hecho)\SOLUCION\Julio2013\Julio2013\bin\Debug\net5.0\Julio2013.runtimeconfig.json
+C:\Users\SARA\Desktop\ACADEMIA TPP\Julio2013(todo hecho)\SOLUCION\Julio2013\Julio2013\bin\Debug\net5.0\Julio2013.runtimeconfig.dev.json
+C:\Users\SARA\Desktop\ACADEMIA TPP\Julio2013(todo hecho)\SOLUCION\Julio2013\Julio2013\bin\Debug\net5.0\Julio2013.dll
+C:\Users\SARA\Desktop\ACADEMIA TPP\Julio2013(todo hecho)\SOLUCION\Julio2013\Julio2013\bin\Debug\net5.0\ref\Julio2013.dll
+C:\Users\SARA\Desktop\ACADEMIA TPP\Julio2013(todo hecho)\SOLUCION\Julio2013\Julio2013\bin\Debug\net5.0\Julio2013.pdb
+C:\Users\SARA\Desktop\ACADEMIA TPP\Julio2013(todo hecho)\SOLUCION\Julio2013\Julio2013\obj\Debug\net5.0\Julio2013.csprojAssemblyReference.cache
+C:\Users\SARA\Desktop\ACADEMIA TPP\Julio2013(todo hecho)\SOLUCION\Julio2013\Julio2013\obj\Debug\net5.0\Julio2013.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SARA\Desktop\ACADEMIA TPP\Julio2013(todo hecho)\SOLUCION\Julio2013\Julio2013\obj\Debug\net5.0\Julio2013.AssemblyInfoInputs.cache
+C:\Users\SARA\Desktop\ACADEMIA TPP\Julio2013(todo hecho)\SOLUCION\Julio2013\Julio2013\obj\Debug\net5.0\Julio2013.AssemblyInfo.cs
+C:\Users\SARA\Desktop\ACADEMIA TPP\Julio2013(todo hecho)\SOLUCION\Julio2013\Julio2013\obj\Debug\net5.0\Julio2013.csproj.CoreCompileInputs.cache
+C:\Users\SARA\Desktop\ACADEMIA TPP\Julio2013(todo hecho)\SOLUCION\Julio2013\Julio2013\obj\Debug\net5.0\Julio2013.dll
+C:\Users\SARA\Desktop\ACADEMIA TPP\Julio2013(todo hecho)\SOLUCION\Julio2013\Julio2013\obj\Debug\net5.0\ref\Julio2013.dll
+C:\Users\SARA\Desktop\ACADEMIA TPP\Julio2013(todo hecho)\SOLUCION\Julio2013\Julio2013\obj\Debug\net5.0\Julio2013.pdb
+C:\Users\SARA\Desktop\ACADEMIA TPP\Julio2013(todo hecho)\SOLUCION\Julio2013\Julio2013\obj\Debug\net5.0\Julio2013.genruntimeconfig.cache

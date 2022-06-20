@@ -1,0 +1,12 @@
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\encapsulation\properties\bin\Debug\netcoreapp3.1\properties.exe
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\encapsulation\properties\bin\Debug\netcoreapp3.1\properties.deps.json
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\encapsulation\properties\bin\Debug\netcoreapp3.1\properties.runtimeconfig.json
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\encapsulation\properties\bin\Debug\netcoreapp3.1\properties.runtimeconfig.dev.json
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\encapsulation\properties\bin\Debug\netcoreapp3.1\properties.dll
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\encapsulation\properties\bin\Debug\netcoreapp3.1\properties.pdb
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\encapsulation\properties\obj\Debug\netcoreapp3.1\properties.csproj.AssemblyReference.cache
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\encapsulation\properties\obj\Debug\netcoreapp3.1\properties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\encapsulation\properties\obj\Debug\netcoreapp3.1\properties.csproj.CoreCompileInputs.cache
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\encapsulation\properties\obj\Debug\netcoreapp3.1\properties.dll
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\encapsulation\properties\obj\Debug\netcoreapp3.1\properties.pdb
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\encapsulation\properties\obj\Debug\netcoreapp3.1\properties.genruntimeconfig.cache

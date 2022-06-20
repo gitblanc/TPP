@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ys5uXO6A3uf47zGDJi/7fh2WMxGUDQuMjE8gIF02pIq6WIEmPzap/sIO3WoOirSdTcumd2WSx34AfUCKuV0PHg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omenp\\Desktop\\TPP\\Teoría\\theory.examples\\theory.examples\\examples\\object.orientation\\generics\\bounded\\bounded.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omenp\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\omenp\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

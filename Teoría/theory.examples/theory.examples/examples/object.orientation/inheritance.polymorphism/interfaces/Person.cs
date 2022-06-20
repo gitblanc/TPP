@@ -9,6 +9,20 @@ namespace TPP.ObjectOrientation.InheritancePolymorphism {
     /// </summary>
     class Person : IComparable {
         private String firstName, surname;
+
+        /// <summary>
+        /// Compare method
+        /// </summary>
+        /// <param name="c">The object to be compared</param>
+        /// <returns>A negative number if this is lower than c;
+        /// zero if they are the same; 
+        /// a positive number if this is greater than c.</returns>
+        public int Compare(IComparable c)
+        {
+            Person p = (Person)c;
+            return this.Age - p.Age;
+        }
+
         public String FirstName {
             get { return firstName; }
         }
@@ -21,17 +35,7 @@ namespace TPP.ObjectOrientation.InheritancePolymorphism {
             get { return age; }
         }
 
-        /// <summary>
-        /// Compare method
-        /// </summary>
-        /// <param name="c">The object to be compared</param>
-        /// <returns>A negative number if this is lower than c;
-        /// zero if they are the same; 
-        /// a positive number if this is greater than c.</returns>
-        public int Compare(IComparable c) {
-            Person p = (Person)c;
-            return this.Age - p.Age;
-        }
+        
 
         public override String ToString() {
             return firstName + " " + Surname + ", " + Age + " years old";

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9E8qq/XntrzUmXQAwxCtoANP9+I78LKL07E79405IERK7nI/MG+Lqj0Syd24ZdBZmnnypU3+ANI1AqI+SE7+dQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omenp\\Desktop\\TPP\\Teoría\\theory.examples\\theory.examples\\examples\\object.orientation\\inheritance.polymorphism\\dynamic.binding\\dynamic.binding.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omenp\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\omenp\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+C:\Users\SARA\Desktop\ACADEMIA TPP\ExamenJunio(POR MI)-2015\Junio2015\Junio2015\bin\Debug\net5.0\Junio2015.exe
+C:\Users\SARA\Desktop\ACADEMIA TPP\ExamenJunio(POR MI)-2015\Junio2015\Junio2015\bin\Debug\net5.0\Junio2015.deps.json
+C:\Users\SARA\Desktop\ACADEMIA TPP\ExamenJunio(POR MI)-2015\Junio2015\Junio2015\bin\Debug\net5.0\Junio2015.runtimeconfig.json
+C:\Users\SARA\Desktop\ACADEMIA TPP\ExamenJunio(POR MI)-2015\Junio2015\Junio2015\bin\Debug\net5.0\Junio2015.runtimeconfig.dev.json
+C:\Users\SARA\Desktop\ACADEMIA TPP\ExamenJunio(POR MI)-2015\Junio2015\Junio2015\bin\Debug\net5.0\Junio2015.dll
+C:\Users\SARA\Desktop\ACADEMIA TPP\ExamenJunio(POR MI)-2015\Junio2015\Junio2015\bin\Debug\net5.0\ref\Junio2015.dll
+C:\Users\SARA\Desktop\ACADEMIA TPP\ExamenJunio(POR MI)-2015\Junio2015\Junio2015\bin\Debug\net5.0\Junio2015.pdb
+C:\Users\SARA\Desktop\ACADEMIA TPP\ExamenJunio(POR MI)-2015\Junio2015\Junio2015\obj\Debug\net5.0\Junio2015.csprojAssemblyReference.cache
+C:\Users\SARA\Desktop\ACADEMIA TPP\ExamenJunio(POR MI)-2015\Junio2015\Junio2015\obj\Debug\net5.0\Junio2015.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SARA\Desktop\ACADEMIA TPP\ExamenJunio(POR MI)-2015\Junio2015\Junio2015\obj\Debug\net5.0\Junio2015.AssemblyInfoInputs.cache
+C:\Users\SARA\Desktop\ACADEMIA TPP\ExamenJunio(POR MI)-2015\Junio2015\Junio2015\obj\Debug\net5.0\Junio2015.AssemblyInfo.cs
+C:\Users\SARA\Desktop\ACADEMIA TPP\ExamenJunio(POR MI)-2015\Junio2015\Junio2015\obj\Debug\net5.0\Junio2015.csproj.CoreCompileInputs.cache
+C:\Users\SARA\Desktop\ACADEMIA TPP\ExamenJunio(POR MI)-2015\Junio2015\Junio2015\obj\Debug\net5.0\Junio2015.dll
+C:\Users\SARA\Desktop\ACADEMIA TPP\ExamenJunio(POR MI)-2015\Junio2015\Junio2015\obj\Debug\net5.0\ref\Junio2015.dll
+C:\Users\SARA\Desktop\ACADEMIA TPP\ExamenJunio(POR MI)-2015\Junio2015\Junio2015\obj\Debug\net5.0\Junio2015.pdb
+C:\Users\SARA\Desktop\ACADEMIA TPP\ExamenJunio(POR MI)-2015\Junio2015\Junio2015\obj\Debug\net5.0\Junio2015.genruntimeconfig.cache

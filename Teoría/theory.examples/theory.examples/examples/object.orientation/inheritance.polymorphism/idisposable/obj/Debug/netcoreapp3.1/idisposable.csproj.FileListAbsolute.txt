@@ -1,0 +1,12 @@
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\inheritance.polymorphism\idisposable\bin\Debug\netcoreapp3.1\idisposable.exe
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\inheritance.polymorphism\idisposable\bin\Debug\netcoreapp3.1\idisposable.deps.json
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\inheritance.polymorphism\idisposable\bin\Debug\netcoreapp3.1\idisposable.runtimeconfig.json
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\inheritance.polymorphism\idisposable\bin\Debug\netcoreapp3.1\idisposable.runtimeconfig.dev.json
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\inheritance.polymorphism\idisposable\bin\Debug\netcoreapp3.1\idisposable.dll
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\inheritance.polymorphism\idisposable\bin\Debug\netcoreapp3.1\idisposable.pdb
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\inheritance.polymorphism\idisposable\obj\Debug\netcoreapp3.1\idisposable.csproj.AssemblyReference.cache
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\inheritance.polymorphism\idisposable\obj\Debug\netcoreapp3.1\idisposable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\inheritance.polymorphism\idisposable\obj\Debug\netcoreapp3.1\idisposable.csproj.CoreCompileInputs.cache
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\inheritance.polymorphism\idisposable\obj\Debug\netcoreapp3.1\idisposable.dll
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\inheritance.polymorphism\idisposable\obj\Debug\netcoreapp3.1\idisposable.pdb
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\inheritance.polymorphism\idisposable\obj\Debug\netcoreapp3.1\idisposable.genruntimeconfig.cache

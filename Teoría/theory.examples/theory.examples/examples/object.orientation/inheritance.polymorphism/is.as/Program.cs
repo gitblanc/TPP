@@ -23,7 +23,7 @@ namespace TPP.ObjectOrientation.InheritancePolymorphism {
             Console.WriteLine(john);
             // * To make sure it is a Person, we can use the is operator
             if (vector[0] is Person)
-                ((Person)vector[0]).Birthday();
+                ((Person)vector[0]).Birthday();//age++
             Console.WriteLine(john);
             // * The previous code uses is and a cast, and both operations have 
             //   low runtime performance

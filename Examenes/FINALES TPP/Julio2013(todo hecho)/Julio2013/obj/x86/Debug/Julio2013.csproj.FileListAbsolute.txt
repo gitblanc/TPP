@@ -1,0 +1,20 @@
+C:\Documents and Settings\despacho\Escritorio\Julio2013\Julio2013\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\despacho\Escritorio\Julio2013\Julio2013\bin\Debug\Julio2013.exe
+C:\Documents and Settings\despacho\Escritorio\Julio2013\Julio2013\bin\Debug\Julio2013.pdb
+C:\Documents and Settings\despacho\Escritorio\Julio2013\Julio2013\obj\x86\Debug\Julio2013.exe
+C:\Documents and Settings\despacho\Escritorio\Julio2013\Julio2013\obj\x86\Debug\Julio2013.pdb
+C:\Documents and Settings\despacho\Escritorio\Julio2013(parte hecho)\Julio2013\obj\x86\Debug\Julio2013.exe
+C:\Documents and Settings\despacho\Escritorio\Julio2013(parte hecho)\Julio2013\obj\x86\Debug\Julio2013.pdb
+C:\Documents and Settings\despacho\Escritorio\Julio2013(parte hecho)\Julio2013\bin\Debug\Julio2013.exe
+C:\Documents and Settings\despacho\Escritorio\Julio2013(parte hecho)\Julio2013\bin\Debug\Julio2013.pdb
+C:\Documents and Settings\despacho\Escritorio\Julio2013(parte hecho)\Julio2013\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Adeka\Desktop\Impartir-TPP\Julio2013(casi hecho)\Julio2013\obj\x86\Debug\Julio2013.exe
+C:\Users\Adeka\Desktop\Impartir-TPP\Julio2013(casi hecho)\Julio2013\obj\x86\Debug\Julio2013.pdb
+C:\Users\Adeka\Desktop\Impartir-TPP\Julio2013(casi hecho)\Julio2013\bin\Debug\Julio2013.exe
+C:\Users\Adeka\Desktop\Impartir-TPP\Julio2013(casi hecho)\Julio2013\bin\Debug\Julio2013.pdb
+C:\Users\Adeka\Desktop\Impartir-TPP\Julio2013(casi hecho)\Julio2013\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Impartir-TPP\Julio2013(casi hecho)\Julio2013\obj\x86\Debug\Julio2013.exe
+D:\Impartir-TPP\Julio2013(casi hecho)\Julio2013\obj\x86\Debug\Julio2013.pdb
+D:\Impartir-TPP\Julio2013(casi hecho)\Julio2013\bin\Debug\Julio2013.exe
+D:\Impartir-TPP\Julio2013(casi hecho)\Julio2013\bin\Debug\Julio2013.pdb
+D:\Impartir-TPP\Julio2013(casi hecho)\Julio2013\obj\x86\Debug\ResolveAssemblyReference.cache

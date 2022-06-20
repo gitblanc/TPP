@@ -1,0 +1,12 @@
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\inheritance.polymorphism\is.as\bin\Debug\netcoreapp3.1\@is.@as.exe
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\inheritance.polymorphism\is.as\bin\Debug\netcoreapp3.1\@is.@as.deps.json
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\inheritance.polymorphism\is.as\bin\Debug\netcoreapp3.1\@is.@as.runtimeconfig.json
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\inheritance.polymorphism\is.as\bin\Debug\netcoreapp3.1\@is.@as.runtimeconfig.dev.json
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\inheritance.polymorphism\is.as\bin\Debug\netcoreapp3.1\@is.@as.dll
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\inheritance.polymorphism\is.as\bin\Debug\netcoreapp3.1\@is.@as.pdb
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\inheritance.polymorphism\is.as\obj\Debug\netcoreapp3.1\is.as.csproj.AssemblyReference.cache
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\inheritance.polymorphism\is.as\obj\Debug\netcoreapp3.1\is.as.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\inheritance.polymorphism\is.as\obj\Debug\netcoreapp3.1\is.as.csproj.CoreCompileInputs.cache
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\inheritance.polymorphism\is.as\obj\Debug\netcoreapp3.1\@is.@as.dll
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\inheritance.polymorphism\is.as\obj\Debug\netcoreapp3.1\@is.@as.pdb
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\inheritance.polymorphism\is.as\obj\Debug\netcoreapp3.1\is.as.genruntimeconfig.cache

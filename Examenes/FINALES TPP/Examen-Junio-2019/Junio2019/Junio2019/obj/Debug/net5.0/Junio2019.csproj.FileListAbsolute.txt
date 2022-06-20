@@ -1,0 +1,16 @@
+C:\Users\SARA\source\repos\Junio2019\Junio2019\bin\Debug\net5.0\Junio2019.exe
+C:\Users\SARA\source\repos\Junio2019\Junio2019\bin\Debug\net5.0\Junio2019.deps.json
+C:\Users\SARA\source\repos\Junio2019\Junio2019\bin\Debug\net5.0\Junio2019.runtimeconfig.json
+C:\Users\SARA\source\repos\Junio2019\Junio2019\bin\Debug\net5.0\Junio2019.runtimeconfig.dev.json
+C:\Users\SARA\source\repos\Junio2019\Junio2019\bin\Debug\net5.0\Junio2019.dll
+C:\Users\SARA\source\repos\Junio2019\Junio2019\bin\Debug\net5.0\ref\Junio2019.dll
+C:\Users\SARA\source\repos\Junio2019\Junio2019\bin\Debug\net5.0\Junio2019.pdb
+C:\Users\SARA\source\repos\Junio2019\Junio2019\obj\Debug\net5.0\Junio2019.csprojAssemblyReference.cache
+C:\Users\SARA\source\repos\Junio2019\Junio2019\obj\Debug\net5.0\Junio2019.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SARA\source\repos\Junio2019\Junio2019\obj\Debug\net5.0\Junio2019.AssemblyInfoInputs.cache
+C:\Users\SARA\source\repos\Junio2019\Junio2019\obj\Debug\net5.0\Junio2019.AssemblyInfo.cs
+C:\Users\SARA\source\repos\Junio2019\Junio2019\obj\Debug\net5.0\Junio2019.csproj.CoreCompileInputs.cache
+C:\Users\SARA\source\repos\Junio2019\Junio2019\obj\Debug\net5.0\Junio2019.dll
+C:\Users\SARA\source\repos\Junio2019\Junio2019\obj\Debug\net5.0\ref\Junio2019.dll
+C:\Users\SARA\source\repos\Junio2019\Junio2019\obj\Debug\net5.0\Junio2019.pdb
+C:\Users\SARA\source\repos\Junio2019\Junio2019\obj\Debug\net5.0\Junio2019.genruntimeconfig.cache

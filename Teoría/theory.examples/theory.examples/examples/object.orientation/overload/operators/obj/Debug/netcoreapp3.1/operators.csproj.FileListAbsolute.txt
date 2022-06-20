@@ -1,0 +1,12 @@
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\overload\operators\bin\Debug\netcoreapp3.1\operators.exe
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\overload\operators\bin\Debug\netcoreapp3.1\operators.deps.json
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\overload\operators\bin\Debug\netcoreapp3.1\operators.runtimeconfig.json
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\overload\operators\bin\Debug\netcoreapp3.1\operators.runtimeconfig.dev.json
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\overload\operators\bin\Debug\netcoreapp3.1\operators.dll
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\overload\operators\bin\Debug\netcoreapp3.1\operators.pdb
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\overload\operators\obj\Debug\netcoreapp3.1\operators.csproj.AssemblyReference.cache
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\overload\operators\obj\Debug\netcoreapp3.1\operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\overload\operators\obj\Debug\netcoreapp3.1\operators.csproj.CoreCompileInputs.cache
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\overload\operators\obj\Debug\netcoreapp3.1\operators.dll
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\overload\operators\obj\Debug\netcoreapp3.1\operators.pdb
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\overload\operators\obj\Debug\netcoreapp3.1\operators.genruntimeconfig.cache

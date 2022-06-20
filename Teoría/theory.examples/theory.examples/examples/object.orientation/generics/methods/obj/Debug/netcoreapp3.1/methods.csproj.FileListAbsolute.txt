@@ -1,0 +1,12 @@
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\generics\methods\bin\Debug\netcoreapp3.1\methods.exe
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\generics\methods\bin\Debug\netcoreapp3.1\methods.deps.json
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\generics\methods\bin\Debug\netcoreapp3.1\methods.runtimeconfig.json
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\generics\methods\bin\Debug\netcoreapp3.1\methods.runtimeconfig.dev.json
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\generics\methods\bin\Debug\netcoreapp3.1\methods.dll
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\generics\methods\bin\Debug\netcoreapp3.1\methods.pdb
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\generics\methods\obj\Debug\netcoreapp3.1\methods.csproj.AssemblyReference.cache
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\generics\methods\obj\Debug\netcoreapp3.1\methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\generics\methods\obj\Debug\netcoreapp3.1\methods.csproj.CoreCompileInputs.cache
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\generics\methods\obj\Debug\netcoreapp3.1\methods.dll
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\generics\methods\obj\Debug\netcoreapp3.1\methods.pdb
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\generics\methods\obj\Debug\netcoreapp3.1\methods.genruntimeconfig.cache

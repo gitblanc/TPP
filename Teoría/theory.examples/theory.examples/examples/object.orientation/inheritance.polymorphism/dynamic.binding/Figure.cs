@@ -34,7 +34,7 @@ namespace TPP.ObjectOrientation.InheritancePolymorphism {
         /// <summary>
         /// Shows the figure (only if it was hidden)
         /// </summary>
-        public virtual void Show() {
+        public virtual void Show() {//clase figure
 			if (!visible) {
 				Console.WriteLine("The figure in ({0},{1}) is showed.",x,y);
 				visible=true;

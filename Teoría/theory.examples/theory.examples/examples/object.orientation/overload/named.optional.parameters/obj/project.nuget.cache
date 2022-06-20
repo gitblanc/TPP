@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+hzO6vwvxBSdJdkFl+uCzt4rOXkr58OI3v76T/vU+OzrBvXYMVibxxZa1N2mzDNQ0pbSQ3NlLs+W1YKdPX+B9Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omenp\\Desktop\\TPP\\Teoría\\theory.examples\\theory.examples\\examples\\object.orientation\\overload\\named.optional.parameters\\named.optional.parameters.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omenp\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\omenp\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

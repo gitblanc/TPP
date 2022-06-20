@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Examen24Abril2020TPP/1.0.0": {
+        "runtime": {
+          "Examen24Abril2020TPP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Examen24Abril2020TPP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\exceptions\assert\bin\Debug\netcoreapp3.1\assert.exe
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\exceptions\assert\bin\Debug\netcoreapp3.1\assert.deps.json
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\exceptions\assert\bin\Debug\netcoreapp3.1\assert.runtimeconfig.json
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\exceptions\assert\bin\Debug\netcoreapp3.1\assert.runtimeconfig.dev.json
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\exceptions\assert\bin\Debug\netcoreapp3.1\assert.dll
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\exceptions\assert\bin\Debug\netcoreapp3.1\assert.pdb
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\exceptions\assert\obj\Debug\netcoreapp3.1\assert.csproj.AssemblyReference.cache
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\exceptions\assert\obj\Debug\netcoreapp3.1\assert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\exceptions\assert\obj\Debug\netcoreapp3.1\assert.csproj.CoreCompileInputs.cache
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\exceptions\assert\obj\Debug\netcoreapp3.1\assert.dll
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\exceptions\assert\obj\Debug\netcoreapp3.1\assert.pdb
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\exceptions\assert\obj\Debug\netcoreapp3.1\assert.genruntimeconfig.cache

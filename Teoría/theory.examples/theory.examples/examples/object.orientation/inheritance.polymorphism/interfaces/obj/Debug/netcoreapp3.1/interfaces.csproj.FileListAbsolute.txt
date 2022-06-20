@@ -1,0 +1,12 @@
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\inheritance.polymorphism\interfaces\bin\Debug\netcoreapp3.1\interfaces.exe
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\inheritance.polymorphism\interfaces\bin\Debug\netcoreapp3.1\interfaces.deps.json
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\inheritance.polymorphism\interfaces\bin\Debug\netcoreapp3.1\interfaces.runtimeconfig.json
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\inheritance.polymorphism\interfaces\bin\Debug\netcoreapp3.1\interfaces.runtimeconfig.dev.json
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\inheritance.polymorphism\interfaces\bin\Debug\netcoreapp3.1\interfaces.dll
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\inheritance.polymorphism\interfaces\bin\Debug\netcoreapp3.1\interfaces.pdb
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\inheritance.polymorphism\interfaces\obj\Debug\netcoreapp3.1\interfaces.csproj.AssemblyReference.cache
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\inheritance.polymorphism\interfaces\obj\Debug\netcoreapp3.1\interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\inheritance.polymorphism\interfaces\obj\Debug\netcoreapp3.1\interfaces.csproj.CoreCompileInputs.cache
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\inheritance.polymorphism\interfaces\obj\Debug\netcoreapp3.1\interfaces.dll
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\inheritance.polymorphism\interfaces\obj\Debug\netcoreapp3.1\interfaces.pdb
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\inheritance.polymorphism\interfaces\obj\Debug\netcoreapp3.1\interfaces.genruntimeconfig.cache

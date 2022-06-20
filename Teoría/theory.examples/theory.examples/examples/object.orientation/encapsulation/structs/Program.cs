@@ -22,14 +22,14 @@ namespace TPP.ObjectOrientation.Encapsulation {
 
         static void Main() {
             const int x = 10, y = 20;
-            PointClass pointObject = new PointClass(x, y);
-            PointStruct pointStruct = new PointStruct { X = x, Y = y };
+            PointClass pointObject = new PointClass(x, y);//10 20
+            PointStruct pointStruct = new PointStruct { X = x, Y = y };//10 20
 
-            Console.WriteLine(pointObject);
-            Console.WriteLine(pointStruct);
+            Console.WriteLine(pointObject);//10 20
+            Console.WriteLine(pointStruct);//10 20
 
-            Increment(pointObject, 10, 10);
-            Increment(pointStruct, 10, 10);
+            Increment(pointObject, 10, 10);//20 30
+            Increment(pointStruct, 10, 10);//10 20
 
             Console.WriteLine(pointObject);
             // * The struct has not been modified because it is placed in the stack, and hence the parameter is copy of the argument!

@@ -1,0 +1,8 @@
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\access.levels\Project1\bin\Debug\netstandard2.0\myData.deps.json
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\access.levels\Project1\bin\Debug\netstandard2.0\myData.dll
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\access.levels\Project1\bin\Debug\netstandard2.0\myData.pdb
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\access.levels\Project1\obj\Debug\netstandard2.0\Project1.csproj.AssemblyReference.cache
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\access.levels\Project1\obj\Debug\netstandard2.0\Project1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\access.levels\Project1\obj\Debug\netstandard2.0\Project1.csproj.CoreCompileInputs.cache
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\access.levels\Project1\obj\Debug\netstandard2.0\myData.dll
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\object.orientation\access.levels\Project1\obj\Debug\netstandard2.0\myData.pdb

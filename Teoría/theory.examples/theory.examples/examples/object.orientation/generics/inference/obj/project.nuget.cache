@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "L3d0zVq0G4nsPsbwvJXNHcwx1+5P02hro1bfrcg/tRmilZt4zlLNTEP06SjbFTfkjVoXAsBXyv4K7StOQRccnw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omenp\\Desktop\\TPP\\Teoría\\theory.examples\\theory.examples\\examples\\object.orientation\\generics\\inference\\inference.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omenp\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\omenp\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
