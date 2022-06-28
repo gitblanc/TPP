@@ -1,0 +1,17 @@
+C:\Users\omenp\Desktop\TPP\Prácticas\Mis soluciones\practica6v1.0\practica6v1.0\bin\Debug\netcoreapp3.1\practica6v1.0.exe
+C:\Users\omenp\Desktop\TPP\Prácticas\Mis soluciones\practica6v1.0\practica6v1.0\bin\Debug\netcoreapp3.1\practica6v1.0.deps.json
+C:\Users\omenp\Desktop\TPP\Prácticas\Mis soluciones\practica6v1.0\practica6v1.0\bin\Debug\netcoreapp3.1\practica6v1.0.runtimeconfig.json
+C:\Users\omenp\Desktop\TPP\Prácticas\Mis soluciones\practica6v1.0\practica6v1.0\bin\Debug\netcoreapp3.1\practica6v1.0.runtimeconfig.dev.json
+C:\Users\omenp\Desktop\TPP\Prácticas\Mis soluciones\practica6v1.0\practica6v1.0\bin\Debug\netcoreapp3.1\practica6v1.0.dll
+C:\Users\omenp\Desktop\TPP\Prácticas\Mis soluciones\practica6v1.0\practica6v1.0\bin\Debug\netcoreapp3.1\practica6v1.0.pdb
+C:\Users\omenp\Desktop\TPP\Prácticas\Mis soluciones\practica6v1.0\practica6v1.0\bin\Debug\netcoreapp3.1\clases.dll
+C:\Users\omenp\Desktop\TPP\Prácticas\Mis soluciones\practica6v1.0\practica6v1.0\bin\Debug\netcoreapp3.1\clases.pdb
+C:\Users\omenp\Desktop\TPP\Prácticas\Mis soluciones\practica6v1.0\practica6v1.0\obj\Debug\netcoreapp3.1\practica6v1.0.csproj.AssemblyReference.cache
+C:\Users\omenp\Desktop\TPP\Prácticas\Mis soluciones\practica6v1.0\practica6v1.0\obj\Debug\netcoreapp3.1\practica6v1.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omenp\Desktop\TPP\Prácticas\Mis soluciones\practica6v1.0\practica6v1.0\obj\Debug\netcoreapp3.1\practica6v1.0.AssemblyInfoInputs.cache
+C:\Users\omenp\Desktop\TPP\Prácticas\Mis soluciones\practica6v1.0\practica6v1.0\obj\Debug\netcoreapp3.1\practica6v1.0.AssemblyInfo.cs
+C:\Users\omenp\Desktop\TPP\Prácticas\Mis soluciones\practica6v1.0\practica6v1.0\obj\Debug\netcoreapp3.1\practica6v1.0.csproj.CoreCompileInputs.cache
+C:\Users\omenp\Desktop\TPP\Prácticas\Mis soluciones\practica6v1.0\practica6v1.0\obj\Debug\netcoreapp3.1\practica6v1.0.csproj.CopyComplete
+C:\Users\omenp\Desktop\TPP\Prácticas\Mis soluciones\practica6v1.0\practica6v1.0\obj\Debug\netcoreapp3.1\practica6v1.0.dll
+C:\Users\omenp\Desktop\TPP\Prácticas\Mis soluciones\practica6v1.0\practica6v1.0\obj\Debug\netcoreapp3.1\practica6v1.0.pdb
+C:\Users\omenp\Desktop\TPP\Prácticas\Mis soluciones\practica6v1.0\practica6v1.0\obj\Debug\netcoreapp3.1\practica6v1.0.genruntimeconfig.cache

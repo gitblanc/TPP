@@ -1,0 +1,13 @@
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\threads\parameters\bin\Release\netcoreapp3.1\parameters.exe
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\threads\parameters\bin\Release\netcoreapp3.1\parameters.dll.config
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\threads\parameters\bin\Release\netcoreapp3.1\parameters.deps.json
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\threads\parameters\bin\Release\netcoreapp3.1\parameters.runtimeconfig.json
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\threads\parameters\bin\Release\netcoreapp3.1\parameters.runtimeconfig.dev.json
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\threads\parameters\bin\Release\netcoreapp3.1\parameters.dll
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\threads\parameters\bin\Release\netcoreapp3.1\parameters.pdb
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\threads\parameters\obj\Release\netcoreapp3.1\parameters.csproj.AssemblyReference.cache
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\threads\parameters\obj\Release\netcoreapp3.1\parameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\threads\parameters\obj\Release\netcoreapp3.1\parameters.csproj.CoreCompileInputs.cache
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\threads\parameters\obj\Release\netcoreapp3.1\parameters.dll
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\threads\parameters\obj\Release\netcoreapp3.1\parameters.pdb
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\threads\parameters\obj\Release\netcoreapp3.1\parameters.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\processes.threads\processes\bin\Release\netcoreapp3.1\processes.exe
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\processes.threads\processes\bin\Release\netcoreapp3.1\processes.deps.json
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\processes.threads\processes\bin\Release\netcoreapp3.1\processes.runtimeconfig.json
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\processes.threads\processes\bin\Release\netcoreapp3.1\processes.runtimeconfig.dev.json
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\processes.threads\processes\bin\Release\netcoreapp3.1\processes.dll
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\processes.threads\processes\bin\Release\netcoreapp3.1\processes.pdb
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\processes.threads\processes\obj\Release\netcoreapp3.1\processes.csproj.AssemblyReference.cache
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\processes.threads\processes\obj\Release\netcoreapp3.1\processes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\processes.threads\processes\obj\Release\netcoreapp3.1\processes.csproj.CoreCompileInputs.cache
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\processes.threads\processes\obj\Release\netcoreapp3.1\processes.dll
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\processes.threads\processes\obj\Release\netcoreapp3.1\processes.pdb
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\processes.threads\processes\obj\Release\netcoreapp3.1\processes.genruntimeconfig.cache

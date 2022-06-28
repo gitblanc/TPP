@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/qVto/byNyLoy1ykd3bG3tExf7fiZ6QXd6Cpge/vMR3Ef/ptpJS5knVf5FX0Hlwf6R8k8QVRmol6kHjGeZg7Hg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omenp\\Desktop\\TPP\\Teoría\\theory.examples\\theory.examples\\examples\\concurrency\\synchronization\\interlocked\\interlocked.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omenp\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\omenp\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SARA\\Desktop\\ACADEMIA TPP\\examen24Abril-2020\\SOLUCION MIA\\Examen24Abril2020TPP\\Examen24Abril2020TPP\\Examen24Abril2020TPP.csproj": {}
+    "C:\\Users\\omenp\\Desktop\\TPP\\Examenes\\FINALES TPP\\examen24Abril-2020\\SOLUCION MIA\\Examen24Abril2020TPP\\Examen24Abril2020TPP\\Examen24Abril2020TPP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SARA\\Desktop\\ACADEMIA TPP\\examen24Abril-2020\\SOLUCION MIA\\Examen24Abril2020TPP\\Examen24Abril2020TPP\\Examen24Abril2020TPP.csproj": {
+    "C:\\Users\\omenp\\Desktop\\TPP\\Examenes\\FINALES TPP\\examen24Abril-2020\\SOLUCION MIA\\Examen24Abril2020TPP\\Examen24Abril2020TPP\\Examen24Abril2020TPP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SARA\\Desktop\\ACADEMIA TPP\\examen24Abril-2020\\SOLUCION MIA\\Examen24Abril2020TPP\\Examen24Abril2020TPP\\Examen24Abril2020TPP.csproj",
+        "projectUniqueName": "C:\\Users\\omenp\\Desktop\\TPP\\Examenes\\FINALES TPP\\examen24Abril-2020\\SOLUCION MIA\\Examen24Abril2020TPP\\Examen24Abril2020TPP\\Examen24Abril2020TPP.csproj",
         "projectName": "Examen24Abril2020TPP",
-        "projectPath": "C:\\Users\\SARA\\Desktop\\ACADEMIA TPP\\examen24Abril-2020\\SOLUCION MIA\\Examen24Abril2020TPP\\Examen24Abril2020TPP\\Examen24Abril2020TPP.csproj",
-        "packagesPath": "C:\\Users\\SARA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SARA\\Desktop\\ACADEMIA TPP\\examen24Abril-2020\\SOLUCION MIA\\Examen24Abril2020TPP\\Examen24Abril2020TPP\\obj\\",
+        "projectPath": "C:\\Users\\omenp\\Desktop\\TPP\\Examenes\\FINALES TPP\\examen24Abril-2020\\SOLUCION MIA\\Examen24Abril2020TPP\\Examen24Abril2020TPP\\Examen24Abril2020TPP.csproj",
+        "packagesPath": "C:\\Users\\omenp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\omenp\\Desktop\\TPP\\Examenes\\FINALES TPP\\examen24Abril-2020\\SOLUCION MIA\\Examen24Abril2020TPP\\Examen24Abril2020TPP\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\SARA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\omenp\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

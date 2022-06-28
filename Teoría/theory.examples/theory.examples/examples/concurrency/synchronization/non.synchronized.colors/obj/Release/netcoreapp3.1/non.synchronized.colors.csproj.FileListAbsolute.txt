@@ -1,0 +1,12 @@
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\synchronization\non.synchronized.colors\bin\Release\netcoreapp3.1\non.synchronized.colors.exe
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\synchronization\non.synchronized.colors\bin\Release\netcoreapp3.1\non.synchronized.colors.deps.json
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\synchronization\non.synchronized.colors\bin\Release\netcoreapp3.1\non.synchronized.colors.runtimeconfig.json
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\synchronization\non.synchronized.colors\bin\Release\netcoreapp3.1\non.synchronized.colors.runtimeconfig.dev.json
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\synchronization\non.synchronized.colors\bin\Release\netcoreapp3.1\non.synchronized.colors.dll
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\synchronization\non.synchronized.colors\bin\Release\netcoreapp3.1\non.synchronized.colors.pdb
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\synchronization\non.synchronized.colors\obj\Release\netcoreapp3.1\non.synchronized.colors.csproj.AssemblyReference.cache
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\synchronization\non.synchronized.colors\obj\Release\netcoreapp3.1\non.synchronized.colors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\synchronization\non.synchronized.colors\obj\Release\netcoreapp3.1\non.synchronized.colors.csproj.CoreCompileInputs.cache
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\synchronization\non.synchronized.colors\obj\Release\netcoreapp3.1\non.synchronized.colors.dll
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\synchronization\non.synchronized.colors\obj\Release\netcoreapp3.1\non.synchronized.colors.pdb
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\synchronization\non.synchronized.colors\obj\Release\netcoreapp3.1\non.synchronized.colors.genruntimeconfig.cache

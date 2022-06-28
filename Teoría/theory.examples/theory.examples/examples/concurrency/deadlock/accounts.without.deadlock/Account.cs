@@ -23,12 +23,12 @@ namespace TPP.Concurrency.Deadlock {
         /// <returns>Whether the transaction was successful</returns>
         /// </summary>
         public bool Withdraw(decimal amount) {
-            lock (this) {
+            //lock (this) {
                 if (this.balance < amount)
                     return false;
                 this.balance -= amount;
                 return true;
-            }
+            //}
         }
 
         /// <summary>

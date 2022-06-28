@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9S87iM1Nrt/WSKH/qcqwx9EEHERB8cbUYCtHgCe+5yjtPb/RwjZHMbHshANp5yEQzgYCP9ehPbTD9jK/Bsfg8Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omenp\\Desktop\\TPP\\Teoría\\theory.examples\\theory.examples\\examples\\concurrency\\tasks\\tasks\\task.exception\\task.exception.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omenp\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\omenp\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "KTQEsvBfk1SpZ59XV+8t8PvVWtdrLzda4ScCykGw6vnoW6XCz5OridjXLwzGKRzE0CNWrjuoOXNEu7cnwQDUQw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omenp\\Desktop\\TPP\\Teoría\\theory.examples\\theory.examples\\examples\\concurrency\\tasks\\tasks\\task.free.variables\\task.free.variables.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omenp\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\omenp\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

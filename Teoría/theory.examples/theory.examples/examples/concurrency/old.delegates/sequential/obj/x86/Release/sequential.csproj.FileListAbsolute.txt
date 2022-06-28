@@ -1,0 +1,8 @@
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\old.delegates\sequential\bin\Release\sequential.exe.config
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\old.delegates\sequential\bin\Release\sequential.exe
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\old.delegates\sequential\bin\Release\sequential.pdb
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\old.delegates\sequential\obj\x86\Release\sequential.csproj.AssemblyReference.cache
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\old.delegates\sequential\obj\x86\Release\sequential.csproj.SuggestedBindingRedirects.cache
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\old.delegates\sequential\obj\x86\Release\sequential.csproj.CoreCompileInputs.cache
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\old.delegates\sequential\obj\x86\Release\sequential.exe
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\old.delegates\sequential\obj\x86\Release\sequential.pdb

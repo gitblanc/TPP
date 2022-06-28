@@ -1,0 +1,14 @@
+C:\Users\omenp\Desktop\TPP\Seminarios\seminario6\ejemplos\filosofos\bin\Debug\net5.0\filosofos.exe
+C:\Users\omenp\Desktop\TPP\Seminarios\seminario6\ejemplos\filosofos\bin\Debug\net5.0\filosofos.deps.json
+C:\Users\omenp\Desktop\TPP\Seminarios\seminario6\ejemplos\filosofos\bin\Debug\net5.0\filosofos.runtimeconfig.json
+C:\Users\omenp\Desktop\TPP\Seminarios\seminario6\ejemplos\filosofos\bin\Debug\net5.0\filosofos.runtimeconfig.dev.json
+C:\Users\omenp\Desktop\TPP\Seminarios\seminario6\ejemplos\filosofos\bin\Debug\net5.0\filosofos.dll
+C:\Users\omenp\Desktop\TPP\Seminarios\seminario6\ejemplos\filosofos\bin\Debug\net5.0\filosofos.pdb
+C:\Users\omenp\Desktop\TPP\Seminarios\seminario6\ejemplos\filosofos\obj\Debug\net5.0\filosofos.csproj.AssemblyReference.cache
+C:\Users\omenp\Desktop\TPP\Seminarios\seminario6\ejemplos\filosofos\obj\Debug\net5.0\filosofos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omenp\Desktop\TPP\Seminarios\seminario6\ejemplos\filosofos\obj\Debug\net5.0\filosofos.csproj.CoreCompileInputs.cache
+C:\Users\omenp\Desktop\TPP\Seminarios\seminario6\ejemplos\filosofos\obj\Debug\net5.0\filosofos.dll
+C:\Users\omenp\Desktop\TPP\Seminarios\seminario6\ejemplos\filosofos\obj\Debug\net5.0\refint\filosofos.dll
+C:\Users\omenp\Desktop\TPP\Seminarios\seminario6\ejemplos\filosofos\obj\Debug\net5.0\filosofos.pdb
+C:\Users\omenp\Desktop\TPP\Seminarios\seminario6\ejemplos\filosofos\obj\Debug\net5.0\filosofos.genruntimeconfig.cache
+C:\Users\omenp\Desktop\TPP\Seminarios\seminario6\ejemplos\filosofos\obj\Debug\net5.0\ref\filosofos.dll

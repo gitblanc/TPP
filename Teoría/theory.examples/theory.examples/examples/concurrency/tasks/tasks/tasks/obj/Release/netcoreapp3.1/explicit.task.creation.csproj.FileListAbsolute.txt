@@ -1,0 +1,13 @@
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\tasks\tasks\tasks\bin\Release\netcoreapp3.1\tasks.exe
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\tasks\tasks\tasks\bin\Release\netcoreapp3.1\tasks.dll.config
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\tasks\tasks\tasks\bin\Release\netcoreapp3.1\tasks.deps.json
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\tasks\tasks\tasks\bin\Release\netcoreapp3.1\tasks.runtimeconfig.json
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\tasks\tasks\tasks\bin\Release\netcoreapp3.1\tasks.runtimeconfig.dev.json
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\tasks\tasks\tasks\bin\Release\netcoreapp3.1\tasks.dll
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\tasks\tasks\tasks\bin\Release\netcoreapp3.1\tasks.pdb
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\tasks\tasks\tasks\obj\Release\netcoreapp3.1\explicit.task.creation.csproj.AssemblyReference.cache
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\tasks\tasks\tasks\obj\Release\netcoreapp3.1\explicit.task.creation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\tasks\tasks\tasks\obj\Release\netcoreapp3.1\explicit.task.creation.csproj.CoreCompileInputs.cache
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\tasks\tasks\tasks\obj\Release\netcoreapp3.1\tasks.dll
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\tasks\tasks\tasks\obj\Release\netcoreapp3.1\tasks.pdb
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\tasks\tasks\tasks\obj\Release\netcoreapp3.1\explicit.task.creation.genruntimeconfig.cache

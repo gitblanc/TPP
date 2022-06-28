@@ -1,0 +1,13 @@
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\threads\bound.variables\bin\Release\netcoreapp3.1\bound.variables.exe
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\threads\bound.variables\bin\Release\netcoreapp3.1\bound.variables.dll.config
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\threads\bound.variables\bin\Release\netcoreapp3.1\bound.variables.deps.json
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\threads\bound.variables\bin\Release\netcoreapp3.1\bound.variables.runtimeconfig.json
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\threads\bound.variables\bin\Release\netcoreapp3.1\bound.variables.runtimeconfig.dev.json
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\threads\bound.variables\bin\Release\netcoreapp3.1\bound.variables.dll
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\threads\bound.variables\bin\Release\netcoreapp3.1\bound.variables.pdb
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\threads\bound.variables\obj\Release\netcoreapp3.1\bound.variables.csproj.AssemblyReference.cache
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\threads\bound.variables\obj\Release\netcoreapp3.1\bound.variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\threads\bound.variables\obj\Release\netcoreapp3.1\bound.variables.csproj.CoreCompileInputs.cache
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\threads\bound.variables\obj\Release\netcoreapp3.1\bound.variables.dll
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\threads\bound.variables\obj\Release\netcoreapp3.1\bound.variables.pdb
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\threads\bound.variables\obj\Release\netcoreapp3.1\bound.variables.genruntimeconfig.cache

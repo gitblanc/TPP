@@ -1,0 +1,14 @@
+C:\Users\omenp\Desktop\TPP\Prácticas\Mis soluciones\Examen-Junio-2019\Junio2019\Junio2019\bin\Debug\netcoreapp3.1\Junio2019.exe
+C:\Users\omenp\Desktop\TPP\Prácticas\Mis soluciones\Examen-Junio-2019\Junio2019\Junio2019\bin\Debug\netcoreapp3.1\Junio2019.deps.json
+C:\Users\omenp\Desktop\TPP\Prácticas\Mis soluciones\Examen-Junio-2019\Junio2019\Junio2019\bin\Debug\netcoreapp3.1\Junio2019.runtimeconfig.json
+C:\Users\omenp\Desktop\TPP\Prácticas\Mis soluciones\Examen-Junio-2019\Junio2019\Junio2019\bin\Debug\netcoreapp3.1\Junio2019.runtimeconfig.dev.json
+C:\Users\omenp\Desktop\TPP\Prácticas\Mis soluciones\Examen-Junio-2019\Junio2019\Junio2019\bin\Debug\netcoreapp3.1\Junio2019.dll
+C:\Users\omenp\Desktop\TPP\Prácticas\Mis soluciones\Examen-Junio-2019\Junio2019\Junio2019\bin\Debug\netcoreapp3.1\Junio2019.pdb
+C:\Users\omenp\Desktop\TPP\Prácticas\Mis soluciones\Examen-Junio-2019\Junio2019\Junio2019\obj\Debug\netcoreapp3.1\Junio2019.csproj.AssemblyReference.cache
+C:\Users\omenp\Desktop\TPP\Prácticas\Mis soluciones\Examen-Junio-2019\Junio2019\Junio2019\obj\Debug\netcoreapp3.1\Junio2019.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omenp\Desktop\TPP\Prácticas\Mis soluciones\Examen-Junio-2019\Junio2019\Junio2019\obj\Debug\netcoreapp3.1\Junio2019.AssemblyInfoInputs.cache
+C:\Users\omenp\Desktop\TPP\Prácticas\Mis soluciones\Examen-Junio-2019\Junio2019\Junio2019\obj\Debug\netcoreapp3.1\Junio2019.AssemblyInfo.cs
+C:\Users\omenp\Desktop\TPP\Prácticas\Mis soluciones\Examen-Junio-2019\Junio2019\Junio2019\obj\Debug\netcoreapp3.1\Junio2019.csproj.CoreCompileInputs.cache
+C:\Users\omenp\Desktop\TPP\Prácticas\Mis soluciones\Examen-Junio-2019\Junio2019\Junio2019\obj\Debug\netcoreapp3.1\Junio2019.dll
+C:\Users\omenp\Desktop\TPP\Prácticas\Mis soluciones\Examen-Junio-2019\Junio2019\Junio2019\obj\Debug\netcoreapp3.1\Junio2019.pdb
+C:\Users\omenp\Desktop\TPP\Prácticas\Mis soluciones\Examen-Junio-2019\Junio2019\Junio2019\obj\Debug\netcoreapp3.1\Junio2019.genruntimeconfig.cache

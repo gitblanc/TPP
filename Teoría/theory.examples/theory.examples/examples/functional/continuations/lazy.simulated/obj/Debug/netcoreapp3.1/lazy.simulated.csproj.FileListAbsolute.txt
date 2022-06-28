@@ -1,0 +1,12 @@
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\functional\continuations\lazy.simulated\bin\Debug\netcoreapp3.1\lazy.simulated.exe
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\functional\continuations\lazy.simulated\bin\Debug\netcoreapp3.1\lazy.simulated.deps.json
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\functional\continuations\lazy.simulated\bin\Debug\netcoreapp3.1\lazy.simulated.runtimeconfig.json
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\functional\continuations\lazy.simulated\bin\Debug\netcoreapp3.1\lazy.simulated.runtimeconfig.dev.json
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\functional\continuations\lazy.simulated\bin\Debug\netcoreapp3.1\lazy.simulated.dll
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\functional\continuations\lazy.simulated\bin\Debug\netcoreapp3.1\lazy.simulated.pdb
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\functional\continuations\lazy.simulated\obj\Debug\netcoreapp3.1\lazy.simulated.csproj.AssemblyReference.cache
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\functional\continuations\lazy.simulated\obj\Debug\netcoreapp3.1\lazy.simulated.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\functional\continuations\lazy.simulated\obj\Debug\netcoreapp3.1\lazy.simulated.csproj.CoreCompileInputs.cache
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\functional\continuations\lazy.simulated\obj\Debug\netcoreapp3.1\lazy.simulated.dll
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\functional\continuations\lazy.simulated\obj\Debug\netcoreapp3.1\lazy.simulated.pdb
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\functional\continuations\lazy.simulated\obj\Debug\netcoreapp3.1\lazy.simulated.genruntimeconfig.cache

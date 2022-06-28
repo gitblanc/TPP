@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "1uHUbzF4Fmu/OsgZ1R2KMSWz+4L7hAhvudsbft42yMzw5FhqPxG/U869U+W8JRgYBsPWq2Jhg1zcftS9gIIy4w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omenp\\Desktop\\TPP\\Teoría\\theory.examples\\theory.examples\\examples\\metaprogramming\\dynamic.typing\\duck.typing\\duck.typing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omenp\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\omenp\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

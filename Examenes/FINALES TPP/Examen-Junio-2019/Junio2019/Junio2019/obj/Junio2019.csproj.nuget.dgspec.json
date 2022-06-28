@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SARA\\source\\repos\\Junio2019\\Junio2019\\Junio2019.csproj": {}
+    "C:\\Users\\omenp\\Desktop\\TPP\\Examenes\\FINALES TPP\\Examen-Junio-2019\\Junio2019\\Junio2019\\Junio2019.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SARA\\source\\repos\\Junio2019\\Junio2019\\Junio2019.csproj": {
+    "C:\\Users\\omenp\\Desktop\\TPP\\Examenes\\FINALES TPP\\Examen-Junio-2019\\Junio2019\\Junio2019\\Junio2019.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SARA\\source\\repos\\Junio2019\\Junio2019\\Junio2019.csproj",
+        "projectUniqueName": "C:\\Users\\omenp\\Desktop\\TPP\\Examenes\\FINALES TPP\\Examen-Junio-2019\\Junio2019\\Junio2019\\Junio2019.csproj",
         "projectName": "Junio2019",
-        "projectPath": "C:\\Users\\SARA\\source\\repos\\Junio2019\\Junio2019\\Junio2019.csproj",
-        "packagesPath": "C:\\Users\\SARA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SARA\\source\\repos\\Junio2019\\Junio2019\\obj\\",
+        "projectPath": "C:\\Users\\omenp\\Desktop\\TPP\\Examenes\\FINALES TPP\\Examen-Junio-2019\\Junio2019\\Junio2019\\Junio2019.csproj",
+        "packagesPath": "C:\\Users\\omenp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\omenp\\Desktop\\TPP\\Examenes\\FINALES TPP\\Examen-Junio-2019\\Junio2019\\Junio2019\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\SARA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\omenp\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

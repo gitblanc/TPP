@@ -1,0 +1,14 @@
+C:\Users\omenp\Desktop\TPP\Prácticas\Mis soluciones\practicaExamen2019\cosasDeClase\obj\Debug\netcoreapp3.1\cosasDeClase.csproj.AssemblyReference.cache
+C:\Users\omenp\Desktop\TPP\Prácticas\Mis soluciones\practicaExamen2019\cosasDeClase\obj\Debug\netcoreapp3.1\cosasDeClase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omenp\Desktop\TPP\Prácticas\Mis soluciones\practicaExamen2019\cosasDeClase\obj\Debug\netcoreapp3.1\cosasDeClase.AssemblyInfoInputs.cache
+C:\Users\omenp\Desktop\TPP\Prácticas\Mis soluciones\practicaExamen2019\cosasDeClase\obj\Debug\netcoreapp3.1\cosasDeClase.AssemblyInfo.cs
+C:\Users\omenp\Desktop\TPP\Prácticas\Mis soluciones\practicaExamen2019\cosasDeClase\obj\Debug\netcoreapp3.1\cosasDeClase.csproj.CoreCompileInputs.cache
+C:\Users\omenp\Desktop\TPP\Prácticas\Mis soluciones\practicaExamen2019\cosasDeClase\bin\Debug\netcoreapp3.1\cosasDeClase.exe
+C:\Users\omenp\Desktop\TPP\Prácticas\Mis soluciones\practicaExamen2019\cosasDeClase\bin\Debug\netcoreapp3.1\cosasDeClase.deps.json
+C:\Users\omenp\Desktop\TPP\Prácticas\Mis soluciones\practicaExamen2019\cosasDeClase\bin\Debug\netcoreapp3.1\cosasDeClase.runtimeconfig.json
+C:\Users\omenp\Desktop\TPP\Prácticas\Mis soluciones\practicaExamen2019\cosasDeClase\bin\Debug\netcoreapp3.1\cosasDeClase.runtimeconfig.dev.json
+C:\Users\omenp\Desktop\TPP\Prácticas\Mis soluciones\practicaExamen2019\cosasDeClase\bin\Debug\netcoreapp3.1\cosasDeClase.dll
+C:\Users\omenp\Desktop\TPP\Prácticas\Mis soluciones\practicaExamen2019\cosasDeClase\bin\Debug\netcoreapp3.1\cosasDeClase.pdb
+C:\Users\omenp\Desktop\TPP\Prácticas\Mis soluciones\practicaExamen2019\cosasDeClase\obj\Debug\netcoreapp3.1\cosasDeClase.dll
+C:\Users\omenp\Desktop\TPP\Prácticas\Mis soluciones\practicaExamen2019\cosasDeClase\obj\Debug\netcoreapp3.1\cosasDeClase.pdb
+C:\Users\omenp\Desktop\TPP\Prácticas\Mis soluciones\practicaExamen2019\cosasDeClase\obj\Debug\netcoreapp3.1\cosasDeClase.genruntimeconfig.cache

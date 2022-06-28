@@ -1,0 +1,5 @@
+C:\Users\omenp\Desktop\TPP\Prácticas\Mis soluciones\practica5v1.0\practica5v1.0\obj\Debug\netcoreapp3.1\funciones.csproj.AssemblyReference.cache
+C:\Users\omenp\Desktop\TPP\Prácticas\Mis soluciones\practica5v1.0\practica5v1.0\obj\Debug\netcoreapp3.1\funciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omenp\Desktop\TPP\Prácticas\Mis soluciones\practica5v1.0\practica5v1.0\obj\Debug\netcoreapp3.1\funciones.AssemblyInfoInputs.cache
+C:\Users\omenp\Desktop\TPP\Prácticas\Mis soluciones\practica5v1.0\practica5v1.0\obj\Debug\netcoreapp3.1\funciones.AssemblyInfo.cs
+C:\Users\omenp\Desktop\TPP\Prácticas\Mis soluciones\practica5v1.0\practica5v1.0\obj\Debug\netcoreapp3.1\funciones.csproj.CoreCompileInputs.cache

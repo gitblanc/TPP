@@ -1,0 +1,13 @@
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\tasks\tasks\task.run\bin\Release\netcoreapp3.1\task.run.exe
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\tasks\tasks\task.run\bin\Release\netcoreapp3.1\task.run.dll.config
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\tasks\tasks\task.run\bin\Release\netcoreapp3.1\task.run.deps.json
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\tasks\tasks\task.run\bin\Release\netcoreapp3.1\task.run.runtimeconfig.json
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\tasks\tasks\task.run\bin\Release\netcoreapp3.1\task.run.runtimeconfig.dev.json
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\tasks\tasks\task.run\bin\Release\netcoreapp3.1\task.run.dll
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\tasks\tasks\task.run\bin\Release\netcoreapp3.1\task.run.pdb
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\tasks\tasks\task.run\obj\Release\netcoreapp3.1\task.run.csproj.AssemblyReference.cache
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\tasks\tasks\task.run\obj\Release\netcoreapp3.1\task.run.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\tasks\tasks\task.run\obj\Release\netcoreapp3.1\task.run.csproj.CoreCompileInputs.cache
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\tasks\tasks\task.run\obj\Release\netcoreapp3.1\task.run.dll
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\tasks\tasks\task.run\obj\Release\netcoreapp3.1\task.run.pdb
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\tasks\tasks\task.run\obj\Release\netcoreapp3.1\task.run.genruntimeconfig.cache

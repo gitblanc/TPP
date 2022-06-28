@@ -1,0 +1,13 @@
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\ReaderWriterLockSlim\ReaderWriterLockSlim\bin\Release\netcoreapp3.1\ReaderWriterLockSlim.exe
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\ReaderWriterLockSlim\ReaderWriterLockSlim\bin\Release\netcoreapp3.1\ReaderWriterLockSlim.dll.config
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\ReaderWriterLockSlim\ReaderWriterLockSlim\bin\Release\netcoreapp3.1\ReaderWriterLockSlim.deps.json
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\ReaderWriterLockSlim\ReaderWriterLockSlim\bin\Release\netcoreapp3.1\ReaderWriterLockSlim.runtimeconfig.json
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\ReaderWriterLockSlim\ReaderWriterLockSlim\bin\Release\netcoreapp3.1\ReaderWriterLockSlim.runtimeconfig.dev.json
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\ReaderWriterLockSlim\ReaderWriterLockSlim\bin\Release\netcoreapp3.1\ReaderWriterLockSlim.dll
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\ReaderWriterLockSlim\ReaderWriterLockSlim\bin\Release\netcoreapp3.1\ReaderWriterLockSlim.pdb
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\ReaderWriterLockSlim\ReaderWriterLockSlim\obj\Release\netcoreapp3.1\ReaderWriterLockSlim.csproj.AssemblyReference.cache
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\ReaderWriterLockSlim\ReaderWriterLockSlim\obj\Release\netcoreapp3.1\ReaderWriterLockSlim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\ReaderWriterLockSlim\ReaderWriterLockSlim\obj\Release\netcoreapp3.1\ReaderWriterLockSlim.csproj.CoreCompileInputs.cache
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\ReaderWriterLockSlim\ReaderWriterLockSlim\obj\Release\netcoreapp3.1\ReaderWriterLockSlim.dll
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\ReaderWriterLockSlim\ReaderWriterLockSlim\obj\Release\netcoreapp3.1\ReaderWriterLockSlim.pdb
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\ReaderWriterLockSlim\ReaderWriterLockSlim\obj\Release\netcoreapp3.1\ReaderWriterLockSlim.genruntimeconfig.cache

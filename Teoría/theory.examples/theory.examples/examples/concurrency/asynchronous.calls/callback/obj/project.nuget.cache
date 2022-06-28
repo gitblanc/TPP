@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ha4BZ+eiebSfsUxvbb/dAn9O8Fajk1vJc3XS6cig9mWbP8uyMQJLSPrbmsc/CGUR93O2uqK4noAqgFxh9lHPhg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omenp\\Desktop\\TPP\\Teoría\\theory.examples\\theory.examples\\examples\\concurrency\\asynchronous.calls\\callback\\callback.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omenp\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\omenp\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

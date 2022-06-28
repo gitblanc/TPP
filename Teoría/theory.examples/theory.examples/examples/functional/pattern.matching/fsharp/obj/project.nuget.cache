@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bXnu1GAY2oGSoOpxXP1NIqBi1duWNMsimTo5+Ec+pr9MouuyLaMFPFmwvtq8e4PQYbgFglRTY+03WCmGWi2LNA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omenp\\Desktop\\TPP\\Teoría\\theory.examples\\theory.examples\\examples\\functional\\pattern.matching\\fsharp\\fsharp.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omenp\\.nuget\\packages\\fsharp.core\\6.0.2\\fsharp.core.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

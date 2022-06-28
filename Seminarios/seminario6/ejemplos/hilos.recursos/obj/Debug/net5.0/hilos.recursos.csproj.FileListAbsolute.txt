@@ -1,0 +1,14 @@
+C:\Users\omenp\Desktop\TPP\Seminarios\seminario6\ejemplos\hilos.recursos\bin\Debug\net5.0\hilos.recursos.exe
+C:\Users\omenp\Desktop\TPP\Seminarios\seminario6\ejemplos\hilos.recursos\bin\Debug\net5.0\hilos.recursos.deps.json
+C:\Users\omenp\Desktop\TPP\Seminarios\seminario6\ejemplos\hilos.recursos\bin\Debug\net5.0\hilos.recursos.runtimeconfig.json
+C:\Users\omenp\Desktop\TPP\Seminarios\seminario6\ejemplos\hilos.recursos\bin\Debug\net5.0\hilos.recursos.runtimeconfig.dev.json
+C:\Users\omenp\Desktop\TPP\Seminarios\seminario6\ejemplos\hilos.recursos\bin\Debug\net5.0\hilos.recursos.dll
+C:\Users\omenp\Desktop\TPP\Seminarios\seminario6\ejemplos\hilos.recursos\bin\Debug\net5.0\hilos.recursos.pdb
+C:\Users\omenp\Desktop\TPP\Seminarios\seminario6\ejemplos\hilos.recursos\obj\Debug\net5.0\hilos.recursos.csproj.AssemblyReference.cache
+C:\Users\omenp\Desktop\TPP\Seminarios\seminario6\ejemplos\hilos.recursos\obj\Debug\net5.0\hilos.recursos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omenp\Desktop\TPP\Seminarios\seminario6\ejemplos\hilos.recursos\obj\Debug\net5.0\hilos.recursos.csproj.CoreCompileInputs.cache
+C:\Users\omenp\Desktop\TPP\Seminarios\seminario6\ejemplos\hilos.recursos\obj\Debug\net5.0\hilos.recursos.dll
+C:\Users\omenp\Desktop\TPP\Seminarios\seminario6\ejemplos\hilos.recursos\obj\Debug\net5.0\refint\hilos.recursos.dll
+C:\Users\omenp\Desktop\TPP\Seminarios\seminario6\ejemplos\hilos.recursos\obj\Debug\net5.0\hilos.recursos.pdb
+C:\Users\omenp\Desktop\TPP\Seminarios\seminario6\ejemplos\hilos.recursos\obj\Debug\net5.0\hilos.recursos.genruntimeconfig.cache
+C:\Users\omenp\Desktop\TPP\Seminarios\seminario6\ejemplos\hilos.recursos\obj\Debug\net5.0\ref\hilos.recursos.dll

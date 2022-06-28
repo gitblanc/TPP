@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Kvw2zq7ruUnBXsm37feOPoPqGXcG87LKO5CxMtZMo6+kavpXKGbk3aj/9YOaNhRlYQt1yVYTurU/RVCt03YRQQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omenp\\Desktop\\TPP\\Teoría\\theory.examples\\theory.examples\\examples\\functional\\continuations\\generators\\generators.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omenp\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\omenp\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

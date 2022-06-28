@@ -1,0 +1,12 @@
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\deadlock\accounts.without.deadlock\bin\Release\netcoreapp3.1\accounts.without.deadlock.exe
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\deadlock\accounts.without.deadlock\bin\Release\netcoreapp3.1\accounts.without.deadlock.deps.json
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\deadlock\accounts.without.deadlock\bin\Release\netcoreapp3.1\accounts.without.deadlock.runtimeconfig.json
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\deadlock\accounts.without.deadlock\bin\Release\netcoreapp3.1\accounts.without.deadlock.runtimeconfig.dev.json
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\deadlock\accounts.without.deadlock\bin\Release\netcoreapp3.1\accounts.without.deadlock.dll
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\deadlock\accounts.without.deadlock\bin\Release\netcoreapp3.1\accounts.without.deadlock.pdb
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\deadlock\accounts.without.deadlock\obj\Release\netcoreapp3.1\accounts.without.deadlock.csproj.AssemblyReference.cache
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\deadlock\accounts.without.deadlock\obj\Release\netcoreapp3.1\accounts.without.deadlock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\deadlock\accounts.without.deadlock\obj\Release\netcoreapp3.1\accounts.without.deadlock.csproj.CoreCompileInputs.cache
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\deadlock\accounts.without.deadlock\obj\Release\netcoreapp3.1\accounts.without.deadlock.dll
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\deadlock\accounts.without.deadlock\obj\Release\netcoreapp3.1\accounts.without.deadlock.pdb
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\deadlock\accounts.without.deadlock\obj\Release\netcoreapp3.1\accounts.without.deadlock.genruntimeconfig.cache

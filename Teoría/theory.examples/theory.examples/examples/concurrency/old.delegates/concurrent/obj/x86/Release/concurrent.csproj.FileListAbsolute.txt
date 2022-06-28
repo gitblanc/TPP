@@ -1,0 +1,12 @@
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\old.delegates\concurrent\bin\Release\concurrent.exe.config
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\old.delegates\concurrent\bin\Release\concurrent.exe
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\old.delegates\concurrent\bin\Release\concurrent.pdb
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\old.delegates\concurrent\bin\Release\sequential.exe
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\old.delegates\concurrent\bin\Release\sequential.pdb
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\old.delegates\concurrent\bin\Release\sequential.exe.config
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\old.delegates\concurrent\obj\x86\Release\concurrent.csproj.AssemblyReference.cache
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\old.delegates\concurrent\obj\x86\Release\concurrent.csproj.SuggestedBindingRedirects.cache
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\old.delegates\concurrent\obj\x86\Release\concurrent.csproj.CoreCompileInputs.cache
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\old.delegates\concurrent\obj\x86\Release\concurrent.csproj.CopyComplete
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\old.delegates\concurrent\obj\x86\Release\concurrent.exe
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\old.delegates\concurrent\obj\x86\Release\concurrent.pdb

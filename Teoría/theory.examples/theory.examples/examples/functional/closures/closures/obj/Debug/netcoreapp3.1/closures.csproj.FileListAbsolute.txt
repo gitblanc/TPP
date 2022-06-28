@@ -1,0 +1,12 @@
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\functional\closures\closures\bin\Debug\netcoreapp3.1\closures.exe
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\functional\closures\closures\bin\Debug\netcoreapp3.1\closures.deps.json
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\functional\closures\closures\bin\Debug\netcoreapp3.1\closures.runtimeconfig.json
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\functional\closures\closures\bin\Debug\netcoreapp3.1\closures.runtimeconfig.dev.json
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\functional\closures\closures\bin\Debug\netcoreapp3.1\closures.dll
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\functional\closures\closures\bin\Debug\netcoreapp3.1\closures.pdb
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\functional\closures\closures\obj\Debug\netcoreapp3.1\closures.csproj.AssemblyReference.cache
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\functional\closures\closures\obj\Debug\netcoreapp3.1\closures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\functional\closures\closures\obj\Debug\netcoreapp3.1\closures.csproj.CoreCompileInputs.cache
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\functional\closures\closures\obj\Debug\netcoreapp3.1\closures.dll
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\functional\closures\closures\obj\Debug\netcoreapp3.1\closures.pdb
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\functional\closures\closures\obj\Debug\netcoreapp3.1\closures.genruntimeconfig.cache

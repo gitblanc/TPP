@@ -1,0 +1,8 @@
+C:\Users\omenp\Desktop\TPP\Prácticas\Mis soluciones\practica8\model\bin\Debug\netstandard2.0\model.deps.json
+C:\Users\omenp\Desktop\TPP\Prácticas\Mis soluciones\practica8\model\bin\Debug\netstandard2.0\model.dll
+C:\Users\omenp\Desktop\TPP\Prácticas\Mis soluciones\practica8\model\bin\Debug\netstandard2.0\model.pdb
+C:\Users\omenp\Desktop\TPP\Prácticas\Mis soluciones\practica8\model\obj\Debug\netstandard2.0\model.csproj.AssemblyReference.cache
+C:\Users\omenp\Desktop\TPP\Prácticas\Mis soluciones\practica8\model\obj\Debug\netstandard2.0\model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omenp\Desktop\TPP\Prácticas\Mis soluciones\practica8\model\obj\Debug\netstandard2.0\model.csproj.CoreCompileInputs.cache
+C:\Users\omenp\Desktop\TPP\Prácticas\Mis soluciones\practica8\model\obj\Debug\netstandard2.0\model.dll
+C:\Users\omenp\Desktop\TPP\Prácticas\Mis soluciones\practica8\model\obj\Debug\netstandard2.0\model.pdb

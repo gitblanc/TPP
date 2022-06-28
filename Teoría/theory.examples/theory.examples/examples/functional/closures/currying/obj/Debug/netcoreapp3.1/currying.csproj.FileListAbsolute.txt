@@ -1,0 +1,12 @@
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\functional\closures\Currying\bin\Debug\netcoreapp3.1\currying.exe
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\functional\closures\Currying\bin\Debug\netcoreapp3.1\currying.deps.json
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\functional\closures\Currying\bin\Debug\netcoreapp3.1\currying.runtimeconfig.json
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\functional\closures\Currying\bin\Debug\netcoreapp3.1\currying.runtimeconfig.dev.json
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\functional\closures\Currying\bin\Debug\netcoreapp3.1\currying.dll
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\functional\closures\Currying\bin\Debug\netcoreapp3.1\currying.pdb
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\functional\closures\Currying\obj\Debug\netcoreapp3.1\currying.csproj.AssemblyReference.cache
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\functional\closures\Currying\obj\Debug\netcoreapp3.1\currying.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\functional\closures\Currying\obj\Debug\netcoreapp3.1\currying.csproj.CoreCompileInputs.cache
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\functional\closures\Currying\obj\Debug\netcoreapp3.1\currying.dll
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\functional\closures\Currying\obj\Debug\netcoreapp3.1\currying.pdb
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\functional\closures\Currying\obj\Debug\netcoreapp3.1\currying.genruntimeconfig.cache

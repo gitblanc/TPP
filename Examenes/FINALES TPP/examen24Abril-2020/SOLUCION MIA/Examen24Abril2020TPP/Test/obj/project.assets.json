@@ -4639,19 +4639,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\SARA\\.nuget\\packages\\": {}
+    "C:\\Users\\omenp\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SARA\\Desktop\\ACADEMIA TPP\\examen24Abril-2020\\SOLUCION MIA\\Examen24Abril2020TPP\\Test\\Test.csproj",
+      "projectUniqueName": "C:\\Users\\omenp\\Desktop\\TPP\\Examenes\\FINALES TPP\\examen24Abril-2020\\SOLUCION MIA\\Examen24Abril2020TPP\\Test\\Test.csproj",
       "projectName": "Test",
-      "projectPath": "C:\\Users\\SARA\\Desktop\\ACADEMIA TPP\\examen24Abril-2020\\SOLUCION MIA\\Examen24Abril2020TPP\\Test\\Test.csproj",
-      "packagesPath": "C:\\Users\\SARA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SARA\\Desktop\\ACADEMIA TPP\\examen24Abril-2020\\SOLUCION MIA\\Examen24Abril2020TPP\\Test\\obj\\",
+      "projectPath": "C:\\Users\\omenp\\Desktop\\TPP\\Examenes\\FINALES TPP\\examen24Abril-2020\\SOLUCION MIA\\Examen24Abril2020TPP\\Test\\Test.csproj",
+      "packagesPath": "C:\\Users\\omenp\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\omenp\\Desktop\\TPP\\Examenes\\FINALES TPP\\examen24Abril-2020\\SOLUCION MIA\\Examen24Abril2020TPP\\Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\SARA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\omenp\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4665,8 +4665,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\SARA\\Desktop\\ACADEMIA TPP\\examen24Abril-2020\\SOLUCION MIA\\Examen24Abril2020TPP\\Examen24Abril2020TPP\\Examen24Abril2020TPP.csproj": {
-              "projectPath": "C:\\Users\\SARA\\Desktop\\ACADEMIA TPP\\examen24Abril-2020\\SOLUCION MIA\\Examen24Abril2020TPP\\Examen24Abril2020TPP\\Examen24Abril2020TPP.csproj"
+            "C:\\Users\\omenp\\Desktop\\TPP\\Examenes\\FINALES TPP\\examen24Abril-2020\\SOLUCION MIA\\Examen24Abril2020TPP\\Examen24Abril2020TPP\\Examen24Abril2020TPP.csproj": {
+              "projectPath": "C:\\Users\\omenp\\Desktop\\TPP\\Examenes\\FINALES TPP\\examen24Abril-2020\\SOLUCION MIA\\Examen24Abril2020TPP\\Examen24Abril2020TPP\\Examen24Abril2020TPP.csproj"
             }
           }
         }
@@ -4709,7 +4709,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

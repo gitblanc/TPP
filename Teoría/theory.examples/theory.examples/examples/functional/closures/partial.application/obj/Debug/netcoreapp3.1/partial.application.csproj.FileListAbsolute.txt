@@ -1,0 +1,12 @@
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\functional\closures\partial.application\bin\Debug\netcoreapp3.1\partial.application.exe
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\functional\closures\partial.application\bin\Debug\netcoreapp3.1\partial.application.deps.json
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\functional\closures\partial.application\bin\Debug\netcoreapp3.1\partial.application.runtimeconfig.json
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\functional\closures\partial.application\bin\Debug\netcoreapp3.1\partial.application.runtimeconfig.dev.json
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\functional\closures\partial.application\bin\Debug\netcoreapp3.1\partial.application.dll
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\functional\closures\partial.application\bin\Debug\netcoreapp3.1\partial.application.pdb
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\functional\closures\partial.application\obj\Debug\netcoreapp3.1\partial.application.csproj.AssemblyReference.cache
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\functional\closures\partial.application\obj\Debug\netcoreapp3.1\partial.application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\functional\closures\partial.application\obj\Debug\netcoreapp3.1\partial.application.csproj.CoreCompileInputs.cache
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\functional\closures\partial.application\obj\Debug\netcoreapp3.1\partial.application.dll
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\functional\closures\partial.application\obj\Debug\netcoreapp3.1\partial.application.pdb
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\functional\closures\partial.application\obj\Debug\netcoreapp3.1\partial.application.genruntimeconfig.cache

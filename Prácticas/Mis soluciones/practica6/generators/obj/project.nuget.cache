@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "o5dOpAD7XSg5UdcA4fAB1VgN37S8Zsiz5M9i9W6GLm0gJmg+omkpbM1zZNySnFHdpxH6SmadFm6L9Ab6Hz9YYw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omenp\\Desktop\\TPP\\Prácticas\\Mis soluciones\\practica6\\generators\\generators.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omenp\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\omenp\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

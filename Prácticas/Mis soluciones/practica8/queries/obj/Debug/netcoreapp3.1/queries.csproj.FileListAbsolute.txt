@@ -1,0 +1,15 @@
+C:\Users\omenp\Desktop\TPP\Prácticas\Mis soluciones\practica8\queries\bin\Debug\netcoreapp3.1\queries.exe
+C:\Users\omenp\Desktop\TPP\Prácticas\Mis soluciones\practica8\queries\bin\Debug\netcoreapp3.1\queries.deps.json
+C:\Users\omenp\Desktop\TPP\Prácticas\Mis soluciones\practica8\queries\bin\Debug\netcoreapp3.1\queries.runtimeconfig.json
+C:\Users\omenp\Desktop\TPP\Prácticas\Mis soluciones\practica8\queries\bin\Debug\netcoreapp3.1\queries.runtimeconfig.dev.json
+C:\Users\omenp\Desktop\TPP\Prácticas\Mis soluciones\practica8\queries\bin\Debug\netcoreapp3.1\queries.dll
+C:\Users\omenp\Desktop\TPP\Prácticas\Mis soluciones\practica8\queries\bin\Debug\netcoreapp3.1\queries.pdb
+C:\Users\omenp\Desktop\TPP\Prácticas\Mis soluciones\practica8\queries\bin\Debug\netcoreapp3.1\model.dll
+C:\Users\omenp\Desktop\TPP\Prácticas\Mis soluciones\practica8\queries\bin\Debug\netcoreapp3.1\model.pdb
+C:\Users\omenp\Desktop\TPP\Prácticas\Mis soluciones\practica8\queries\obj\Debug\netcoreapp3.1\queries.csproj.AssemblyReference.cache
+C:\Users\omenp\Desktop\TPP\Prácticas\Mis soluciones\practica8\queries\obj\Debug\netcoreapp3.1\queries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omenp\Desktop\TPP\Prácticas\Mis soluciones\practica8\queries\obj\Debug\netcoreapp3.1\queries.csproj.CoreCompileInputs.cache
+C:\Users\omenp\Desktop\TPP\Prácticas\Mis soluciones\practica8\queries\obj\Debug\netcoreapp3.1\queries.csproj.CopyComplete
+C:\Users\omenp\Desktop\TPP\Prácticas\Mis soluciones\practica8\queries\obj\Debug\netcoreapp3.1\queries.dll
+C:\Users\omenp\Desktop\TPP\Prácticas\Mis soluciones\practica8\queries\obj\Debug\netcoreapp3.1\queries.pdb
+C:\Users\omenp\Desktop\TPP\Prácticas\Mis soluciones\practica8\queries\obj\Debug\netcoreapp3.1\queries.genruntimeconfig.cache

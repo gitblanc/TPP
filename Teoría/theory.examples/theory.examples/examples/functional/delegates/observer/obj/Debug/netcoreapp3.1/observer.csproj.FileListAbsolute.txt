@@ -1,0 +1,12 @@
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\functional\delegates\observer\bin\Debug\netcoreapp3.1\observer.exe
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\functional\delegates\observer\bin\Debug\netcoreapp3.1\observer.deps.json
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\functional\delegates\observer\bin\Debug\netcoreapp3.1\observer.runtimeconfig.json
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\functional\delegates\observer\bin\Debug\netcoreapp3.1\observer.runtimeconfig.dev.json
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\functional\delegates\observer\bin\Debug\netcoreapp3.1\observer.dll
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\functional\delegates\observer\bin\Debug\netcoreapp3.1\observer.pdb
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\functional\delegates\observer\obj\Debug\netcoreapp3.1\observer.csproj.AssemblyReference.cache
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\functional\delegates\observer\obj\Debug\netcoreapp3.1\observer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\functional\delegates\observer\obj\Debug\netcoreapp3.1\observer.csproj.CoreCompileInputs.cache
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\functional\delegates\observer\obj\Debug\netcoreapp3.1\observer.dll
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\functional\delegates\observer\obj\Debug\netcoreapp3.1\observer.pdb
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\functional\delegates\observer\obj\Debug\netcoreapp3.1\observer.genruntimeconfig.cache

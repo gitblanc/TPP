@@ -11,7 +11,7 @@ namespace TPP.Concurrency.Delegates {
             WebPage school = new WebPage("http://www.ingenieriainformatica.uniovi.es");
 
             DateTime before = DateTime.Now;
-            int numberOfImgsInUniovi = uniovi.GetNumberOfImages();
+            int numberOfImgsInUniovi = uniovi.GetNumberOfImages();//llamada síncrona (secuencial)
             int numberOfImgsInSchool = school.GetNumberOfImages();
             DateTime after = DateTime.Now;
 

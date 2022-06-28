@@ -1,0 +1,12 @@
+C:\Users\omenp\Desktop\TPP\Prácticas\Mis soluciones\practica9\vector.modulus\bin\Debug\netcoreapp3.1\vector.modulus.exe
+C:\Users\omenp\Desktop\TPP\Prácticas\Mis soluciones\practica9\vector.modulus\bin\Debug\netcoreapp3.1\vector.modulus.deps.json
+C:\Users\omenp\Desktop\TPP\Prácticas\Mis soluciones\practica9\vector.modulus\bin\Debug\netcoreapp3.1\vector.modulus.runtimeconfig.json
+C:\Users\omenp\Desktop\TPP\Prácticas\Mis soluciones\practica9\vector.modulus\bin\Debug\netcoreapp3.1\vector.modulus.runtimeconfig.dev.json
+C:\Users\omenp\Desktop\TPP\Prácticas\Mis soluciones\practica9\vector.modulus\bin\Debug\netcoreapp3.1\vector.modulus.dll
+C:\Users\omenp\Desktop\TPP\Prácticas\Mis soluciones\practica9\vector.modulus\bin\Debug\netcoreapp3.1\vector.modulus.pdb
+C:\Users\omenp\Desktop\TPP\Prácticas\Mis soluciones\practica9\vector.modulus\obj\Debug\netcoreapp3.1\vector.modulus.csproj.AssemblyReference.cache
+C:\Users\omenp\Desktop\TPP\Prácticas\Mis soluciones\practica9\vector.modulus\obj\Debug\netcoreapp3.1\vector.modulus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omenp\Desktop\TPP\Prácticas\Mis soluciones\practica9\vector.modulus\obj\Debug\netcoreapp3.1\vector.modulus.csproj.CoreCompileInputs.cache
+C:\Users\omenp\Desktop\TPP\Prácticas\Mis soluciones\practica9\vector.modulus\obj\Debug\netcoreapp3.1\vector.modulus.dll
+C:\Users\omenp\Desktop\TPP\Prácticas\Mis soluciones\practica9\vector.modulus\obj\Debug\netcoreapp3.1\vector.modulus.pdb
+C:\Users\omenp\Desktop\TPP\Prácticas\Mis soluciones\practica9\vector.modulus\obj\Debug\netcoreapp3.1\vector.modulus.genruntimeconfig.cache

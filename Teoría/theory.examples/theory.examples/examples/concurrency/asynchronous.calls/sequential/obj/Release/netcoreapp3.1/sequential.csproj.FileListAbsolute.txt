@@ -1,0 +1,12 @@
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\asynchronous.calls\sequential\bin\Release\netcoreapp3.1\sequential.exe
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\asynchronous.calls\sequential\bin\Release\netcoreapp3.1\sequential.deps.json
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\asynchronous.calls\sequential\bin\Release\netcoreapp3.1\sequential.runtimeconfig.json
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\asynchronous.calls\sequential\bin\Release\netcoreapp3.1\sequential.runtimeconfig.dev.json
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\asynchronous.calls\sequential\bin\Release\netcoreapp3.1\sequential.dll
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\asynchronous.calls\sequential\bin\Release\netcoreapp3.1\sequential.pdb
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\asynchronous.calls\sequential\obj\Release\netcoreapp3.1\sequential.csproj.AssemblyReference.cache
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\asynchronous.calls\sequential\obj\Release\netcoreapp3.1\sequential.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\asynchronous.calls\sequential\obj\Release\netcoreapp3.1\sequential.csproj.CoreCompileInputs.cache
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\asynchronous.calls\sequential\obj\Release\netcoreapp3.1\sequential.dll
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\asynchronous.calls\sequential\obj\Release\netcoreapp3.1\sequential.pdb
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\asynchronous.calls\sequential\obj\Release\netcoreapp3.1\sequential.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2I3qyysHD3rOZbLMkPxBRYDm+SvdrL9oxcGbp+UiIgFUyr8ZZ+ecrCH9KSUq/21BPKH4kY0NFzc91X/SzLgE3w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omenp\\Desktop\\TPP\\Teoría\\theory.examples\\theory.examples\\examples\\functional\\continuations\\lazy\\lazy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omenp\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\omenp\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

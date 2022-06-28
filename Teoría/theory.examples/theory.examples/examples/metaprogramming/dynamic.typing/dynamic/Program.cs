@@ -21,7 +21,7 @@ namespace TPP.ObjectOrientation.DynamicTyping {
             Console.WriteLine(Max(4.4, 3.3));
             Console.WriteLine(Max(4, 3.3));
             // No compile-time error, but runtime error
-            Console.WriteLine(Max(3.4, "no compiler error"));
+            //Console.WriteLine(Max(3.4, "no compiler error"));
 
             int[] v = new int[] { 1, 2, 3 };
             Show(Concat.dynamicConcat(1, 2), Console.Out);

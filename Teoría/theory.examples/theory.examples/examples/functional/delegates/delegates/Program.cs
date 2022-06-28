@@ -30,7 +30,7 @@ namespace TPP.Functional.Delegates {
         static void Main() {
             // * The DoubleApplication higher-order function is called, 
             //   passing the Twice function as a parameter
-            Console.WriteLine(DoubleApplication(Twice, 3));
+            Console.WriteLine(DoubleApplication(Twice, 3));//imprimirá 12
 
             Person[] people = PersonPrintout.CreatePeopleRandomly();
             // * A delegate is passed as a parameter

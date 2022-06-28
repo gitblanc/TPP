@@ -1,0 +1,13 @@
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\tasks\tasks\task.exception\bin\Release\netcoreapp3.1\task.exception.exe
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\tasks\tasks\task.exception\bin\Release\netcoreapp3.1\task.exception.dll.config
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\tasks\tasks\task.exception\bin\Release\netcoreapp3.1\task.exception.deps.json
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\tasks\tasks\task.exception\bin\Release\netcoreapp3.1\task.exception.runtimeconfig.json
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\tasks\tasks\task.exception\bin\Release\netcoreapp3.1\task.exception.runtimeconfig.dev.json
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\tasks\tasks\task.exception\bin\Release\netcoreapp3.1\task.exception.dll
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\tasks\tasks\task.exception\bin\Release\netcoreapp3.1\task.exception.pdb
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\tasks\tasks\task.exception\obj\Release\netcoreapp3.1\task.exception.csproj.AssemblyReference.cache
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\tasks\tasks\task.exception\obj\Release\netcoreapp3.1\task.exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\tasks\tasks\task.exception\obj\Release\netcoreapp3.1\task.exception.csproj.CoreCompileInputs.cache
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\tasks\tasks\task.exception\obj\Release\netcoreapp3.1\task.exception.dll
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\tasks\tasks\task.exception\obj\Release\netcoreapp3.1\task.exception.pdb
+C:\Users\omenp\Desktop\TPP\Teoría\theory.examples\theory.examples\examples\concurrency\tasks\tasks\task.exception\obj\Release\netcoreapp3.1\task.exception.genruntimeconfig.cache

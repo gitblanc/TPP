@@ -13,12 +13,12 @@ namespace TPP.Concurrency.Threads {
         static void SharedBoundVariables() {
             int local = global = 1;
             Thread thread1 = new Thread( () => {
-                    Console.WriteLine("Thread 1. Global {0}, Local {1}.",
+                    Console.WriteLine("Thread 1. Global {0}, Local {1}.",//imprime 2
                             global, local);
                 });
             global = local = 2;
             Thread thread2 = new Thread( () => {
-                    Console.WriteLine("Thread 2. Global {0}, Local {1}.",
+                    Console.WriteLine("Thread 2. Global {0}, Local {1}.",//imprime 2
                             global, local);
                 });
             thread1.Start();
@@ -29,7 +29,7 @@ namespace TPP.Concurrency.Threads {
             int local = 1;
             int copy = local;
             Thread thread = new Thread( () => {
-                    Console.WriteLine("Making a copy {0}.", copy);
+                    Console.WriteLine("Making a copy {0}.", copy);//se imprime un 1
                 });
             local = 2;
             thread.Start();
@@ -38,7 +38,7 @@ namespace TPP.Concurrency.Threads {
         static void WithParameters() {
             int local = 1;
             Thread thread = new Thread( (parameter) => {
-                    Console.WriteLine("With parameter {0}.", parameter);
+                    Console.WriteLine("With parameter {0}.", parameter);//imprime 1
                 });
             local = 2;
             thread.Start(local-1);

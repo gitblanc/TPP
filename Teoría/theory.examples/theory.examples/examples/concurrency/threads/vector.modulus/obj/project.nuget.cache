@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "INxSKHTI2VAWzMJnug0kHpzRgGp7UdyUf8ldU9XgfHsMYM2JftJ2bw/ogrGFwnvO9h+7xTy/t7imgwcTv8ceCQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omenp\\Desktop\\TPP\\Teoría\\theory.examples\\theory.examples\\examples\\concurrency\\threads\\vector.modulus\\vector.modulus.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omenp\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\omenp\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
