@@ -3,7 +3,7 @@
 ![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 
 
-Hi, this is my repositorty for my subject TPP.
+My work for TPP
 
-In this repository you will see Object-Oriented Paradigm, Funtional Paradigm, Concurrency and Meta-programming. 
-All has been written in C# using Visual Studio. Enjoy it :-)
+![image](https://github.com/gitblanc/TPP/assets/87705461/a4e5cc3e-cbf2-4094-9b7f-2e91c19a4c15)
+
