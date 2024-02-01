@@ -1,0 +1,12 @@
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\object.orientation\basic\console\bin\Debug\netcoreapp3.1\console.exe
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\object.orientation\basic\console\bin\Debug\netcoreapp3.1\console.deps.json
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\object.orientation\basic\console\bin\Debug\netcoreapp3.1\console.runtimeconfig.json
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\object.orientation\basic\console\bin\Debug\netcoreapp3.1\console.runtimeconfig.dev.json
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\object.orientation\basic\console\bin\Debug\netcoreapp3.1\console.dll
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\object.orientation\basic\console\bin\Debug\netcoreapp3.1\console.pdb
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\object.orientation\basic\console\obj\Debug\netcoreapp3.1\console.csproj.AssemblyReference.cache
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\object.orientation\basic\console\obj\Debug\netcoreapp3.1\console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\object.orientation\basic\console\obj\Debug\netcoreapp3.1\console.csproj.CoreCompileInputs.cache
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\object.orientation\basic\console\obj\Debug\netcoreapp3.1\console.dll
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\object.orientation\basic\console\obj\Debug\netcoreapp3.1\console.pdb
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\object.orientation\basic\console\obj\Debug\netcoreapp3.1\console.genruntimeconfig.cache

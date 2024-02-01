@@ -1,0 +1,6 @@
+Examen práctico: 4 ejercicios de 2'5 puntos
+Hay entregas semanales
+
+sanchezsmiguel@uniovi.es
+
+Usar .NET 5.0

@@ -1,0 +1,14 @@
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\object.orientation\overload\parameter.passing\bin\Debug\net5.0\parameter.passing.exe
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\object.orientation\overload\parameter.passing\bin\Debug\net5.0\parameter.passing.deps.json
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\object.orientation\overload\parameter.passing\bin\Debug\net5.0\parameter.passing.runtimeconfig.json
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\object.orientation\overload\parameter.passing\bin\Debug\net5.0\parameter.passing.runtimeconfig.dev.json
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\object.orientation\overload\parameter.passing\bin\Debug\net5.0\parameter.passing.dll
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\object.orientation\overload\parameter.passing\bin\Debug\net5.0\parameter.passing.pdb
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\object.orientation\overload\parameter.passing\obj\Debug\net5.0\parameter.passing.csproj.AssemblyReference.cache
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\object.orientation\overload\parameter.passing\obj\Debug\net5.0\parameter.passing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\object.orientation\overload\parameter.passing\obj\Debug\net5.0\parameter.passing.csproj.CoreCompileInputs.cache
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\object.orientation\overload\parameter.passing\obj\Debug\net5.0\parameter.passing.dll
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\object.orientation\overload\parameter.passing\obj\Debug\net5.0\refint\parameter.passing.dll
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\object.orientation\overload\parameter.passing\obj\Debug\net5.0\parameter.passing.pdb
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\object.orientation\overload\parameter.passing\obj\Debug\net5.0\parameter.passing.genruntimeconfig.cache
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\object.orientation\overload\parameter.passing\obj\Debug\net5.0\ref\parameter.passing.dll

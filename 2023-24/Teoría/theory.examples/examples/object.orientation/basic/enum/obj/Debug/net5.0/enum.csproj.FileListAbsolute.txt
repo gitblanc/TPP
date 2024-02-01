@@ -1,0 +1,14 @@
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\object.orientation\basic\enum\bin\Debug\net5.0\@enum.exe
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\object.orientation\basic\enum\bin\Debug\net5.0\@enum.deps.json
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\object.orientation\basic\enum\bin\Debug\net5.0\@enum.runtimeconfig.json
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\object.orientation\basic\enum\bin\Debug\net5.0\@enum.runtimeconfig.dev.json
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\object.orientation\basic\enum\bin\Debug\net5.0\@enum.dll
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\object.orientation\basic\enum\bin\Debug\net5.0\@enum.pdb
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\object.orientation\basic\enum\obj\Debug\net5.0\enum.csproj.AssemblyReference.cache
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\object.orientation\basic\enum\obj\Debug\net5.0\enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\object.orientation\basic\enum\obj\Debug\net5.0\enum.csproj.CoreCompileInputs.cache
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\object.orientation\basic\enum\obj\Debug\net5.0\@enum.dll
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\object.orientation\basic\enum\obj\Debug\net5.0\refint\@enum.dll
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\object.orientation\basic\enum\obj\Debug\net5.0\@enum.pdb
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\object.orientation\basic\enum\obj\Debug\net5.0\enum.genruntimeconfig.cache
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\object.orientation\basic\enum\obj\Debug\net5.0\ref\@enum.dll

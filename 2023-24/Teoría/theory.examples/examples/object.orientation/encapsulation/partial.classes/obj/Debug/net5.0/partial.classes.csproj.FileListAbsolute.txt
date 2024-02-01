@@ -1,0 +1,14 @@
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\object.orientation\encapsulation\partial.classes\bin\Debug\net5.0\partial.classes.exe
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\object.orientation\encapsulation\partial.classes\bin\Debug\net5.0\partial.classes.deps.json
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\object.orientation\encapsulation\partial.classes\bin\Debug\net5.0\partial.classes.runtimeconfig.json
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\object.orientation\encapsulation\partial.classes\bin\Debug\net5.0\partial.classes.runtimeconfig.dev.json
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\object.orientation\encapsulation\partial.classes\bin\Debug\net5.0\partial.classes.dll
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\object.orientation\encapsulation\partial.classes\bin\Debug\net5.0\partial.classes.pdb
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\object.orientation\encapsulation\partial.classes\obj\Debug\net5.0\partial.classes.csproj.AssemblyReference.cache
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\object.orientation\encapsulation\partial.classes\obj\Debug\net5.0\partial.classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\object.orientation\encapsulation\partial.classes\obj\Debug\net5.0\partial.classes.csproj.CoreCompileInputs.cache
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\object.orientation\encapsulation\partial.classes\obj\Debug\net5.0\partial.classes.dll
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\object.orientation\encapsulation\partial.classes\obj\Debug\net5.0\refint\partial.classes.dll
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\object.orientation\encapsulation\partial.classes\obj\Debug\net5.0\partial.classes.pdb
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\object.orientation\encapsulation\partial.classes\obj\Debug\net5.0\partial.classes.genruntimeconfig.cache
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\object.orientation\encapsulation\partial.classes\obj\Debug\net5.0\ref\partial.classes.dll

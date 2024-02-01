@@ -1,0 +1,14 @@
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\object.orientation\encapsulation\structs\bin\Debug\net5.0\structs.exe
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\object.orientation\encapsulation\structs\bin\Debug\net5.0\structs.deps.json
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\object.orientation\encapsulation\structs\bin\Debug\net5.0\structs.runtimeconfig.json
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\object.orientation\encapsulation\structs\bin\Debug\net5.0\structs.runtimeconfig.dev.json
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\object.orientation\encapsulation\structs\bin\Debug\net5.0\structs.dll
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\object.orientation\encapsulation\structs\bin\Debug\net5.0\structs.pdb
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\object.orientation\encapsulation\structs\obj\Debug\net5.0\structs.csproj.AssemblyReference.cache
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\object.orientation\encapsulation\structs\obj\Debug\net5.0\structs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\object.orientation\encapsulation\structs\obj\Debug\net5.0\structs.csproj.CoreCompileInputs.cache
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\object.orientation\encapsulation\structs\obj\Debug\net5.0\structs.dll
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\object.orientation\encapsulation\structs\obj\Debug\net5.0\refint\structs.dll
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\object.orientation\encapsulation\structs\obj\Debug\net5.0\structs.pdb
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\object.orientation\encapsulation\structs\obj\Debug\net5.0\structs.genruntimeconfig.cache
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\object.orientation\encapsulation\structs\obj\Debug\net5.0\ref\structs.dll

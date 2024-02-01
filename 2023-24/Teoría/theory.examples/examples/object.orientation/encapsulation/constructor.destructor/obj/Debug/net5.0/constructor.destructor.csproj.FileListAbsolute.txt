@@ -1,0 +1,14 @@
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\object.orientation\encapsulation\constructor.destructor\bin\Debug\net5.0\constructor.destructor.exe
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\object.orientation\encapsulation\constructor.destructor\bin\Debug\net5.0\constructor.destructor.deps.json
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\object.orientation\encapsulation\constructor.destructor\bin\Debug\net5.0\constructor.destructor.runtimeconfig.json
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\object.orientation\encapsulation\constructor.destructor\bin\Debug\net5.0\constructor.destructor.runtimeconfig.dev.json
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\object.orientation\encapsulation\constructor.destructor\bin\Debug\net5.0\constructor.destructor.dll
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\object.orientation\encapsulation\constructor.destructor\bin\Debug\net5.0\constructor.destructor.pdb
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\object.orientation\encapsulation\constructor.destructor\obj\Debug\net5.0\constructor.destructor.csproj.AssemblyReference.cache
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\object.orientation\encapsulation\constructor.destructor\obj\Debug\net5.0\constructor.destructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\object.orientation\encapsulation\constructor.destructor\obj\Debug\net5.0\constructor.destructor.csproj.CoreCompileInputs.cache
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\object.orientation\encapsulation\constructor.destructor\obj\Debug\net5.0\constructor.destructor.dll
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\object.orientation\encapsulation\constructor.destructor\obj\Debug\net5.0\refint\constructor.destructor.dll
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\object.orientation\encapsulation\constructor.destructor\obj\Debug\net5.0\constructor.destructor.pdb
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\object.orientation\encapsulation\constructor.destructor\obj\Debug\net5.0\constructor.destructor.genruntimeconfig.cache
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\object.orientation\encapsulation\constructor.destructor\obj\Debug\net5.0\ref\constructor.destructor.dll
