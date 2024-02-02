@@ -41,10 +41,10 @@ namespace ModeloClases
         public void Add(int node)
         {
             // Considero que se pueden añadir elementos repetidos
-            LinkedNode newNode = new LinkedNode(node);
+            LinkedNode newNode = new(node);
             if (Head == null)
             {
-                newNode.Next = Head;
+                newNode.Next = null;
                 Head = newNode;
             }
             else
@@ -54,7 +54,7 @@ namespace ModeloClases
                 {
                     current = current.Next;
                 }
-                current.Next = new LinkedNode(node);
+                current.Next = newNode;
             }
             _numelems += 1;
         }
@@ -64,19 +64,26 @@ namespace ModeloClases
             LinkedNode toDelete = GetElement(node);
             if (toDelete != null)
             { // El nodo a eliminar existe
-                LinkedNode current = Head;
-                LinkedNode previous = null;
-
-                while (current != null && current.Data != node)
+                if (toDelete == Head)//si el nodo a borrar es el primero
                 {
-                    previous = current;
-                    current = current.Next;
+                    Head = Head.Next;
                 }
-
-                if (previous == null)//Si borramos la cabeza
-                    Head = current.Next;
                 else
-                    previous.Next = current.Next;
+                {
+                    LinkedNode current = Head;
+                    LinkedNode previous = null;
+
+                    while (current != null && current.Data != node)
+                    {
+                        previous = current;
+                        current = current.Next;
+                    }
+
+                    if (previous == null)//Si borramos la cabeza
+                        Head = current.Next;
+                    else
+                        previous.Next = current.Next;
+                }
                 _numelems -= 1;
             }
         }
