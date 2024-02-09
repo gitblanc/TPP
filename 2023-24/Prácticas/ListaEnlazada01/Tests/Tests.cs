@@ -151,6 +151,34 @@ namespace Tests
             Assert.IsTrue(list.Remove(null));
             Assert.IsFalse(list.ContainsElement(null));
             Assert.AreEqual(0, list.NumberOfElements);
+
+            list.Add(null);
+            list.Add(null);
+            list.Add(null);
+            list.Add(s2);
+            list.Add(s4);
+
+            Assert.IsTrue(list.ContainsElement(null));
+            Assert.IsTrue(list.ContainsElement(s2));
+            Assert.IsTrue(list.ContainsElement(s4));
+
+            Assert.AreEqual(null, list.GetElement(0));
+            Assert.AreEqual(null, list.GetElement(1));
+            Assert.AreEqual(null, list.GetElement(2));
+            Assert.AreEqual(s2, list.GetElement(3));
+            Assert.AreEqual(s4, list.GetElement(4));
+
+            Assert.AreEqual(5, list.NumberOfElements);
+            Assert.IsTrue(list.Remove(null));
+            Assert.AreEqual(4, list.NumberOfElements);
+            Assert.IsTrue(list.Remove(null));
+            Assert.AreEqual(3, list.NumberOfElements);
+            Assert.IsTrue(list.Remove(s2));
+            Assert.AreEqual(2, list.NumberOfElements);
+            Assert.IsTrue(list.Remove(null));
+            Assert.AreEqual(1, list.NumberOfElements);
+            Assert.IsTrue(list.Remove(s4));
+            Assert.AreEqual(0, list.NumberOfElements);
         }
 
         [TestMethod]
@@ -177,6 +205,13 @@ namespace Tests
             list.Add(p5);
             list.Add(p6);
             list.Add(p7);
+
+            Assert.AreEqual(p1, list.GetElement(0));
+            Assert.AreEqual(p2, list.GetElement(1));
+            Assert.AreEqual(p3, list.GetElement(2));
+            Assert.AreEqual(null, list.GetElement(3));
+            Assert.AreEqual(null, list.GetElement(4));
+
             // Comprobación del método Contains (con null)
             Assert.IsTrue(list.ContainsElement(null));
             Assert.AreEqual(9, list.NumberOfElements);

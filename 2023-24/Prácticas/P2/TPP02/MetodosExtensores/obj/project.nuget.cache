@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "NmpNY4oAotyNRE7OCfXbDEyh78g3CJHEjmbA/ptLducOMIUi9KgHX/uki5RB0ieNqlHoavIPFwlD6nHJi6dfrw==",
+  "dgSpecHash": "qZROW2SeV4XkMxdYWb56orNgmrAESNa0TnhXEq0Md0l2fwmbGitxJ1OE4A86hAt54bEe9jjR7AwjbAqZa6Zg1w==",
   "success": true,
-  "projectFilePath": "D:\\TPP\\P2\\TPP02\\MetodosExtensores\\MetodosExtensores.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\blanc\\Desktop\\TPP\\2023-24\\Prácticas\\P2\\TPP02\\MetodosExtensores\\MetodosExtensores.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\blanc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
   "logs": []
 }

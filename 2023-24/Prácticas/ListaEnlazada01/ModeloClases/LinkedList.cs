@@ -133,7 +133,7 @@ namespace ModeloClases
 
             // Si el nodo a borrar es el primero
             // Se tiene en cuenta que se pueda borrar un null (el primero que se encuentra)
-            if (_head.Data == null && toDelete == null || toDelete.Equals(_head.Data))
+            if (_head.Data == null && toDelete == null || toDelete != null && toDelete.Equals(_head.Data))
                 _head = _head.Next;
             else
             {
