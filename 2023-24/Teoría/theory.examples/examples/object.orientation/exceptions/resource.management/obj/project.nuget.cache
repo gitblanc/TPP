@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "j0vj3rJsrq++aqVfKDiHWt3QZPCBQBBuTahNkZA/IQXXs8TB0FtzvV/lUbJyYFL93X22APQDbPm7RQHxbrfBjQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\blanc\\Desktop\\TPP\\2023-24\\Teoría\\theory.examples\\examples\\object.orientation\\exceptions\\resource.management\\resource.management.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\blanc\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\blanc\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512",
+    "C:\\Users\\blanc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

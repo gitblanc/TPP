@@ -1,0 +1,16 @@
+D:\TPP\P3\TPP03_2324\TPP3\ProgramacionPorContratos\bin\Debug\net5.0\ProgramacionPorContratos.exe
+D:\TPP\P3\TPP03_2324\TPP3\ProgramacionPorContratos\bin\Debug\net5.0\ProgramacionPorContratos.deps.json
+D:\TPP\P3\TPP03_2324\TPP3\ProgramacionPorContratos\bin\Debug\net5.0\ProgramacionPorContratos.runtimeconfig.json
+D:\TPP\P3\TPP03_2324\TPP3\ProgramacionPorContratos\bin\Debug\net5.0\ProgramacionPorContratos.runtimeconfig.dev.json
+D:\TPP\P3\TPP03_2324\TPP3\ProgramacionPorContratos\bin\Debug\net5.0\ProgramacionPorContratos.dll
+D:\TPP\P3\TPP03_2324\TPP3\ProgramacionPorContratos\bin\Debug\net5.0\ProgramacionPorContratos.pdb
+D:\TPP\P3\TPP03_2324\TPP3\ProgramacionPorContratos\obj\Debug\net5.0\ProgramacionPorContratos.csproj.AssemblyReference.cache
+D:\TPP\P3\TPP03_2324\TPP3\ProgramacionPorContratos\obj\Debug\net5.0\ProgramacionPorContratos.GeneratedMSBuildEditorConfig.editorconfig
+D:\TPP\P3\TPP03_2324\TPP3\ProgramacionPorContratos\obj\Debug\net5.0\ProgramacionPorContratos.AssemblyInfoInputs.cache
+D:\TPP\P3\TPP03_2324\TPP3\ProgramacionPorContratos\obj\Debug\net5.0\ProgramacionPorContratos.AssemblyInfo.cs
+D:\TPP\P3\TPP03_2324\TPP3\ProgramacionPorContratos\obj\Debug\net5.0\ProgramacionPorContratos.csproj.CoreCompileInputs.cache
+D:\TPP\P3\TPP03_2324\TPP3\ProgramacionPorContratos\obj\Debug\net5.0\ProgramacionPorContratos.dll
+D:\TPP\P3\TPP03_2324\TPP3\ProgramacionPorContratos\obj\Debug\net5.0\refint\ProgramacionPorContratos.dll
+D:\TPP\P3\TPP03_2324\TPP3\ProgramacionPorContratos\obj\Debug\net5.0\ProgramacionPorContratos.pdb
+D:\TPP\P3\TPP03_2324\TPP3\ProgramacionPorContratos\obj\Debug\net5.0\ProgramacionPorContratos.genruntimeconfig.cache
+D:\TPP\P3\TPP03_2324\TPP3\ProgramacionPorContratos\obj\Debug\net5.0\ref\ProgramacionPorContratos.dll

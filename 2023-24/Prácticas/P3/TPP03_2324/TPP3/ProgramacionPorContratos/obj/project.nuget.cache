@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wLcwk65vFHSnmhBmbPkNLrzhPnUugd9B0HkwL6jomM1w6YgciSxEpZahSVh8hFscwYf9lUy3Ih3Zs2NGEaWuaQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\blanc\\Desktop\\TPP\\2023-24\\Prácticas\\P3\\TPP03_2324\\TPP3\\ProgramacionPorContratos\\ProgramacionPorContratos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\blanc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

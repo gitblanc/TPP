@@ -1,14 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "ZUcFzew/k0yoQllLGk63nLPSXdMTdOqtQRUdjbERXSu3AnX/LtkWP72WFaGwTiQ3x4ZiSJSHgfbtuUU8xiMnjg==",
+  "dgSpecHash": "k4hB5BnQzagFlJlJNP4an3jfjQWZuPlWK99sVjsXFzulbmjnOc///CLXYcWkaSIob2YGOT/6+xJ/hy1v8IiNUA==",
   "success": true,
   "projectFilePath": "C:\\Users\\blanc\\Desktop\\TPP\\2023-24\\Teoría\\theory.examples\\examples\\object.orientation\\inheritance.polymorphism\\idisposable\\idisposable.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\blanc\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\blanc\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512",
-    "C:\\Users\\blanc\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\blanc\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\blanc\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
     "C:\\Users\\blanc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
   ],
   "logs": []

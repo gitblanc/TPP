@@ -1,0 +1,3 @@
+la pila tiene dentro una lista privada 
+Para hacer un push llamaremos al añadir de la lista
+Para hacer un pop sacaremos el último elemento de la lista

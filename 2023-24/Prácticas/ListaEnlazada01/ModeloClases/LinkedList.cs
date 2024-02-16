@@ -4,6 +4,7 @@ using System.Threading;
 
 namespace ModeloClases
 {
+    // Polimórfica
     public class LinkedNode
     {
         public object Data { get; set; }
@@ -40,7 +41,7 @@ namespace ModeloClases
         /// <param name="data"></param>
         public void Add(object data)
         {
-            // Considero que se pueden añadir elementos repetidos
+            // Se pueden añadir elementos repetidos
             LinkedNode newNode = new(data);
             if (_numelems == 0)
             {
@@ -150,6 +151,54 @@ namespace ModeloClases
                         break;
                     previous = current;
                     current = current.Next;
+                }
+
+                previous.Next = current.Next;
+            }
+            _numelems -= 1;
+            return true;
+        }
+
+        /// <summary>
+        /// Borrado que elimina por posición (para la Pila)
+        /// </summary>
+        /// <param name="pos"></param>
+        /// <returns>true/false</returns>
+        public bool RemoveByPos(int pos)
+        {
+            // La cabeza es null (no hay elementos)
+            if (_numelems == 0)
+                return false;
+
+            if (pos < 0)
+                return false;
+
+            object toDelete = GetElement(pos);
+            int cont = 0;
+
+            // Si el nodo a borrar es el primero
+            // Se tiene en cuenta que se pueda borrar un null (el primero que se encuentra)
+            if (pos == cont && (_head.Data == null && toDelete == null || toDelete != null && toDelete.Equals(_head.Data)))
+            {
+                _head = _head.Next;
+            }
+            else
+            {
+                LinkedNode current = _head;
+                LinkedNode previous = null;
+
+                while (current != null)
+                {
+                    // Si queremos borrar un null
+                    if (cont == pos && toDelete == null && current.Data == null)
+                        break;
+                    // Si queremos borrar otra cosa pero el elemento actual tiene un null como dato
+                    if (cont == pos && current.Data != null && current.Data.Equals(toDelete))
+                        break;
+
+                    previous = current;
+                    current = current.Next;
+                    cont += 1;
                 }
 
                 previous.Next = current.Next;

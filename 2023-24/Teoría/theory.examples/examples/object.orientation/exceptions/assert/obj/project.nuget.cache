@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "MlNe6rHYdbCmLVqbqhusDAPP4/InZ+OlBnAJLusS3fL2Ueq5lZaTeIPNyRQYvrzk3BaioI3C+aKRysgjYA8l9w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\blanc\\Desktop\\TPP\\2023-24\\Teoría\\theory.examples\\examples\\object.orientation\\exceptions\\assert\\assert.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\blanc\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\blanc\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512",
+    "C:\\Users\\blanc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

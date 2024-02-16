@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "e/7wvy2ZpGTNI7x54mM9XITrqzzpW8kl6mMsSshDwFWi58e32cLHzxHrPyiXPICatmnybsX10w82yM5ZqJe43Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\blanc\\Desktop\\TPP\\2023-24\\Prácticas\\P3\\TPP03_2324\\TPP3\\HerenciaPolimorfismo\\HerenciaPolimorfismo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\blanc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
