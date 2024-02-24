@@ -10,3 +10,15 @@ C:\Users\blanc\Desktop\TPP\2023-24\Prácticas\ListaEnlazada01\ModeloClases\obj\D
 C:\Users\blanc\Desktop\TPP\2023-24\Prácticas\ListaEnlazada01\ModeloClases\obj\Debug\net5.0\refint\ModeloClases.dll
 C:\Users\blanc\Desktop\TPP\2023-24\Prácticas\ListaEnlazada01\ModeloClases\obj\Debug\net5.0\ModeloClases.pdb
 C:\Users\blanc\Desktop\TPP\2023-24\Prácticas\ListaEnlazada01\ModeloClases\obj\Debug\net5.0\ref\ModeloClases.dll
+D:\TPP\ListaEnlazada01\ModeloClases\obj\Debug\net5.0\ModeloClases.csproj.AssemblyReference.cache
+D:\TPP\ListaEnlazada01\ModeloClases\obj\Debug\net5.0\ModeloClases.GeneratedMSBuildEditorConfig.editorconfig
+D:\TPP\ListaEnlazada01\ModeloClases\obj\Debug\net5.0\ModeloClases.AssemblyInfoInputs.cache
+D:\TPP\ListaEnlazada01\ModeloClases\obj\Debug\net5.0\ModeloClases.AssemblyInfo.cs
+D:\TPP\ListaEnlazada01\ModeloClases\obj\Debug\net5.0\ModeloClases.csproj.CoreCompileInputs.cache
+D:\TPP\ListaEnlazada01\ModeloClases\obj\Debug\net5.0\ModeloClases.dll
+D:\TPP\ListaEnlazada01\ModeloClases\obj\Debug\net5.0\refint\ModeloClases.dll
+D:\TPP\ListaEnlazada01\ModeloClases\obj\Debug\net5.0\ModeloClases.pdb
+D:\TPP\ListaEnlazada01\ModeloClases\bin\Debug\net5.0\ModeloClases.deps.json
+D:\TPP\ListaEnlazada01\ModeloClases\bin\Debug\net5.0\ModeloClases.dll
+D:\TPP\ListaEnlazada01\ModeloClases\bin\Debug\net5.0\ModeloClases.pdb
+D:\TPP\ListaEnlazada01\ModeloClases\obj\Debug\net5.0\ref\ModeloClases.dll

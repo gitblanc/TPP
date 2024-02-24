@@ -1,0 +1,16 @@
+D:\TPP\P4\TPP04\IEnumerable\bin\Debug\net5.0\IEnumerable.exe
+D:\TPP\P4\TPP04\IEnumerable\bin\Debug\net5.0\IEnumerable.deps.json
+D:\TPP\P4\TPP04\IEnumerable\bin\Debug\net5.0\IEnumerable.runtimeconfig.json
+D:\TPP\P4\TPP04\IEnumerable\bin\Debug\net5.0\IEnumerable.runtimeconfig.dev.json
+D:\TPP\P4\TPP04\IEnumerable\bin\Debug\net5.0\IEnumerable.dll
+D:\TPP\P4\TPP04\IEnumerable\bin\Debug\net5.0\IEnumerable.pdb
+D:\TPP\P4\TPP04\IEnumerable\obj\Debug\net5.0\IEnumerable.csproj.AssemblyReference.cache
+D:\TPP\P4\TPP04\IEnumerable\obj\Debug\net5.0\IEnumerable.GeneratedMSBuildEditorConfig.editorconfig
+D:\TPP\P4\TPP04\IEnumerable\obj\Debug\net5.0\IEnumerable.AssemblyInfoInputs.cache
+D:\TPP\P4\TPP04\IEnumerable\obj\Debug\net5.0\IEnumerable.AssemblyInfo.cs
+D:\TPP\P4\TPP04\IEnumerable\obj\Debug\net5.0\IEnumerable.csproj.CoreCompileInputs.cache
+D:\TPP\P4\TPP04\IEnumerable\obj\Debug\net5.0\IEnumerable.dll
+D:\TPP\P4\TPP04\IEnumerable\obj\Debug\net5.0\refint\IEnumerable.dll
+D:\TPP\P4\TPP04\IEnumerable\obj\Debug\net5.0\IEnumerable.pdb
+D:\TPP\P4\TPP04\IEnumerable\obj\Debug\net5.0\IEnumerable.genruntimeconfig.cache
+D:\TPP\P4\TPP04\IEnumerable\obj\Debug\net5.0\ref\IEnumerable.dll

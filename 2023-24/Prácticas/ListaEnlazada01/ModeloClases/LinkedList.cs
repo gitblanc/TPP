@@ -1,24 +1,26 @@
 ﻿using System;
+using System.Collections;
+using System.Collections.Generic;
 using System.Text;
 using System.Threading;
 
 namespace ModeloClases
 {
-    // Polimórfica
-    public class LinkedNode
+    // Genérica
+    public class LinkedNode<T>
     {
-        public object Data { get; set; }
+        public T Data { get; set; }
 
-        public LinkedNode Next { get; set; }
+        public LinkedNode<T> Next { get; set; }
 
-        public LinkedNode(object data)
+        public LinkedNode(T data)
         {
             Data = data;
             Next = null;
         }
     }
 
-    public class LinkedList
+    public class LinkedList<T> : IEnumerable<T>
     {
         private int _numelems;
         public int NumberOfElements
@@ -26,7 +28,7 @@ namespace ModeloClases
             get { return _numelems; }
         }
 
-        private LinkedNode _head;
+        private LinkedNode<T> _head;
 
         //Constructor
         public LinkedList()
@@ -39,10 +41,10 @@ namespace ModeloClases
         /// Método que permite añadir un elemento a la LinkedList
         /// </summary>
         /// <param name="data"></param>
-        public void Add(object data)
+        public void Add(T data)
         {
             // Se pueden añadir elementos repetidos
-            LinkedNode newNode = new(data);
+            LinkedNode<T> newNode = new(data);
             if (_numelems == 0)
             {
                 newNode.Next = null;
@@ -50,7 +52,7 @@ namespace ModeloClases
             }
             else
             {
-                LinkedNode current = _head;
+                LinkedNode<T> current = _head;
                 while (current.Next != null)
                 {
                     current = current.Next;
@@ -65,9 +67,9 @@ namespace ModeloClases
         /// </summary>
         /// <param name="data"></param>
         /// <returns>-1 si no existe o la posición del elemento si existe</returns>
-        public int IndexOf(object data)
+        public int IndexOf(T data)
         {
-            LinkedNode current = _head;
+            LinkedNode<T> current = _head;
             int cont = 0;
             while (current != null)
             {
@@ -95,7 +97,7 @@ namespace ModeloClases
         /// <exception cref="IndexOutOfRangeException"></exception>
         public object GetElement(int pos)
         {
-            LinkedNode current = _head;
+            LinkedNode<T> current = _head;
             if (pos >= _numelems)
                 throw new IndexOutOfRangeException("EXCEPCION: La posición no es válida");
             else
@@ -120,7 +122,7 @@ namespace ModeloClases
         /// </summary>
         /// <param name="data"></param>
         /// <returns>True si lo elimina, False si no lo elimina</returns>
-        public bool Remove(object data)
+        public bool Remove(T data)
         {
             // La cabeza es null (no hay elementos)
             if (_numelems == 0)
@@ -138,8 +140,8 @@ namespace ModeloClases
                 _head = _head.Next;
             else
             {
-                LinkedNode current = _head;
-                LinkedNode previous = null;
+                LinkedNode<T> current = _head;
+                LinkedNode<T> previous = null;
 
                 while (current != null)
                 {
@@ -184,8 +186,8 @@ namespace ModeloClases
             }
             else
             {
-                LinkedNode current = _head;
-                LinkedNode previous = null;
+                LinkedNode<T> current = _head;
+                LinkedNode<T> previous = null;
 
                 while (current != null)
                 {
@@ -212,7 +214,7 @@ namespace ModeloClases
         /// </summary>
         /// <param name="data"></param>
         /// <returns>True/False</returns>
-        public bool ContainsElement(object data)
+        public bool ContainsElement(T data)
         {
             return IndexOf(data) != -1;
         }
@@ -224,7 +226,7 @@ namespace ModeloClases
         public override string ToString()
         {
             StringBuilder cad = new();
-            LinkedNode current = _head;
+            LinkedNode<T> current = _head;
 
             while (current != null)
             {
@@ -233,6 +235,60 @@ namespace ModeloClases
             }
             cad.AppendLine($"null, elems: {NumberOfElements}");
             return cad.ToString();
+        }
+
+        public IEnumerator<T> GetEnumerator()
+        {
+            return new ListGenerator<T>(_head, _numelems);
+        }
+
+        IEnumerator IEnumerable.GetEnumerator()
+        {
+            return new ListGenerator<T>(_head, _numelems);
+        }
+    }
+
+    public class ListGenerator<T> : IEnumerator<T>
+    {
+        private LinkedNode<T> _head, _headCopie;
+        private int _numelems;
+        private int _count;
+
+        public T Current
+        {
+            get { return _head.Data; }
+        }
+
+        object IEnumerator.Current
+        {
+            get { return _head.Data; }
+        }
+
+        public ListGenerator(LinkedNode<T> head, int numElems)
+        {
+            _head = _headCopie = head;
+            _numelems = numElems;
+            Reset(); // Inicializamos el generador
+        }
+
+        public void Dispose()
+        {
+            //¿Debería poner algo aquí?...
+        }
+
+        public bool MoveNext()
+        {
+            int copie = _count;
+            if (copie != -1 && copie++ < _numelems)
+                _head = _head.Next; //hacemos que el elemento Current sea el siguiente
+            return _count++ != _numelems-1;
+        }
+
+        // Pongo -1 porque la lista empieza en el elemento 0
+        public void Reset()
+        {
+            _head = _headCopie; //Reinicializamos el Current al primer elemento de la lista
+            _count = -1;
         }
     }
 }

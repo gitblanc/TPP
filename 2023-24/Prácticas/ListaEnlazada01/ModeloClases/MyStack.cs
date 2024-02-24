@@ -9,10 +9,10 @@ using System.Threading.Tasks;
 namespace ModeloClases
 {
     // Programación por contrato
-    public class MyStack
+    public class MyStack<T>
     {
         private uint _maxNumberOfElems;
-        private LinkedList _list;
+        private LinkedList<T> _list;
 
         public bool IsEmpty => _ = _list.NumberOfElements == 0;
 
@@ -20,14 +20,17 @@ namespace ModeloClases
 
         public MyStack(uint elems)
         {
+            if (elems < 1)
+                throw new ArgumentException("Has de tener capacidad de al menos un elemento");
             _maxNumberOfElems = elems;
-            _list = new LinkedList();
+            _list = new LinkedList<T>();
 #if DEBUG            
             // Invariantes
             Invariant();
-        }
 #endif
-        public bool Push(object data)
+        }
+
+        public bool Push(T data)
         {
             // Precondiciones
             if (_maxNumberOfElems == _list.NumberOfElements)

@@ -1,5 +1,7 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using ModeloClases;
+using System;
+using System.Collections;
 
 
 namespace Tests
@@ -10,7 +12,7 @@ namespace Tests
         [TestMethod]
         public void TestInt()
         {
-            LinkedList list = new();
+            LinkedList<int> list = new();
 
             Assert.AreEqual(0, list.NumberOfElements);
 
@@ -53,7 +55,7 @@ namespace Tests
         [TestMethod]
         public void TestDouble()
         {
-            LinkedList list = new();
+            LinkedList<double> list = new();
 
             Assert.AreEqual(0, list.NumberOfElements);
 
@@ -95,7 +97,7 @@ namespace Tests
         [TestMethod]
         public void TestString()
         {
-            LinkedList list = new();
+            LinkedList<string> list = new();
 
             Assert.AreEqual(0, list.NumberOfElements);
 
@@ -184,7 +186,7 @@ namespace Tests
         [TestMethod]
         public void TestPerson()
         {
-            LinkedList list = new();
+            LinkedList<Person> list = new();
 
             Assert.AreEqual(0, list.NumberOfElements);
 
@@ -245,6 +247,38 @@ namespace Tests
             Assert.IsTrue(list.Remove(null));
             Assert.IsFalse(list.ContainsElement(null));
             Assert.AreEqual(0, list.NumberOfElements);
+        }
+
+        [TestMethod]
+        public void TestEnumerableEnumerator()
+        {
+            LinkedList<int> list = new();
+            AddFewNumbers(50, list);
+            Console.WriteLine("Implementación de IEnumerable e IEnumerator en la lista enlazada");
+            int cont = 0;
+            foreach (var i in list)
+            {
+                Console.WriteLine($"Elemento[{cont}]:{i}");
+                cont += 1;
+            }
+
+            Console.WriteLine("Ahora con un while...");
+
+            IEnumerator iterador = list.GetEnumerator();
+            cont = 0;
+            while (iterador.MoveNext()) {
+                Console.WriteLine($"Elemento[{cont}]:{list.GetElement(cont)}");
+                cont += 1;
+            }
+        }
+
+        static void AddFewNumbers(int numbers, LinkedList<int> list)
+        {
+            Random random = new();
+            for (int i = 0; i < numbers; i++)
+            {
+                list.Add(random.Next(0, 50));
+            }
         }
     }
 }

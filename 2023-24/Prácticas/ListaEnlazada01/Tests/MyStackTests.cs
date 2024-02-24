@@ -14,7 +14,7 @@ namespace Tests
         [TestMethod]
         public void TestInt()
         {
-            MyStack stack = new(5);
+            MyStack<int> stack = new(5);
             //PUSH
             Assert.IsTrue(stack.IsEmpty);
             Assert.IsFalse(stack.IsFull);
@@ -66,7 +66,7 @@ namespace Tests
             string s6 = "Eustaquio";
             string s7 = "Aceituna";
 
-            MyStack stack = new(6);
+            MyStack<string> stack = new(6);
             //PUSH
             Assert.IsTrue(stack.IsEmpty);
             Assert.IsFalse(stack.IsFull);

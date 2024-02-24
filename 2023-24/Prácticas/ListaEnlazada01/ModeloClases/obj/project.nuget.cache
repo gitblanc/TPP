@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "6GuN/4vJgjoRk+nHchEdj+G0P7TQNPKVGDuCzUQcH8yt8gKD+/wYCjLeWwbb+DT0XK1r+0yby8Pt1hBuVxn5yA==",
+  "dgSpecHash": "yBZpnFFyIh2LMZmw+nWPoKM7xTlnhou88CeW/5jdhwqpDvIVe3CZDO0jD891oITcdMf3gs7U1wVEeqBELYgG8g==",
   "success": true,
   "projectFilePath": "C:\\Users\\blanc\\Desktop\\TPP\\2023-24\\Prácticas\\ListaEnlazada01\\ModeloClases\\ModeloClases.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\blanc\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\blanc\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\blanc\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
