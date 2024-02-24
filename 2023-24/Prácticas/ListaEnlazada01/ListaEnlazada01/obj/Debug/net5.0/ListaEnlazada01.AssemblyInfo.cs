@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ListaEnlazada01")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+367d777d18db877e70d8b80e791e704eb3cd7ce3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1fe4278c50645308d502e5fc5399d2ab91f7ff3b")]
 [assembly: System.Reflection.AssemblyProductAttribute("ListaEnlazada01")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ListaEnlazada01")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
