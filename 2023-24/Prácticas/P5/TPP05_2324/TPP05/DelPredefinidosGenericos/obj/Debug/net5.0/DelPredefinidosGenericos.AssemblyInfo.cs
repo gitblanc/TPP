@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DelPredefinidosGenericos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4135ee8e185c4632c7a65a9a0f6030fe0eb0db37")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+95f96da3d6336982b0ac6f0be7417dab082c33c0")]
 [assembly: System.Reflection.AssemblyProductAttribute("DelPredefinidosGenericos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DelPredefinidosGenericos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

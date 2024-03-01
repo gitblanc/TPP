@@ -281,7 +281,7 @@ namespace ModeloClases
             int copie = _count;
             if (copie != -1 && copie++ < _numelems)
                 _head = _head.Next; //hacemos que el elemento Current sea el siguiente
-            return _count++ != _numelems-1;
+            return _count++ != _numelems - 1;
         }
 
         // Pongo -1 porque la lista empieza en el elemento 0
