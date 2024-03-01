@@ -1,0 +1,16 @@
+C:\Users\sanchezsmiguel\Desktop\TPP05_2122\TPP05\LambdaSintaxis\bin\Debug\net5.0\LambdaSintaxis.exe
+C:\Users\sanchezsmiguel\Desktop\TPP05_2122\TPP05\LambdaSintaxis\bin\Debug\net5.0\LambdaSintaxis.deps.json
+C:\Users\sanchezsmiguel\Desktop\TPP05_2122\TPP05\LambdaSintaxis\bin\Debug\net5.0\LambdaSintaxis.runtimeconfig.json
+C:\Users\sanchezsmiguel\Desktop\TPP05_2122\TPP05\LambdaSintaxis\bin\Debug\net5.0\LambdaSintaxis.runtimeconfig.dev.json
+C:\Users\sanchezsmiguel\Desktop\TPP05_2122\TPP05\LambdaSintaxis\bin\Debug\net5.0\LambdaSintaxis.dll
+C:\Users\sanchezsmiguel\Desktop\TPP05_2122\TPP05\LambdaSintaxis\bin\Debug\net5.0\ref\LambdaSintaxis.dll
+C:\Users\sanchezsmiguel\Desktop\TPP05_2122\TPP05\LambdaSintaxis\bin\Debug\net5.0\LambdaSintaxis.pdb
+C:\Users\sanchezsmiguel\Desktop\TPP05_2122\TPP05\LambdaSintaxis\obj\Debug\net5.0\LambdaSintaxis.csproj.AssemblyReference.cache
+C:\Users\sanchezsmiguel\Desktop\TPP05_2122\TPP05\LambdaSintaxis\obj\Debug\net5.0\LambdaSintaxis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanchezsmiguel\Desktop\TPP05_2122\TPP05\LambdaSintaxis\obj\Debug\net5.0\LambdaSintaxis.AssemblyInfoInputs.cache
+C:\Users\sanchezsmiguel\Desktop\TPP05_2122\TPP05\LambdaSintaxis\obj\Debug\net5.0\LambdaSintaxis.AssemblyInfo.cs
+C:\Users\sanchezsmiguel\Desktop\TPP05_2122\TPP05\LambdaSintaxis\obj\Debug\net5.0\LambdaSintaxis.csproj.CoreCompileInputs.cache
+C:\Users\sanchezsmiguel\Desktop\TPP05_2122\TPP05\LambdaSintaxis\obj\Debug\net5.0\LambdaSintaxis.dll
+C:\Users\sanchezsmiguel\Desktop\TPP05_2122\TPP05\LambdaSintaxis\obj\Debug\net5.0\ref\LambdaSintaxis.dll
+C:\Users\sanchezsmiguel\Desktop\TPP05_2122\TPP05\LambdaSintaxis\obj\Debug\net5.0\LambdaSintaxis.pdb
+C:\Users\sanchezsmiguel\Desktop\TPP05_2122\TPP05\LambdaSintaxis\obj\Debug\net5.0\LambdaSintaxis.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\object.orientation\generics\nullable\bin\Debug\net5.0\nullable.exe
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\object.orientation\generics\nullable\bin\Debug\net5.0\nullable.deps.json
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\object.orientation\generics\nullable\bin\Debug\net5.0\nullable.runtimeconfig.json
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\object.orientation\generics\nullable\bin\Debug\net5.0\nullable.runtimeconfig.dev.json
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\object.orientation\generics\nullable\bin\Debug\net5.0\nullable.dll
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\object.orientation\generics\nullable\bin\Debug\net5.0\nullable.pdb
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\object.orientation\generics\nullable\obj\Debug\net5.0\nullable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\object.orientation\generics\nullable\obj\Debug\net5.0\nullable.csproj.CoreCompileInputs.cache
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\object.orientation\generics\nullable\obj\Debug\net5.0\nullable.sourcelink.json
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\object.orientation\generics\nullable\obj\Debug\net5.0\nullable.dll
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\object.orientation\generics\nullable\obj\Debug\net5.0\refint\nullable.dll
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\object.orientation\generics\nullable\obj\Debug\net5.0\nullable.pdb
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\object.orientation\generics\nullable\obj\Debug\net5.0\nullable.genruntimeconfig.cache
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\object.orientation\generics\nullable\obj\Debug\net5.0\ref\nullable.dll
