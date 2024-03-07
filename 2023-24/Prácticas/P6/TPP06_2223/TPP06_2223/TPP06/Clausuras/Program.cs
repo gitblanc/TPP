@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Threading;
 
 namespace Clausuras
 {
@@ -109,20 +110,48 @@ namespace Clausuras
             Console.WriteLine($"[Clausuras] Almacenado: {GetValor()}");
 
             // EJERCICIOS EXAMEN
-
-            //set recibe el nuevo valor y no devuelve nada.
-            Action<int> SetValor2;
-            //get no recibe nada y devuelve un valor.
-            Func<int> GetValor2;
-            int inicial = 50;
-            Random rnd = new Random();
-            Ejercicio.MetodoAleatorioInferior(inicial, out SetValor2, out GetValor2);
-            while (GetValor2() != 0)
+            // Ejercicio 1
+            // Versión 1
+            Func<int> aleatorio = Ejercicio.MetodoAleatorioInferiorv1();
+            int val = aleatorio();
+            while (val != 0)
             {
-                Console.WriteLine(GetValor2());
-                SetValor2(rnd.Next(0, GetValor2() - 1));
+                Console.WriteLine(val);
+                val = aleatorio();
             }
-            Console.WriteLine(GetValor2());
+            Console.WriteLine(val);
+            Console.WriteLine("Versión 2");
+            // Versión 2
+            Action<int> Modify;
+            Action Reset;
+            //get no recibe nada y devuelve un valor
+            Func<int> GetValorGenerador;
+            Ejercicio.MetodoAleatorioInferiorv2(50, out Reset, out GetValorGenerador, out Modify);
+            val = GetValorGenerador();
+            while (val != 0)
+            {
+                Console.WriteLine(val);
+                val = GetValorGenerador();
+            }
+            Console.WriteLine(val);
+            Console.WriteLine("RESET");
+            Reset();
+            val = GetValorGenerador();
+            while (val != 0)
+            {
+                Console.WriteLine(val);
+                val = GetValorGenerador();
+            }
+            Console.WriteLine(val);
+            Console.WriteLine("MODIFY 450");
+            Modify(450);
+            val = GetValorGenerador();
+            while (val != 0)
+            {
+                Console.WriteLine(val);
+                val = GetValorGenerador();
+            }
+            Console.WriteLine(val);
         }
 
         static void LimpiarPantalla()

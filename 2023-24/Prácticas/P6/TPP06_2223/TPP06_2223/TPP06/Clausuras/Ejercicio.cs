@@ -37,14 +37,15 @@ namespace Clausuras
         }
 
         // Permite reiniciar
-        public static void MetodoAleatorioInferiorv2(int inicial, out Action<int> set, out Func<int> get)
+        public static void MetodoAleatorioInferiorv2(int inicial, out Action reset, out Func<int> get, out Action<int> modify)
         {
             Random random = new Random();
             int _valor = inicial;
 
 
-            set = _valor => _valor = random.Next(0, _valor);
-            get = () => _valor;
+            reset = () => _valor = inicial;
+            get = () => _valor = random.Next(0, _valor);
+            modify = newValue => _valor = newValue;
         }
 
         /* Ejercicio Clase 1
