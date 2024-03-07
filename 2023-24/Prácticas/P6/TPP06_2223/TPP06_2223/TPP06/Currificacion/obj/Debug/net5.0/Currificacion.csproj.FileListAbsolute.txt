@@ -1,0 +1,16 @@
+D:\TPP\P6\TPP06_2223\TPP06_2223\TPP06\Currificacion\bin\Debug\net5.0\Currificacion.exe
+D:\TPP\P6\TPP06_2223\TPP06_2223\TPP06\Currificacion\bin\Debug\net5.0\Currificacion.deps.json
+D:\TPP\P6\TPP06_2223\TPP06_2223\TPP06\Currificacion\bin\Debug\net5.0\Currificacion.runtimeconfig.json
+D:\TPP\P6\TPP06_2223\TPP06_2223\TPP06\Currificacion\bin\Debug\net5.0\Currificacion.runtimeconfig.dev.json
+D:\TPP\P6\TPP06_2223\TPP06_2223\TPP06\Currificacion\bin\Debug\net5.0\Currificacion.dll
+D:\TPP\P6\TPP06_2223\TPP06_2223\TPP06\Currificacion\bin\Debug\net5.0\Currificacion.pdb
+D:\TPP\P6\TPP06_2223\TPP06_2223\TPP06\Currificacion\obj\Debug\net5.0\Currificacion.csproj.AssemblyReference.cache
+D:\TPP\P6\TPP06_2223\TPP06_2223\TPP06\Currificacion\obj\Debug\net5.0\Currificacion.GeneratedMSBuildEditorConfig.editorconfig
+D:\TPP\P6\TPP06_2223\TPP06_2223\TPP06\Currificacion\obj\Debug\net5.0\Currificacion.AssemblyInfoInputs.cache
+D:\TPP\P6\TPP06_2223\TPP06_2223\TPP06\Currificacion\obj\Debug\net5.0\Currificacion.AssemblyInfo.cs
+D:\TPP\P6\TPP06_2223\TPP06_2223\TPP06\Currificacion\obj\Debug\net5.0\Currificacion.csproj.CoreCompileInputs.cache
+D:\TPP\P6\TPP06_2223\TPP06_2223\TPP06\Currificacion\obj\Debug\net5.0\Currificacion.dll
+D:\TPP\P6\TPP06_2223\TPP06_2223\TPP06\Currificacion\obj\Debug\net5.0\refint\Currificacion.dll
+D:\TPP\P6\TPP06_2223\TPP06_2223\TPP06\Currificacion\obj\Debug\net5.0\Currificacion.pdb
+D:\TPP\P6\TPP06_2223\TPP06_2223\TPP06\Currificacion\obj\Debug\net5.0\Currificacion.genruntimeconfig.cache
+D:\TPP\P6\TPP06_2223\TPP06_2223\TPP06\Currificacion\obj\Debug\net5.0\ref\Currificacion.dll

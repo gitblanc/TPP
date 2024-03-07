@@ -1,0 +1,16 @@
+D:\TPP\P6\TPP06_2223\TPP06_2223\TPP06\Clausuras\bin\Debug\net5.0\Clausuras.exe
+D:\TPP\P6\TPP06_2223\TPP06_2223\TPP06\Clausuras\bin\Debug\net5.0\Clausuras.deps.json
+D:\TPP\P6\TPP06_2223\TPP06_2223\TPP06\Clausuras\bin\Debug\net5.0\Clausuras.runtimeconfig.json
+D:\TPP\P6\TPP06_2223\TPP06_2223\TPP06\Clausuras\bin\Debug\net5.0\Clausuras.runtimeconfig.dev.json
+D:\TPP\P6\TPP06_2223\TPP06_2223\TPP06\Clausuras\bin\Debug\net5.0\Clausuras.dll
+D:\TPP\P6\TPP06_2223\TPP06_2223\TPP06\Clausuras\bin\Debug\net5.0\Clausuras.pdb
+D:\TPP\P6\TPP06_2223\TPP06_2223\TPP06\Clausuras\obj\Debug\net5.0\Clausuras.csproj.AssemblyReference.cache
+D:\TPP\P6\TPP06_2223\TPP06_2223\TPP06\Clausuras\obj\Debug\net5.0\Clausuras.GeneratedMSBuildEditorConfig.editorconfig
+D:\TPP\P6\TPP06_2223\TPP06_2223\TPP06\Clausuras\obj\Debug\net5.0\Clausuras.AssemblyInfoInputs.cache
+D:\TPP\P6\TPP06_2223\TPP06_2223\TPP06\Clausuras\obj\Debug\net5.0\Clausuras.AssemblyInfo.cs
+D:\TPP\P6\TPP06_2223\TPP06_2223\TPP06\Clausuras\obj\Debug\net5.0\Clausuras.csproj.CoreCompileInputs.cache
+D:\TPP\P6\TPP06_2223\TPP06_2223\TPP06\Clausuras\obj\Debug\net5.0\Clausuras.dll
+D:\TPP\P6\TPP06_2223\TPP06_2223\TPP06\Clausuras\obj\Debug\net5.0\refint\Clausuras.dll
+D:\TPP\P6\TPP06_2223\TPP06_2223\TPP06\Clausuras\obj\Debug\net5.0\Clausuras.pdb
+D:\TPP\P6\TPP06_2223\TPP06_2223\TPP06\Clausuras\obj\Debug\net5.0\Clausuras.genruntimeconfig.cache
+D:\TPP\P6\TPP06_2223\TPP06_2223\TPP06\Clausuras\obj\Debug\net5.0\ref\Clausuras.dll

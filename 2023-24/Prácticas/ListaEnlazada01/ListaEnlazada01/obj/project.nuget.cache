@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SOFNpm78ZbuM+JIDzfSh1b2jauhGV+BsJkkJ/HLH7wnxq8qejKRvk3hdj0lIZgxaY7ckN2dzSFfviNANGLcLpw==",
+  "dgSpecHash": "Xzk3wUbg5mjc1VW/izCAFsQBIYuxakzt1SE+AgEu9rLnKbo2tP/YlvnNAnh6QkNoj8Mr4JlAYoLr7FW+gFN68w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\blanc\\Desktop\\TPP\\2023-24\\Prácticas\\ListaEnlazada01\\ListaEnlazada01\\ListaEnlazada01.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\blanc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
-  ],
+  "projectFilePath": "D:\\TPP\\ListaEnlazada01\\ListaEnlazada01\\ListaEnlazada01.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

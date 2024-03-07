@@ -66,5 +66,22 @@ namespace ModeloClases
             }
             return res;
         }
+        /// <summary>
+        /// Con parámetros opcionales, para evitar los nullpointerexception (un ejemplo es con un Diccionario)
+        /// </summary>
+        /// <typeparam name="TP"></typeparam>
+        /// <typeparam name="TR"></typeparam>
+        /// <param name="collection"></param>
+        /// <param name="function"></param>
+        /// <param name="res"></param>
+        /// <returns></returns>
+        public static TR Reduce<TP, TR>(IEnumerable<TP> collection, Func<TP, TR, TR> function, TR res = default)
+        {
+            foreach (var item in collection)
+            {
+                res = function(item, res);
+            }
+            return res;
+        }
     }
 }
