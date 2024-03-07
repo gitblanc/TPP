@@ -152,6 +152,16 @@ namespace Clausuras
                 val = GetValorGenerador();
             }
             Console.WriteLine(val);
+
+
+            Console.WriteLine("Fibonacci");
+            var fiboGenerator = Ejercicio.GetFibonacciGenerator();
+
+            // Generar y mostrar los primeros 10 números de Fibonacci.
+            for (int i = 0; i < 10; i++)
+            {
+                Console.WriteLine(fiboGenerator());
+            }
         }
 
         static void LimpiarPantalla()

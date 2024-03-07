@@ -63,6 +63,23 @@ namespace Clausuras
 
         */
 
+        public static Func<int> GetFibonacciGenerator()
+        {
+            int prev = 0, next = 1; // Inicializar los dos primeros números de la secuencia.
+
+            // La clausura captura y recuerda 'prev' y 'next' entre llamadas.
+            return () =>
+            {
+                int current = prev;
+                int newNext = prev + next;
+
+                // Preparar para la siguiente llamada.
+                prev = next;
+                next = newNext;
+
+                return current;
+            };
+        }
 
 
         /* Ejercicio Clase 2
@@ -71,6 +88,15 @@ namespace Clausuras
            Pruébese la implementación para el ejemplo propuesto.
 
          */
+
+        public static void BucleWhileFuncional(Func<bool> condicion, Action cuerpo)
+        {
+            if (condicion())
+            {
+                cuerpo();
+                BucleWhileFuncional(condicion, cuerpo);
+            }
+        }
 
 
         public static void BucleWhileObjetos()
