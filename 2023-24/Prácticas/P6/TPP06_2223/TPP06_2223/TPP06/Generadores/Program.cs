@@ -6,6 +6,7 @@ namespace Generadores
 {
     public static class Program
     {
+        // Aplica el action por defecto a todos, y sino al máximo de elementos que le pasemos
         public static void ForEach<T>(this IEnumerable<T> enumerable, Action<T> action, int? maximoElementos = null)
         {
             int contador = 0;
@@ -23,12 +24,12 @@ namespace Generadores
         {
 
             const int numeroDeTerminos = 10;
-            
+
             // 10 primeros términos de la sucesión de Fibonacci
 
             int i = 1;
 
-            foreach (int valor in Funciones.FibonacciInfinito() )
+            foreach (int valor in Funciones.FibonacciInfinito())//Es un IEnumerable de int
             {
                 Console.WriteLine("Término {0}: {1}.", i, valor);
                 if (i++ == numeroDeTerminos)
@@ -38,7 +39,7 @@ namespace Generadores
             Console.WriteLine();
 
             // Empleando iterador (IEnumerator) 
-            
+
             var iterador = Funciones.FibonacciInfinito().GetEnumerator();
             iterador.MoveNext();
 
@@ -53,16 +54,16 @@ namespace Generadores
             foreach (int valor in Funciones.FibonacciFinito(numeroDeTerminos))
                 Console.WriteLine("Término {0}: {1}.", i++, valor);
 
-            
+
             LimpiarPantalla();
 
             // eager vs lazy.
 
-            
+
             const int desde = 1000, cantidad = 10000000, mostrarNElementos = 10;
 
             //Estricta (eager): Para trabajar con una colección tenemos que tener la colección COMPLETA.
-            
+
             var chrono = new Stopwatch();
             chrono.Start();
 
@@ -70,7 +71,7 @@ namespace Generadores
             Console.Write("{0} elementos tras el término {1} (estricta/eager):\n\t", mostrarNElementos, desde);
 
             //Una vez obtenida TODA la colección, solamente consumimos 10.            
-            imparesEstricto.ForEach( item => Console.Write("{0} ", item) , mostrarNElementos);
+            imparesEstricto.ForEach(item => Console.Write("{0} ", item), mostrarNElementos);
 
 
             Console.WriteLine();
@@ -84,12 +85,12 @@ namespace Generadores
             //Perezosa (lazy): Generamos la colección (potencialmente infinita) bajo demanda.
             //Fíjate en el uso del Skip y el Take en la función NumerosImparesLazy.
 
-            IEnumerable<int> imparesLazy = Funciones.NumerosImparesLazy(desde, cantidad);
-            
+            IEnumerable<int> imparesLazy = Funciones.NumerosImparesLazy(desde, cantidad);//ESTO NO GENERA NI UN SOLO ELEMENTO, SÓLO GENERA EL ITERADOR
+
             Console.Write("{0} elementos tras el término {1} (perezosa/lazy):\n\t", mostrarNElementos, desde);
 
-            imparesLazy.ForEach( item => Console.Write("{0} ", item) , mostrarNElementos);
-            
+            imparesLazy.ForEach(item => Console.Write("{0} ", item), mostrarNElementos); //LOS ELEMENTOS SE GENERAN AQUÍ, EN EL FOREACH, POR ESO EL WRITELIE SALE DESPUÉS
+
             Console.WriteLine();
             chrono.Stop();
             long ticksPerezosa = chrono.ElapsedTicks;

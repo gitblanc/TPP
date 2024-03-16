@@ -27,11 +27,20 @@ namespace Clausuras
         public static Func<int> MetodoAleatorioInferiorv1()
         {
             Random random = new Random();
-            int _valor = 50;
+            int inicial = 50;
+            int _valor = inicial;
 
             return () =>
             {
-                _valor = random.Next(0, _valor);
+                if (_valor == 0)
+                {
+                    _valor = inicial;
+                    return 0;
+                }
+                else
+                {
+                    _valor = random.Next(0, _valor);
+                }
                 return _valor;
             };
         }
@@ -44,7 +53,7 @@ namespace Clausuras
 
 
             reset = () => _valor = inicial;
-            get = () => _valor = random.Next(0, _valor);
+            get = () => _valor = random.Next(0, _valor);//está mal
             modify = newValue => _valor = newValue;
         }
 

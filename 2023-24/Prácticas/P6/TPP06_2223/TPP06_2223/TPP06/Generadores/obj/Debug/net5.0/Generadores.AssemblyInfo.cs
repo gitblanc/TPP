@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Generadores")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+75b9a4167019f5ef7d75e8cdd720833675f52be3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+266305585dbf45d17dcc801228316cf2eafb886e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Generadores")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Generadores")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

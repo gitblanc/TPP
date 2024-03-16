@@ -1,0 +1,17 @@
+Generadores (potencialmente infinitos):
+
+Estricto -> Eager
+Perezoso -> Lazy
+
+Cuando tenemos un IEnumerator que está generado con yield, no se va a poder utilizar el Reset.
+	Parar el enumerator y volver a llamar al método.
+
+En paradigma funcional podemos hacer paso de parámetros perezoso (pasar funciones como parámetro en lugar de valores como tal 
+	-> Operacion(Funcion1, Funcion2) en lugar de Operacion(3+1, 5+2))
+
+IMPORTANTE: Revisar los proyectos que nos sugiere sobre memorizacion
+
+ANOTAR EJERCICIO EXAMEN ZIP
+
+LOS MÉTODOS DE DE LA TAREA HAN DE SER EXTENSORES DE NUESTRA LISTA Y DEVUELVEN NUESTRA LISTA, NO IENUMERABLE
+	-> public static LinkedList<X> Metodo(...);

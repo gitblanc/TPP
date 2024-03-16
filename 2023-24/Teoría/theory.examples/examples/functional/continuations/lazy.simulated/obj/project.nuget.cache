@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "QWbyoDKltpRIg4oCtaAPM1bahwtLP2Pv62L1sbgbw5EQXYzGxA8pOKeh0zJncBKpD9Mo4iwdCKy8Pg+j1pZ/JQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\blanc\\Desktop\\TPP\\2023-24\\Teoría\\theory.examples\\examples\\functional\\continuations\\lazy.simulated\\lazy.simulated.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\blanc\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\blanc\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

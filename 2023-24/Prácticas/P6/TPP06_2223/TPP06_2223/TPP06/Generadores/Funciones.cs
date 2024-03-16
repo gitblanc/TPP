@@ -90,7 +90,7 @@ namespace Generadores
             //using System.Linq métodos extensores
             //Skip salta N elementos.
             //Take selecciona N elementos a partir del actual.
-            return ImparesGeneradorLazy().Skip(desde).Take(cuantos);
+            return ImparesGeneradorLazy().Skip(desde).Take(cuantos);//El Skip y el Take son perezosos
         }
 
 

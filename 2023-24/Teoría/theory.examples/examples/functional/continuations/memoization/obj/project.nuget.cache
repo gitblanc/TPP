@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "RzmM8lHILribgfDSxvf9NHympjCjGQTYv4Njvch2FGyUFN7Vfxjhb/EkkLgO9qYVCCS26spVBb/G6Cv2uHR6dw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\blanc\\Desktop\\TPP\\2023-24\\Teoría\\theory.examples\\examples\\functional\\continuations\\memoization\\memoization.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\blanc\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\blanc\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
