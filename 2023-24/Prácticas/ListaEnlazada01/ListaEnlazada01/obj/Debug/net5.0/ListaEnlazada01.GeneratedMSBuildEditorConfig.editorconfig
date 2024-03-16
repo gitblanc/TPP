@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ListaEnlazada01
-build_property.ProjectDir = D:\TPP\ListaEnlazada01\ListaEnlazada01\
+build_property.ProjectDir = C:\Users\blanc\Desktop\TPP\2023-24\Prácticas\ListaEnlazada01\ListaEnlazada01\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

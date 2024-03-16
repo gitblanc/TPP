@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\uo285176\\.nuget\\packages\\": {}
+    "C:\\Users\\blanc\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TPP\\ListaEnlazada01\\ModeloClases\\ModeloClases.csproj",
+      "projectUniqueName": "C:\\Users\\blanc\\Desktop\\TPP\\2023-24\\Prácticas\\ListaEnlazada01\\ModeloClases\\ModeloClases.csproj",
       "projectName": "ModeloClases",
-      "projectPath": "D:\\TPP\\ListaEnlazada01\\ModeloClases\\ModeloClases.csproj",
-      "packagesPath": "C:\\Users\\uo285176\\.nuget\\packages\\",
-      "outputPath": "D:\\TPP\\ListaEnlazada01\\ModeloClases\\obj\\",
+      "projectPath": "C:\\Users\\blanc\\Desktop\\TPP\\2023-24\\Prácticas\\ListaEnlazada01\\ModeloClases\\ModeloClases.csproj",
+      "packagesPath": "C:\\Users\\blanc\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\blanc\\Desktop\\TPP\\2023-24\\Prácticas\\ListaEnlazada01\\ModeloClases\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\uo285176\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\blanc\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
