@@ -1,8 +1,11 @@
 ﻿using System;
 using System.Collections;
 using System.Collections.Generic;
+using System.Linq;
+using System.Runtime.CompilerServices;
 using System.Text;
 using System.Threading;
+using System.Xml.XPath;
 
 namespace ModeloClases
 {
@@ -95,7 +98,7 @@ namespace ModeloClases
         /// <param name="pos"></param>
         /// <returns>El valor de un objeto (si existe), null si no existe</returns>
         /// <exception cref="IndexOutOfRangeException"></exception>
-        public object GetElement(int pos)
+        public T GetElement(int pos)
         {
             LinkedNode<T> current = _head;
             if (pos >= _numelems)
@@ -111,7 +114,7 @@ namespace ModeloClases
                     cont += 1;
                 }
                 if (current == null)
-                    return null;
+                    return default;
 
                 return current.Data;
             }

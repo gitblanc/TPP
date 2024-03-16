@@ -27,5 +27,17 @@ namespace ModeloClases
                 angulos[angulo] = new Angulo(angulo / 180.0 * Math.PI);
             return angulos;
         }
+
+        public static LinkedList<Persona> MyCrearPersonas()
+        {
+            string[] nombres = { "María", "Juan", "Pepe", "Luis", "Carlos", "Miguel", "Cristina", "María", "Juan" };
+            string[] apellidos1 = { "Díaz", "Pérez", "Hevia", "García", "Rodríguez", "Pérez", "Sánchez", "Díaz", "Hevia" };
+            string[] nifs = { "9876384A", "103478387F", "23476293R", "4837649A", "67365498B", "98673645T", "56837645F", "87666354D", "9376384K" };
+            int[] edades = { 15, 16, 17, 18, 19, 20, 21, 22, 23 };
+            LinkedList<Persona> personas = new LinkedList<Persona>();
+            for (int i = 0; i < edades.Length; i++)
+                personas.Add(new Persona(nombres[i], apellidos1[i], nifs[i], edades[i]));
+            return personas;
+        }
     }
 }

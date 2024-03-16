@@ -18,7 +18,7 @@ namespace Tests
         /*
          * Métodos similares:
          * 
-         * Buscar -> Where
+         * Buscar -> First/FirstOrDefault
          * Filtrar -> Where
          * Reducir -> Aggregate
          * Map -> Select
@@ -30,15 +30,15 @@ namespace Tests
         {
             // Pruebe la búsquedas de personas por nombre y aquellas cuyo nif termina en una letra dada
             var personas = Factoria.CrearPersonas();
-            var res = personas.Where(p => p.Nombre.Equals("María"));
-            Assert.IsTrue(res.Count() == 2);
-            var res2 = personas.Where(p => p.Nif.EndsWith("K"));
-            Assert.IsTrue(res2.Count() == 1);
+            var res = personas.First(p => p.Nombre.Equals("María"));
+            Assert.IsTrue(res.Nif.Equals("9876384A"));
+            var res2 = personas.First(p => p.Nif.EndsWith("K"));
+            Assert.IsTrue(res2.Nombre.Equals("Juan"));
 
             // Pruebe la búsqueda de ángulos rectos y en un cuadrante
             var angulos = Factoria.CrearAngulos();
-            var res3 = angulos.Where(a => a.Grados == 90);
-            Assert.IsTrue(res3.Count() == 1);
+            var res3 = angulos.First(a => a.Grados == 90);
+            Assert.IsTrue(res3.Grados == 90);
         }
 
         [TestMethod]

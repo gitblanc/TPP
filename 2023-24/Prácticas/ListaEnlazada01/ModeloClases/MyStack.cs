@@ -48,13 +48,13 @@ namespace ModeloClases
             return true;
         }
 
-        public object Pop()
+        public T Pop()
         {
             // Precondiciones
             if (_list.NumberOfElements == 0)
                 throw new ArgumentOutOfRangeException("La pila está vacía");
 
-            object toPop = _list.GetElement(_list.NumberOfElements - 1);
+            T toPop = _list.GetElement(_list.NumberOfElements - 1);
             int previous = _list.NumberOfElements;
             bool result = _list.RemoveByPos(_list.NumberOfElements - 1);
 #if DEBUG
