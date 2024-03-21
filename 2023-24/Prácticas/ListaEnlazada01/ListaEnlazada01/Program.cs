@@ -8,7 +8,13 @@ namespace ListaEnlazada01
 
         static void Main(string[] args)
         {
-            Console.WriteLine("Mira los tests anda...");
+            Console.WriteLine("Para la LinkedList y la Pila mira los tests anda...");
+
+            LinqQueries.Consulta1();
+            LinqQueries.Consulta2();
+            LinqQueries.Consulta3();
+            LinqQueries.Consulta4();
+            LinqQueries.Consulta5();
         }
     }
 }
