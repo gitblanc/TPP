@@ -1,0 +1,6 @@
+- Si nos piden implementar la programación por contrato en una función de orden superior, hay que implementar precondiciones y postcondiciones, 
+pero NUNCA invariante, porque en funcional no hay objetos
+- Hay tres clausuras: MoveNext, Current y Reset. Interfaz IEnumerator
+
+-------MODELO EXAMEN--------
+- Para unir empleado con llamada, usar el Join

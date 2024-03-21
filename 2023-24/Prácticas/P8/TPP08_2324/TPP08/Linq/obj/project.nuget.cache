@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "m9+5+dJ1TV4Cpb85uTJGWXnOXzADCsQyIX9950gWhs1ql3NYw90Sh4E7A/+Gp5EHEWcAnK35MJ/4acc5+5DE9A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\blanc\\Desktop\\TPP\\2023-24\\Prácticas\\P8\\TPP08_2324\\TPP08\\Linq\\Linq.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\blanc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
