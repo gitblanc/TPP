@@ -244,16 +244,33 @@ namespace Linq
         {
             Console.WriteLine("Consulta 6");
             //Mostrar la llamada realizada más larga para cada empleado, mostrando por pantalla: Nombre_empleado : duracion_llamada_mas_larga
-            var result = modelo.PhoneCalls.GroupBy(
+            // Con esta forma hay elementos nulos (porque hay llamadas que no corresponden a un empleado)
+            //var result = modelo.PhoneCalls.GroupBy(
+            //    ll => ll.SourceNumber,
+            //    (numero, llamadasEncontradas) =>
+            //    new
+            //    {
+            //        Nombre = modelo.Employees.Where(e => e.TelephoneNumber.Equals(numero)).Select(e => e.Name).FirstOrDefault(),
+            //        Duracion = llamadasEncontradas.Select(ll => ll.Seconds).Max()
+            //    }
+            //    ).Where(a => !string.IsNullOrEmpty(a.Nombre))
+            //    .Select(a => $"Nombre = {a.Nombre}, Maxima = {a.Duracion}");
+            var result = modelo.PhoneCalls.Join(
+                modelo.Employees,
                 ll => ll.SourceNumber,
-                (numero, llamadasEncontradas) =>
+                e => e.TelephoneNumber,
+                (ll, e) =>
                 new
                 {
-                    Nombre = modelo.Employees.Where(e => e.TelephoneNumber.Equals(numero)).Select(e => e.Name).FirstOrDefault(),
-                    Duracion = llamadasEncontradas.Select(ll => ll.Seconds).Max()
+                    Empleado = e,
+                    Llamada = ll
                 }
-                ).Where(a => !string.IsNullOrEmpty(a.Nombre))
-                .Select(a => $"Nombre = {a.Nombre}, Maxima = {a.Duracion}");
+                ).GroupBy(a => a.Empleado.Name)
+                .Select(grupo => new
+                {
+                    Nombre = grupo.Key,
+                    Duracion = grupo.Max(a => a.Llamada.Seconds)
+                });
 
 
             Show(result);
