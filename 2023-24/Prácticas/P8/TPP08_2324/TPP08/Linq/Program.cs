@@ -272,7 +272,7 @@ namespace Linq
             //        Nombre = grupo.Key,
             //        Duracion = grupo.Max(a => a.Llamada.Seconds)
             //    });
-            // Es mejor agrupar por el empleado y luego usar el Equals
+            // Es mejor agrupar por el empleado y que decida el Equals
             var result = modelo.PhoneCalls.Join(
                 modelo.Employees,
                 ll => ll.SourceNumber,
