@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "pSi5a9fk+Ta0prxkPiKov0kkRPkjIqHNp/BlOjKs9nyLcALmurOE37gIUpcSeaWyxOFgUpnJfGSpSRs+nBRCLw==",
+  "dgSpecHash": "72Top1YC4yERNi20LS7UMWInIIuYj0+rDCBpz63Tn4TQS2JzW4xQjjlMGpEjJPlCRF/0NGEY4gNbJfbOPAvNVg==",
   "success": true,
   "projectFilePath": "C:\\Users\\blanc\\Desktop\\TPP\\2023-24\\Prácticas\\P6\\TPP06_2223\\TPP06_2223\\TPP06\\Clausuras\\Clausuras.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\blanc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
   "logs": []
 }

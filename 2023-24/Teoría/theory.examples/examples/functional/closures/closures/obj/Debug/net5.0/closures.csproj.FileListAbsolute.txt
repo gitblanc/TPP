@@ -1,0 +1,14 @@
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\functional\closures\closures\bin\Debug\net5.0\closures.exe
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\functional\closures\closures\bin\Debug\net5.0\closures.deps.json
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\functional\closures\closures\bin\Debug\net5.0\closures.runtimeconfig.json
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\functional\closures\closures\bin\Debug\net5.0\closures.runtimeconfig.dev.json
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\functional\closures\closures\bin\Debug\net5.0\closures.dll
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\functional\closures\closures\bin\Debug\net5.0\closures.pdb
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\functional\closures\closures\obj\Debug\net5.0\closures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\functional\closures\closures\obj\Debug\net5.0\closures.csproj.CoreCompileInputs.cache
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\functional\closures\closures\obj\Debug\net5.0\closures.sourcelink.json
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\functional\closures\closures\obj\Debug\net5.0\closures.dll
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\functional\closures\closures\obj\Debug\net5.0\refint\closures.dll
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\functional\closures\closures\obj\Debug\net5.0\closures.pdb
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\functional\closures\closures\obj\Debug\net5.0\closures.genruntimeconfig.cache
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\functional\closures\closures\obj\Debug\net5.0\ref\closures.dll

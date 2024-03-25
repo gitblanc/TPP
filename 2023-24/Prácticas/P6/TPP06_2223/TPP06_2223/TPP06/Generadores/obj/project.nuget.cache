@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "K0IoeJRLPVjDy7Lwo5ZZ2OADfpUK9geaxOPNKDEXzsGK7/1Y/SbRZrRIv48Uen1DDGNX972QG8Bt6qucV/BbGA==",
+  "dgSpecHash": "gge9U5f7kNWLl0z9En5ZdDeywHhtT8HdBmB5+XJ6/z4rB2Vt1y2Nj8UefGZfPDz6n6DToGNdXHNcGRj3ZTs9zw==",
   "success": true,
   "projectFilePath": "C:\\Users\\blanc\\Desktop\\TPP\\2023-24\\Prácticas\\P6\\TPP06_2223\\TPP06_2223\\TPP06\\Generadores\\Generadores.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\blanc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
   "logs": []
 }

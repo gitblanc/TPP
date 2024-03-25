@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "q6URkPyRWTge/7iA5ANeJHlltpLKa4AAMMVTLlR9QdvompnyS8zzzjJ3utv5s995Z84buqC9QFh/epTiMf/1Ww==",
+  "dgSpecHash": "o2ziVUFBo/yR0gUGtvKdfOdGtaUbUgTd4K2nybl9wL/MPIxPJmd4mQD2MtUwT6krhLyyzW6gyQwR61q+gEov7A==",
   "success": true,
   "projectFilePath": "C:\\Users\\blanc\\Desktop\\TPP\\2023-24\\Teoría\\theory.examples\\examples\\functional\\continuations\\generators\\generators.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\blanc\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
-    "C:\\Users\\blanc\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+    "C:\\Users\\blanc\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512",
+    "C:\\Users\\blanc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
   ],
   "logs": []
 }

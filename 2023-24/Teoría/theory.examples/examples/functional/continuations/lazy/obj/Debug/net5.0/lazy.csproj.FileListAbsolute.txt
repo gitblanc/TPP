@@ -1,0 +1,14 @@
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\functional\continuations\lazy\bin\Debug\net5.0\lazy.exe
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\functional\continuations\lazy\bin\Debug\net5.0\lazy.deps.json
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\functional\continuations\lazy\bin\Debug\net5.0\lazy.runtimeconfig.json
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\functional\continuations\lazy\bin\Debug\net5.0\lazy.runtimeconfig.dev.json
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\functional\continuations\lazy\bin\Debug\net5.0\lazy.dll
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\functional\continuations\lazy\bin\Debug\net5.0\lazy.pdb
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\functional\continuations\lazy\obj\Debug\net5.0\lazy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\functional\continuations\lazy\obj\Debug\net5.0\lazy.csproj.CoreCompileInputs.cache
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\functional\continuations\lazy\obj\Debug\net5.0\lazy.sourcelink.json
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\functional\continuations\lazy\obj\Debug\net5.0\lazy.dll
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\functional\continuations\lazy\obj\Debug\net5.0\refint\lazy.dll
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\functional\continuations\lazy\obj\Debug\net5.0\lazy.pdb
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\functional\continuations\lazy\obj\Debug\net5.0\lazy.genruntimeconfig.cache
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\functional\continuations\lazy\obj\Debug\net5.0\ref\lazy.dll

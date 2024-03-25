@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "0oSTEuv4ebJnb27CY2HuLK5ZlfU7p2hwTRIb9k5aW8Und0VtKhcgzHCh+PdYeA8T9s/dkTnAioixgB99v47d3A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\blanc\\Desktop\\TPP\\2023-24\\Teoría\\theory.examples\\examples\\functional\\higher.order\\filter\\filter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\blanc\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\blanc\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512",
+    "C:\\Users\\blanc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

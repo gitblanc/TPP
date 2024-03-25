@@ -1,0 +1,14 @@
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\functional\continuations\lazy.simulated\bin\Debug\net5.0\lazy.simulated.exe
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\functional\continuations\lazy.simulated\bin\Debug\net5.0\lazy.simulated.deps.json
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\functional\continuations\lazy.simulated\bin\Debug\net5.0\lazy.simulated.runtimeconfig.json
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\functional\continuations\lazy.simulated\bin\Debug\net5.0\lazy.simulated.runtimeconfig.dev.json
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\functional\continuations\lazy.simulated\bin\Debug\net5.0\lazy.simulated.dll
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\functional\continuations\lazy.simulated\bin\Debug\net5.0\lazy.simulated.pdb
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\functional\continuations\lazy.simulated\obj\Debug\net5.0\lazy.simulated.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\functional\continuations\lazy.simulated\obj\Debug\net5.0\lazy.simulated.csproj.CoreCompileInputs.cache
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\functional\continuations\lazy.simulated\obj\Debug\net5.0\lazy.simulated.sourcelink.json
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\functional\continuations\lazy.simulated\obj\Debug\net5.0\lazy.simulated.dll
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\functional\continuations\lazy.simulated\obj\Debug\net5.0\refint\lazy.simulated.dll
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\functional\continuations\lazy.simulated\obj\Debug\net5.0\lazy.simulated.pdb
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\functional\continuations\lazy.simulated\obj\Debug\net5.0\lazy.simulated.genruntimeconfig.cache
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\functional\continuations\lazy.simulated\obj\Debug\net5.0\ref\lazy.simulated.dll
