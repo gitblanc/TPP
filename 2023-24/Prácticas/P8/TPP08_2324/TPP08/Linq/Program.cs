@@ -255,6 +255,24 @@ namespace Linq
             //    }
             //    ).Where(a => !string.IsNullOrEmpty(a.Nombre))
             //    .Select(a => $"Nombre = {a.Nombre}, Maxima = {a.Duracion}");
+            //// Agrupando por el nombre es confiar en el modelo
+            //var result = modelo.PhoneCalls.Join(
+            //    modelo.Employees,
+            //    ll => ll.SourceNumber,
+            //    e => e.TelephoneNumber,
+            //    (ll, e) =>
+            //    new
+            //    {
+            //        Empleado = e,
+            //        Llamada = ll
+            //    }
+            //    ).GroupBy(a => a.Empleado.Name)
+            //    .Select(grupo => new
+            //    {
+            //        Nombre = grupo.Key,
+            //        Duracion = grupo.Max(a => a.Llamada.Seconds)
+            //    });
+            // Es mejor agrupar por el empleado y luego usar el Equals
             var result = modelo.PhoneCalls.Join(
                 modelo.Employees,
                 ll => ll.SourceNumber,
@@ -265,10 +283,10 @@ namespace Linq
                     Empleado = e,
                     Llamada = ll
                 }
-                ).GroupBy(a => a.Empleado.Name)
+                ).GroupBy(a => a.Empleado)
                 .Select(grupo => new
                 {
-                    Nombre = grupo.Key,
+                    Nombre = grupo.Key.Name,
                     Duracion = grupo.Max(a => a.Llamada.Seconds)
                 });
 
