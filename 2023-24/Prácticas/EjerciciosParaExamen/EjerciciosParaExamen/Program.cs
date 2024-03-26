@@ -104,7 +104,55 @@ namespace EjerciciosParaExamen
             //};
             //EjerciciosExamen.Ejercicio3_P6(condicion, cuerpo);
 
+            Console.WriteLine("---Ejercicio 4 P6---");
+            var resEj4_P6 = EjerciciosExamen.Ejercicio4_P6(Factoria.CrearPersonas())(p => p.Edad > 18);
+            PrintInGreen(resEj4_P6.ToString());
 
+            Console.WriteLine("---Ejercicio 5a P6---");
+            var resEj5a_P6 = EjerciciosExamen.Ejercicio5a_P6(5, 3, 1)(2);
+            PrintInGreen(resEj5a_P6);
+
+            Console.WriteLine("---Ejercicio 5b P6---");
+            var resEj5b_P6 = EjerciciosExamen.Ejercicio5b_P6(5, 3)(1)(2);
+            PrintInGreen(resEj5b_P6);
+
+            Console.WriteLine("---Ejercicio 5c P6---");
+            var resEj5c_P6 = EjerciciosExamen.Ejercicio5c_P6(5)(3)(1)(2);
+            PrintInGreen(resEj5c_P6);
+
+            Console.WriteLine("---Ejercicio 5c2 P6---");
+            var resEj5c2_P6 = EjerciciosExamen.Ejercicio5c_P6(1)(5)(3)(2);
+            PrintInGreen(resEj5c2_P6);
+
+            Console.WriteLine("---Ejercicio 5c3 P6---");
+            // Se sabe que la división:  20 / 6 = 3. Se desconoce el valor del resto.
+            // Partiendo del valor 0, e incrementalmente, obténgase el resto.
+            var resto = 0;
+            while (true)
+            {
+                if (EjerciciosExamen.Ejercicio5c_P6(3)(20)(6)(resto))
+                {
+                    PrintInGreen($"resto de 20/6: {resto}");
+                    break;
+                }
+                resto += 1;
+            }
+
+            PrintInRed("///------------------------------------------------///\r\n///------------------PRACTICA 7--------------------///\r\n///------------------------------------------------///");
+
+            Console.WriteLine("---Ejercicio 1 P7---");
+            var resEj1_P7 = EjerciciosExamen.Ejercicio1_P7(Factoria.CrearPersonas(), Factoria.CrearLibros());
+            Show(resEj1_P7);
+
+            PrintInRed("///------------------------------------------------///\r\n///------------------PRACTICA 8--------------------///\r\n///------------------------------------------------///");
+            EjerciciosExamen.Ejercicio1_P8();
+            EjerciciosExamen.Ejercicio2_P8();
+            EjerciciosExamen.Ejercicio3_P8();
+            EjerciciosExamen.Ejercicio4_P8();
+            EjerciciosExamen.Ejercicio5_P8();
+            EjerciciosExamen.Ejercicio6_P8();
+            EjerciciosExamen.Ejercicio7_P8();
+            EjerciciosExamen.Ejercicio8_P8();
         }
 
         private static void PrintInRed(string text)

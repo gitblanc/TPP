@@ -8,14 +8,14 @@ namespace Modelo
 {
     public class Libro
     {
-        public string Titulo{ get; }
-        public string Autor { get;}
+        public string Titulo { get; }
+        public string Autor { get; }
 
-        public int NumPaginas { get;}
+        public int NumPaginas { get; }
 
-        public int YearPublicacion { get;}
+        public int YearPublicacion { get; }
 
-        public string Genero { get;}
+        public string Genero { get; }
 
         public Libro(string titulo, string autor, int numPaginas, int yearPublicacion, string genero)
         {
@@ -24,6 +24,12 @@ namespace Modelo
             NumPaginas = numPaginas;
             YearPublicacion = yearPublicacion;
             Genero = genero;
+        }
+
+
+        public override string ToString()
+        {
+            return $"{Titulo} por {Autor} con {NumPaginas} páginas de laño {YearPublicacion} con género {Genero}";
         }
     }
 }
