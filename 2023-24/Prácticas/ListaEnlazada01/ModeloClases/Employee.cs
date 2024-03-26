@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Modelo
+namespace ModeloClases
 {
     public class Employee
     {
