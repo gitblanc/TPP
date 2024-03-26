@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LambdaSintaxis")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+95f96da3d6336982b0ac6f0be7417dab082c33c0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bdb00d1ecc3fa90ef32b7625dc1a232c14a671b3")]
 [assembly: System.Reflection.AssemblyProductAttribute("LambdaSintaxis")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LambdaSintaxis")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

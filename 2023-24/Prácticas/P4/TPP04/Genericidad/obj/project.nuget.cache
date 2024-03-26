@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "yE9rCjPwKF/05bCwN27WxhW7mkyWRf31XUx7yw1fSvkPMdzj1io7WYXgXyuj0ytg30xMdsg99q0tU2SdS7DwiA==",
+  "dgSpecHash": "BFWMT3yLfbXzhQXJztB3gs5d98nRve93ICxpjIPl8ehmjHu5bOq2CtzoFTaLyNXOgFl4pxDHFDWuyNOImvUpbQ==",
   "success": true,
-  "projectFilePath": "D:\\TPP\\P4\\TPP04\\Genericidad\\Genericidad.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\blanc\\Desktop\\TPP\\2023-24\\Prácticas\\P4\\TPP04\\Genericidad\\Genericidad.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\blanc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
   "logs": []
 }

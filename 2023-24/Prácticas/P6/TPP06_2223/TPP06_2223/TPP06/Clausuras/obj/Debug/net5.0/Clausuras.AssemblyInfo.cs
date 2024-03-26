@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Clausuras")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+82492f40c571a022ea146c0ee6a6d0529758315c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bdb00d1ecc3fa90ef32b7625dc1a232c14a671b3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Clausuras")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Clausuras")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

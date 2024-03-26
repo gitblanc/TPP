@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MetodosExtensores")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+208c99535eb0f4e93e79affa8538fd803e705dcd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bdb00d1ecc3fa90ef32b7625dc1a232c14a671b3")]
 [assembly: System.Reflection.AssemblyProductAttribute("MetodosExtensores")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MetodosExtensores")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "OTUGaKeI37bc1/ML2UEEdlV+izRuIjkxTjWYV64eUMpXFlNOShOXHboDCljp6saabKwwR2pRdWymjDUKbTAIfQ==",
+  "dgSpecHash": "HDi8cQyDkyWrFhr2295JnI9KQbrBQrLhrzDJhokyrsDcK8MsGd46lOCzczWYVrXAW+VNsr4qMbhWPXpBoP8lKw==",
   "success": true,
-  "projectFilePath": "D:\\TPP\\P7\\TPP07_2324\\TPP07_2324\\TPP07\\TPP07\\TPP07.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\blanc\\Desktop\\TPP\\2023-24\\Prácticas\\P7\\TPP07_2324\\TPP07_2324\\TPP07\\TPP07\\TPP07.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\blanc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
   "logs": []
 }

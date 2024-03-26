@@ -45,7 +45,7 @@ namespace Generadores
 
             Console.WriteLine("Término 1: {0}.", iterador.Current);
 
-            // iterador.Reset();  <- ¡OJO! El reset no está soportado.
+            //iterador.Reset();  <- ¡OJO! El reset no está soportado.
 
             Console.WriteLine();
 

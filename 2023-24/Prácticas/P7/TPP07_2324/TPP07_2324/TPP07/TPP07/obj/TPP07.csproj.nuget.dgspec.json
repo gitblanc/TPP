@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\TPP\\P7\\TPP07_2324\\TPP07_2324\\TPP07\\TPP07\\TPP07.csproj": {}
+    "C:\\Users\\blanc\\Desktop\\TPP\\2023-24\\Prácticas\\P7\\TPP07_2324\\TPP07_2324\\TPP07\\TPP07\\TPP07.csproj": {}
   },
   "projects": {
-    "D:\\TPP\\P7\\TPP07_2324\\TPP07_2324\\TPP07\\Modelo\\Modelo.csproj": {
+    "C:\\Users\\blanc\\Desktop\\TPP\\2023-24\\Prácticas\\P7\\TPP07_2324\\TPP07_2324\\TPP07\\Modelo\\Modelo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\TPP\\P7\\TPP07_2324\\TPP07_2324\\TPP07\\Modelo\\Modelo.csproj",
+        "projectUniqueName": "C:\\Users\\blanc\\Desktop\\TPP\\2023-24\\Prácticas\\P7\\TPP07_2324\\TPP07_2324\\TPP07\\Modelo\\Modelo.csproj",
         "projectName": "Modelo",
-        "projectPath": "D:\\TPP\\P7\\TPP07_2324\\TPP07_2324\\TPP07\\Modelo\\Modelo.csproj",
-        "packagesPath": "C:\\Users\\uo285176\\.nuget\\packages\\",
-        "outputPath": "D:\\TPP\\P7\\TPP07_2324\\TPP07_2324\\TPP07\\Modelo\\obj\\",
+        "projectPath": "C:\\Users\\blanc\\Desktop\\TPP\\2023-24\\Prácticas\\P7\\TPP07_2324\\TPP07_2324\\TPP07\\Modelo\\Modelo.csproj",
+        "packagesPath": "C:\\Users\\blanc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\blanc\\Desktop\\TPP\\2023-24\\Prácticas\\P7\\TPP07_2324\\TPP07_2324\\TPP07\\Modelo\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\uo285176\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\blanc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -55,21 +60,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\TPP\\P7\\TPP07_2324\\TPP07_2324\\TPP07\\TPP07\\TPP07.csproj": {
+    "C:\\Users\\blanc\\Desktop\\TPP\\2023-24\\Prácticas\\P7\\TPP07_2324\\TPP07_2324\\TPP07\\TPP07\\TPP07.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\TPP\\P7\\TPP07_2324\\TPP07_2324\\TPP07\\TPP07\\TPP07.csproj",
+        "projectUniqueName": "C:\\Users\\blanc\\Desktop\\TPP\\2023-24\\Prácticas\\P7\\TPP07_2324\\TPP07_2324\\TPP07\\TPP07\\TPP07.csproj",
         "projectName": "TPP07",
-        "projectPath": "D:\\TPP\\P7\\TPP07_2324\\TPP07_2324\\TPP07\\TPP07\\TPP07.csproj",
-        "packagesPath": "C:\\Users\\uo285176\\.nuget\\packages\\",
-        "outputPath": "D:\\TPP\\P7\\TPP07_2324\\TPP07_2324\\TPP07\\TPP07\\obj\\",
+        "projectPath": "C:\\Users\\blanc\\Desktop\\TPP\\2023-24\\Prácticas\\P7\\TPP07_2324\\TPP07_2324\\TPP07\\TPP07\\TPP07.csproj",
+        "packagesPath": "C:\\Users\\blanc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\blanc\\Desktop\\TPP\\2023-24\\Prácticas\\P7\\TPP07_2324\\TPP07_2324\\TPP07\\TPP07\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\uo285176\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\blanc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -77,14 +86,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\TPP\\P7\\TPP07_2324\\TPP07_2324\\TPP07\\Modelo\\Modelo.csproj": {
-                "projectPath": "D:\\TPP\\P7\\TPP07_2324\\TPP07_2324\\TPP07\\Modelo\\Modelo.csproj"
+              "C:\\Users\\blanc\\Desktop\\TPP\\2023-24\\Prácticas\\P7\\TPP07_2324\\TPP07_2324\\TPP07\\Modelo\\Modelo.csproj": {
+                "projectPath": "C:\\Users\\blanc\\Desktop\\TPP\\2023-24\\Prácticas\\P7\\TPP07_2324\\TPP07_2324\\TPP07\\Modelo\\Modelo.csproj"
               }
             }
           }
@@ -109,12 +119,18 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.17, 5.0.17]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

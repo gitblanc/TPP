@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "dYXDOTzXa+9MvZ2nfK61YU6jNrmpgUshF6YNQop6bkcAel9ZUt2gbkygqezDJaewlVwFBEQMGFM6cIUZSZd+YQ==",
+  "dgSpecHash": "nCMhnzNsmSphqkMyvamzCWBLaTJxx2eyWkTMGYsfvUjtxgC0KPlZ7X14XaMoZH5NEfjvwh4CHpMJSyK1lMLqGQ==",
   "success": true,
-  "projectFilePath": "D:\\TPP\\P4\\TPP04\\IEnumerable\\IEnumerable.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\blanc\\Desktop\\TPP\\2023-24\\Prácticas\\P4\\TPP04\\IEnumerable\\IEnumerable.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\blanc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -27,19 +27,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\uo285176\\.nuget\\packages\\": {}
+    "C:\\Users\\blanc\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TPP\\P4\\TPP04\\Genericidad\\Genericidad.csproj",
+      "projectUniqueName": "C:\\Users\\blanc\\Desktop\\TPP\\2023-24\\Prácticas\\P4\\TPP04\\Genericidad\\Genericidad.csproj",
       "projectName": "Genericidad",
-      "projectPath": "D:\\TPP\\P4\\TPP04\\Genericidad\\Genericidad.csproj",
-      "packagesPath": "C:\\Users\\uo285176\\.nuget\\packages\\",
-      "outputPath": "D:\\TPP\\P4\\TPP04\\Genericidad\\obj\\",
+      "projectPath": "C:\\Users\\blanc\\Desktop\\TPP\\2023-24\\Prácticas\\P4\\TPP04\\Genericidad\\Genericidad.csproj",
+      "packagesPath": "C:\\Users\\blanc\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\blanc\\Desktop\\TPP\\2023-24\\Prácticas\\P4\\TPP04\\Genericidad\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\uo285176\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\blanc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -47,14 +52,15 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\TPP\\P4\\TPP04\\Modelo\\Modelo.csproj": {
-              "projectPath": "D:\\TPP\\P4\\TPP04\\Modelo\\Modelo.csproj"
+            "C:\\Users\\blanc\\Desktop\\TPP\\2023-24\\Prácticas\\P4\\TPP04\\Modelo\\Modelo.csproj": {
+              "projectPath": "C:\\Users\\blanc\\Desktop\\TPP\\2023-24\\Prácticas\\P4\\TPP04\\Modelo\\Modelo.csproj"
             }
           }
         }
@@ -79,12 +85,18 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[5.0.17, 5.0.17]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

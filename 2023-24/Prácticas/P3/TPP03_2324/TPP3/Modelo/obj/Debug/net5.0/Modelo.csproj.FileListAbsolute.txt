@@ -10,3 +10,15 @@ D:\TPP\P3\TPP03_2324\TPP3\Modelo\obj\Debug\net5.0\Modelo.dll
 D:\TPP\P3\TPP03_2324\TPP3\Modelo\obj\Debug\net5.0\refint\Modelo.dll
 D:\TPP\P3\TPP03_2324\TPP3\Modelo\obj\Debug\net5.0\Modelo.pdb
 D:\TPP\P3\TPP03_2324\TPP3\Modelo\obj\Debug\net5.0\ref\Modelo.dll
+C:\Users\blanc\Desktop\TPP\2023-24\Prácticas\P3\TPP03_2324\TPP3\Modelo\bin\Debug\net5.0\Modelo.deps.json
+C:\Users\blanc\Desktop\TPP\2023-24\Prácticas\P3\TPP03_2324\TPP3\Modelo\bin\Debug\net5.0\Modelo.dll
+C:\Users\blanc\Desktop\TPP\2023-24\Prácticas\P3\TPP03_2324\TPP3\Modelo\bin\Debug\net5.0\Modelo.pdb
+C:\Users\blanc\Desktop\TPP\2023-24\Prácticas\P3\TPP03_2324\TPP3\Modelo\obj\Debug\net5.0\Modelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blanc\Desktop\TPP\2023-24\Prácticas\P3\TPP03_2324\TPP3\Modelo\obj\Debug\net5.0\Modelo.AssemblyInfoInputs.cache
+C:\Users\blanc\Desktop\TPP\2023-24\Prácticas\P3\TPP03_2324\TPP3\Modelo\obj\Debug\net5.0\Modelo.AssemblyInfo.cs
+C:\Users\blanc\Desktop\TPP\2023-24\Prácticas\P3\TPP03_2324\TPP3\Modelo\obj\Debug\net5.0\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\blanc\Desktop\TPP\2023-24\Prácticas\P3\TPP03_2324\TPP3\Modelo\obj\Debug\net5.0\Modelo.sourcelink.json
+C:\Users\blanc\Desktop\TPP\2023-24\Prácticas\P3\TPP03_2324\TPP3\Modelo\obj\Debug\net5.0\Modelo.dll
+C:\Users\blanc\Desktop\TPP\2023-24\Prácticas\P3\TPP03_2324\TPP3\Modelo\obj\Debug\net5.0\refint\Modelo.dll
+C:\Users\blanc\Desktop\TPP\2023-24\Prácticas\P3\TPP03_2324\TPP3\Modelo\obj\Debug\net5.0\Modelo.pdb
+C:\Users\blanc\Desktop\TPP\2023-24\Prácticas\P3\TPP03_2324\TPP3\Modelo\obj\Debug\net5.0\ref\Modelo.dll
