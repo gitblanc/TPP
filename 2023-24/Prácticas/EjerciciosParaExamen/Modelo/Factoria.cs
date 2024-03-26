@@ -74,5 +74,18 @@ namespace Modelo
                 result[i + p.Length] = ptos[i];
             return result;
         }
+
+        public static Libro[] CrearLibros()
+        {
+            string[] titulos = { "tituloA", "tituloB", "tituloC", "tituloD" };
+            string[] autores = { "autorA", "autorB", "autorC", "autorD" };
+            int[] numpaginas = { 15, 2, 3345, 4 };
+            int[] years = { 2019, 2020, 2021, 2022 };
+            string[] generos = { "generoA", "generoB", "generoC", "generoD" };
+            Libro[] libros = new Libro[titulos.Length];
+            for (int i = 0; i < libros.Length; i++)
+                libros[i] = new Libro(titulos[i], autores[i], numpaginas[i], years[i], generos[i]);
+            return libros;
+        }
     }
 }

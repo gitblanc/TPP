@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
+using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -121,6 +122,197 @@ namespace Modelo
                 }
             }
         }
+
+        ///------------------------------------------------///
+        ///------------------PRACTICA 5--------------------///
+        ///------------------------------------------------///
+
+        //Ejercicio 1: crear el método Contar: Recibe un IEnumerable y un Delegado genérico. Devuelve el número de elementos del IEnumerable
+        //que cumplen la condición del delegado. Probar para:
+        //- Para obtener cuántos libros tienen menos de N páginas
+        //- Para obtener cuántos libros se publicaron más tarde del año N.
+        //- Implementar el delegado genérico directamente en las llamadas de prueba al método contar, como una expresión lambda.
+
+        public static int Ejercicio1_P5<T>(IEnumerable<T> collection, Predicate<T> predicate)
+        {
+            int cont = 0;
+            foreach (var item in collection)
+            {
+                if (predicate(item))
+                    cont += 1;
+            }
+            return cont;
+        }
+
+        //Ejercicio 2: crear el método Contiene: Recibe un IEnumerable y un Delegado genérico. Devuelve la posición del primer elemento que cumple 
+        //las condiciones. Devuelve -1 si no encuentra elementos.
+        public static int Ejercicio2_P5<T>(IEnumerable<T> collection, Predicate<T> predicate)
+        {
+            int cont = 0;
+            foreach (var item in collection)
+            {
+                if (predicate(item))
+                    return cont;
+                cont += 1;
+            }
+            return -1;
+        }
+
+        //Ejercicio 3: crear el método Filtrar: Recibe un IEnumerable y un Delegado genérico. Devuelve un IEnumerable con los elementos que
+        //cumplen la condición.
+        public static IEnumerable<T> Ejercicio3_P5<T>(IEnumerable<T> collection, Predicate<T> predicate)
+        {
+            List<T> result = new();
+            foreach (var item in collection)
+            {
+                if (predicate(item))
+                    result.Add(item);
+            }
+            return result;
+        }
+
+        //Formato que se me ocurre a mí: hacerlo con generadores
+        public static IEnumerable<T> Ejercicio3b_P5<T>(IEnumerable<T> collection, Predicate<T> predicate)
+        {
+            foreach (var item in collection)
+            {
+                if (predicate(item))
+                    yield return item;
+            }
+        }
+
+        ///------------------------------------------------///
+        ///------------------PRACTICA 6--------------------///
+        ///------------------------------------------------///
+
+        //Ejercicios de Clausuras
+
+        /* Examen 21/22 EXAMEN
+        
+        Ejercicio 1 (A – 1,50 puntos).
+
+            Dado un valor inicial, impleméntese una clausura que, en cada invocación,
+            devuelva un número aleatorio inferior al anterior devuelto.Una vez llegue al valor
+            cero y lo devuelva, el generador se reiniciará al valor inicial de forma automática.
+
+            (B – 1,00 punto).
+
+            Cree una versión del anterior que permita tanto reiniciar el generador de forma manual
+            como modificar el valor inicial.
+        
+        
+            Añádase código en el método Main para probar ambas versiones.
+        
+         */
+
+        public static Func<int> Ejercicio1a_P6(int inicial)
+        {
+            Random random = new();
+            int _value = inicial;
+
+            return () =>
+            {
+                if (_value > 0)
+                {
+                    int copia = _value;
+                    _value = random.Next(0, _value);
+                    return copia;//Hago que la primera vez siempre devuelva el 50
+                }
+                else
+                {
+                    _value = inicial;
+                    Console.WriteLine("Reiniciando clausura...");
+                    return 0;
+                }
+            };
+        }
+
+        //apartado b del ejercicio del examen
+        public static Func<int> Ejercicio1b_P6(int inicial, out Action reiniciar, out Action<int> modificarInicial)
+        {
+            Random random = new();
+            int _valorInicial = inicial;
+            int _value = inicial;
+
+            reiniciar = () =>
+            {
+                _value = _valorInicial;
+
+            };
+            modificarInicial = nuevoValor => _valorInicial = nuevoValor;
+
+            return () =>
+            {
+                if (_value > 0)
+                {
+                    int copia = _value;
+                    _value = random.Next(0, _value);
+                    return copia;//Hago que la primera vez siempre devuelva el 50
+                }
+                else
+                {
+                    _value = _valorInicial;
+                    Console.WriteLine("Reiniciando clausura...");
+                    return 0;
+                }
+            };
+        }
+
+        /* Ejercicio Clase 1
+         
+
+        Implementar una clausura que devuelva el siguiente término de la sucesión de Fibonacci
+        cada vez que se invoque la clausura:
+        
+                1,1,2,3,5,8…
+        
+        Utilícese como base/idea el ejemplo del contador.
+        
+        NOTA: No es necesario usar la clase Fibonacci PARA NADA, simplemente para
+              aprender a calcular términos de Fibonnaci si no se sabe calcularlos.
+
+        */
+        public static Func<int> Ejercicio2_P6()
+        {
+            int _primero = 0, _segundo = 1;
+
+            return () =>
+            {
+                int suma = _primero + _segundo;
+                int copia_primero = _primero;
+                _primero = _segundo;
+                _segundo = suma;
+                return copia_primero;
+            };
+        }
+
+        /* Ejercicio Clase 2
+         
+           Impleméntese mediante un enfoque funcional el bucle While
+           Pruébese la implementación para el ejemplo propuesto.
+
+         */
+
+        public static void Ejercicio3_P6(Func<bool> condicion, Action cuerpo)
+        {
+            if (condicion())
+            {
+                cuerpo();
+                Ejercicio3_P6(condicion, cuerpo);
+            }
+        }
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
