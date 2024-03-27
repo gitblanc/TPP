@@ -153,6 +153,11 @@ namespace EjerciciosParaExamen
             EjerciciosExamen.Ejercicio6_P8();
             EjerciciosExamen.Ejercicio7_P8();
             EjerciciosExamen.Ejercicio8_P8();
+            EjerciciosExamen.Ejercicio9_P8();
+            EjerciciosExamen.Ejercicio10_P8();
+            EjerciciosExamen.Ejercicio11_P8();
+            EjerciciosExamen.Ejercicio12_P8();
+            EjerciciosExamen.Ejercicio13_P8();
         }
 
         private static void PrintInRed(string text)

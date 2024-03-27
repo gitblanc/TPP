@@ -402,6 +402,23 @@ namespace Modelo
                 yield return (iterator1.Current, iterator2.Current);
         }
 
+        /// <summary>
+        /// Método Find (no extensor)
+        /// A partir de una colección de elementos, nos devuelve el primero que cumpla un criterio 
+        /// dado o su valor por defecto en el caso de no existir ninguno.
+        /// </summary>
+        /// <param name="collection"></param>
+        /// <param name="predicate"></param>
+        /// <returns>Element found or its default</returns>
+
+        public static T Ejercicio2_P7<T>(IEnumerable<T> collection, Predicate<T> predicate)
+        {
+            foreach (var item in collection)
+                if (predicate(item))
+                    return item;
+            return default; 
+        }
+
         ///------------------------------------------------///
         ///------------------PRACTICA 8--------------------///
         ///------------------------------------------------///
@@ -565,6 +582,108 @@ namespace Modelo
             var result = modelo.Employees.Where(e => e.Age < media).Select(e => $"{e.Name} {e.Age}");
 
             Show(result);
+        }
+
+        public static void Ejercicio9_P8()
+        {
+            Console.WriteLine("---Ejercicio 9 P8---");
+            //Los nombres de los empleados que pertenecen al departamento de “Computer Science”, tienen un despacho en la
+            //“Faculty of Science” y han realizado al menos una llamada con duración superior a 1 minuto.
+            var result = modelo.Employees.Where(e => e.Department.Name.ToLower().Equals("computer science")
+                && e.Office.Building.ToLower().Equals("faculty of science") && modelo.PhoneCalls.Any(ll => ll.Seconds > 60)).Select(e => e.Name);
+
+            Show(result);
+        }
+
+        public static void Ejercicio10_P8()
+        {
+            Console.WriteLine("---Ejercicio 10 P8---");
+            //La suma en segundos de las llamadas cuyo número de origen es el de un empleado del departamento “Computer Science”.
+            var result = modelo.PhoneCalls.Join(
+                modelo.Employees.Where(e => e.Department.Name.ToLower().Equals("computer science")),
+                ll => ll.SourceNumber,
+                e => e.TelephoneNumber,
+                (ll, e) => new
+                {
+                    Empleado = e,
+                    Llamada = ll
+                }
+                ).Sum(a => a.Llamada.Seconds);
+
+            PrintInGreen($"Total de segundos: {result}");
+        }
+
+        public static void Ejercicio11_P8()
+        {
+            Console.WriteLine("---Ejercicio 11 P8---");
+            //Las llamadas de teléfono realizadas por cada departamento, ordenadas por nombre de departamento.
+            //Cada línea debe tener el formato:
+            //  Departamento=Nombre;Duración=Segundos
+            //Solución 1 sin agrupar por departamentos (el enunciado no pone que haya que agrupar :/, pero lo hago más abajo igualmente)
+            //var result = modelo.PhoneCalls.Join(
+            //    modelo.Employees,
+            //    ll => ll.SourceNumber,
+            //    e => e.TelephoneNumber,
+            //    (ll, e) => new
+            //    {
+            //        Departamento = e.Department.Name,
+            //        Duracion = ll.Seconds
+            //    }).OrderBy(a => a.Departamento).Select(a => $"Departamento={a.Departamento}; Duración={a.Duracion}");
+
+            //Solución 2 agrupando por departamentos (yo creo que es la más natural que te salga)
+            var result = modelo.Employees.GroupBy(
+                d => d.Department.Name,
+                (nombre, empleados) => new
+                {
+                    Nombre = nombre,
+                    Duracion = empleados.Join(
+                        modelo.PhoneCalls,
+                        e => e.TelephoneNumber,
+                        ll => ll.SourceNumber,
+                        (e, ll) => ll
+                        ).Sum(ll => ll.Seconds)
+                }
+                ).OrderBy(a => a.Nombre).Select(a => $"Departamento={a.Nombre};Duración={a.Duracion}");
+
+            // Solución 3 (creo que es la más eficiente)
+            //var result = modelo.Departments.Select(dep =>
+            //    new
+            //    {
+            //        Nombre = dep.Name,
+            //        Duracion = dep.Employees.SelectMany(e => modelo.PhoneCalls.Where(ll => ll.SourceNumber.Equals(e.TelephoneNumber))).Sum(ll => ll.Seconds)
+            //    }
+            //    ).OrderBy(a => a.Nombre).Select(a => $"Departamento={a.Nombre};Duración={a.Duracion}");
+
+            Show(result);
+        }
+
+        public static void Ejercicio12_P8()
+        {
+            Console.WriteLine("---Ejercicio 12 P8---");
+            //El nombre del departamento con el empleado más joven, junto con el nombre de éste y su edad.
+            //Tened en cuenta que puede existir más de un resultado.
+
+            var result = modelo.Employees.Where(e => e.Age.Equals(modelo.Employees.Min(e => e.Age)))
+                .Select(e => $"{e.Department.Name} - {e.Name} - {e.Age}");
+
+            Show(result);
+        }
+
+        public static void Ejercicio13_P8()
+        {
+            Console.WriteLine("---Ejercicio 13 P8---");
+            //El nombre del departamento que tenga la mayor duración de llamadas telefónicas, sumando la duración
+            //de las llamadas de todos los empleados que pertenecen al mismo. Puede asumirse que solamente un
+            //departamento cumplirá esta condición.
+
+            var result = modelo.Departments.Select(d => new
+            {
+                Departamento = d.Name,
+                Duracion = d.Employees.SelectMany(e => modelo.PhoneCalls.Where(ll => ll.SourceNumber.Equals(e.TelephoneNumber))).Sum(ll => ll.Seconds)
+            }
+            ).OrderBy(a => a.Duracion).Select(a => a.Departamento).FirstOrDefault();
+
+            PrintInGreen(result);
         }
 
         ///------------------------------------------------///
