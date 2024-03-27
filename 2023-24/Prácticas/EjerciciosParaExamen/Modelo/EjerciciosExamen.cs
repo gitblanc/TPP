@@ -416,7 +416,7 @@ namespace Modelo
             foreach (var item in collection)
                 if (predicate(item))
                     return item;
-            return default; 
+            return default;
         }
 
         ///------------------------------------------------///
@@ -684,6 +684,147 @@ namespace Modelo
             ).OrderBy(a => a.Duracion).Select(a => a.Departamento).FirstOrDefault();
 
             PrintInGreen(result);
+        }
+
+        //--------------------------------------------------------------------------------------------------
+        // -- A partir de aquí, pongo ejercicios extra que se me han ido ocurriendo relacionados con LinQ --
+        //--------------------------------------------------------------------------------------------------
+        public static void Ejercicio14_P8()
+        {
+            Console.WriteLine("---Ejercicio 14 P8---");
+            //Mostrar el nombre de tres de los empleados (hay 4) más antiguos que aún trabajan en el departamento de
+            //'Computer Science' o 'Medicine' y listarlos por fecha de nacimiento.
+
+            var result = modelo.Employees.Where(e => e.Department.Name.ToLower().Equals("computer science") || e.Department.Name.ToLower().Equals("medicine"))
+                .OrderBy(e => e.DateOfBirth).Select(e => $"{e.Name} {e.DateOfBirth}").Take(3);//si quitas el Take salen 4
+
+            Show(result);
+        }
+
+        public static void Ejercicio15_P8()
+        {
+            Console.WriteLine("---Ejercicio 15 P8---");
+            //Encontrar el(los) departamento(s) con el mayor número de empleados y mostrar el nombre
+            //del departamento junto con el número de empleados.
+
+            var max = modelo.Departments.Max(d => d.Employees.Count()); //si lo sacamos fuera, evitamos calcular por cada departamento el máximo
+            var result = modelo.Departments.Where(d => d.Employees.Count() == max)
+                .Select(d => $"{d.Name} {d.Employees.Count()}");
+
+            Show(result);
+        }
+
+        public static void Ejercicio16_P8()
+        {
+            Console.WriteLine("---Ejercicio 16 P8---");
+            //Obtener una lista de los números de teléfono que han recibido llamadas pero nunca han realizado una,
+            //incluyendo el total de segundos recibidos.
+
+            //Opción 1: la más natural
+            var source = modelo.PhoneCalls.Select(ll => ll.SourceNumber).Distinct();
+            var destination = modelo.PhoneCalls.Select(ll => ll.DestinationNumber).Distinct();
+            var result = destination.Where(ll => !source.Contains(ll));
+
+            //Opción 2: más eficiente
+            var result2 = modelo.PhoneCalls.Select(ll => ll.SourceNumber).Except(modelo.PhoneCalls.Select(ll => ll.DestinationNumber));
+
+            Show(result);
+            Show(result2);
+            PrintInGreen("No te rayes que no hay ningún número de tlfno que no llamase nunca. Prueba a añadirlo tú mismo. Por eso no ves resultados :^");
+        }
+
+        public static void Ejercicio17_P8()
+        {
+            Console.WriteLine("---Ejercicio 17 P8---");
+            //Listar todos los empleados (por su nombre) que han hecho al menos una llamada de más de 20
+            //segundos a otro empleado del mismo departamento.
+
+            var result = modelo.Employees.Where(e =>
+                modelo.PhoneCalls.Any(ll => ll.SourceNumber.Equals(e.TelephoneNumber) && ll.Seconds > 20 && modelo.Employees.Any(e2 =>
+                    e2.Department.Equals(e.Department) && e2.TelephoneNumber.Equals(ll.DestinationNumber) && !e2.TelephoneNumber.Equals(ll.SourceNumber))))
+                        .Select(e => e.Name);
+
+            Show(result);
+
+            PrintInGreen("No te rayes que no hay ningun empleado que llame a otro de su mismo departamento. Prueba a añadirlo tú mismo. Por eso no ves resultados :^");
+        }
+
+        public static void Ejercicio18_P8()
+        {
+            Console.WriteLine("---Ejercicio 18 P8---");
+            //Calcular el promedio de duración de las llamadas realizadas por cada empleado, mostrando solo aquellos empleados
+            //con un promedio superior a 10 segundos. Ordenar los resultados por el promedio de duración de forma descendente.
+
+            var result = modelo.Employees.Join(modelo.PhoneCalls, // Unir con PhoneCalls
+              employee => employee.TelephoneNumber, // Clave primaria de Employee
+              phoneCall => phoneCall.SourceNumber, // Clave foránea en PhoneCalls
+              (employee, phoneCall) => new { Employee = employee, PhoneCall = phoneCall }) // Seleccionar ambos en un tipo anónimo
+                .Where(x => x.PhoneCall.Seconds > 10) // Filtrar llamadas de más de 10 segundos
+                .GroupBy(x => x.Employee) // Agrupar por empleado
+                .Select(group => new
+                {
+                    EmployeeName = group.Key.Name,
+                    AverageDuration = group.Average(x => x.PhoneCall.Seconds) // Calcular el promedio de duración
+                })
+                .Where(x => x.AverageDuration > 10) // Filtrar empleados con promedio de duración mayor a 10
+                .OrderByDescending(x => x.AverageDuration) // Ordenar por promedio descendente
+                .Select(a => $"{a.EmployeeName}: {a.AverageDuration} segs");
+
+            Show(result);
+        }
+
+        public static void Ejercicio19_P8()
+        {
+            Console.WriteLine("---Ejercicio 19 P8---");
+            //Identificar el día con mayor número de llamadas realizadas y mostrar la fecha junto con el número de llamadas.
+
+            var result = modelo.PhoneCalls.GroupBy(ll => ll.Date.Day).Select(grupo => new
+            {
+                Day = grupo.Key,
+                Llamadas = grupo.Count()
+            }
+            ).OrderByDescending(a => a.Llamadas).First();
+
+            PrintInGreen(result);
+        }
+
+        public static void Ejercicio20_P8()
+        {
+            Console.WriteLine("---Ejercicio 20 P8---");
+            //Para cada oficina, encontrar el empleado más joven y listar el nombre de la oficina
+            //junto con el nombre completo del empleado y su fecha de nacimiento.
+
+            var result = modelo.Employees.GroupBy(e => e.Office).Select(grupo => new
+            {
+                Oficina = grupo.Key,
+                Empleado = modelo.Employees.Where(e => e.Office.Equals(grupo.Key)).OrderBy(e => e.Age).FirstOrDefault()
+            }).Select(a => $"{a.Oficina.Building}: {a.Empleado.Name} {a.Empleado.Surname} {a.Empleado.Age} {a.Empleado.DateOfBirth}");
+
+            Show(result);
+        }
+
+        public static void Ejercicio21_P8()
+        {
+            Console.WriteLine("---Ejercicio 21 P8---");
+            //Crear un listado de todos los empleados que no han realizado ni recibido ninguna llamada telefónica.
+
+            var empleadosQueLlaman = modelo.Employees.Join(
+                modelo.PhoneCalls,
+                e => e.TelephoneNumber,
+                ll => ll.SourceNumber,
+                (e, ll) => e).Distinct();
+
+            var empleadosQueReciben = modelo.Employees.Join(
+                modelo.PhoneCalls,
+                e => e.TelephoneNumber,
+                ll => ll.DestinationNumber,
+                (e, ll) => e).Distinct();
+
+            var empleadosConLlamadas = empleadosQueLlaman.Union(empleadosQueReciben).Select(e => e.TelephoneNumber);
+
+            var result = modelo.Employees.Where(e => !empleadosConLlamadas.Contains(e.TelephoneNumber)).Select(e => e.Name);
+
+            Show(result);
         }
 
         ///------------------------------------------------///

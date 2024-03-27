@@ -158,6 +158,15 @@ namespace EjerciciosParaExamen
             EjerciciosExamen.Ejercicio11_P8();
             EjerciciosExamen.Ejercicio12_P8();
             EjerciciosExamen.Ejercicio13_P8();
+            //Los que se me fueron ocurriendo de LinQ
+            EjerciciosExamen.Ejercicio14_P8();
+            EjerciciosExamen.Ejercicio15_P8();
+            EjerciciosExamen.Ejercicio16_P8();
+            EjerciciosExamen.Ejercicio17_P8();
+            EjerciciosExamen.Ejercicio18_P8();
+            EjerciciosExamen.Ejercicio19_P8();
+            EjerciciosExamen.Ejercicio20_P8();
+            EjerciciosExamen.Ejercicio21_P8();
         }
 
         private static void PrintInRed(string text)
