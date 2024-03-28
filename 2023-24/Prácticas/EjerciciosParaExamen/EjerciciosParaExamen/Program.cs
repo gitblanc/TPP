@@ -6,7 +6,7 @@ using Modelo;
 
 namespace EjerciciosParaExamen
 {
-    internal class Program
+    internal static class Program
     {
         //Acordarse de añadir las dependencias del Modelo de clases en la aplicación de consola (Program) para poder usarlas
         static void Main(string[] args)
@@ -138,6 +138,12 @@ namespace EjerciciosParaExamen
                 resto += 1;
             }
 
+            Console.WriteLine("---Ejercicio 7 P6---");
+            const int desde = 0, cantidad = 100, mostrarNElementos = 100;
+            var resEj7_P6 = EjerciciosExamen.Ejercicio7_P6(desde, cantidad); //El iterador
+            Console.Write("{0} elementos tras el término {1} (perezosa/lazy):\n\t", mostrarNElementos, desde);
+            resEj7_P6.ForEach(item => PrintInGreen($"{item} "), mostrarNElementos);
+
             PrintInRed("///------------------------------------------------///\r\n///------------------PRACTICA 7--------------------///\r\n///------------------------------------------------///");
 
             Console.WriteLine("---Ejercicio 1 P7---");
@@ -167,6 +173,8 @@ namespace EjerciciosParaExamen
             EjerciciosExamen.Ejercicio19_P8();
             EjerciciosExamen.Ejercicio20_P8();
             EjerciciosExamen.Ejercicio21_P8();
+            EjerciciosExamen.Ejercicio22_P8();
+            EjerciciosExamen.Ejercicio23_P8();
         }
 
         private static void PrintInRed(string text)
@@ -204,6 +212,17 @@ namespace EjerciciosParaExamen
 
             // Restablecer al color original
             Console.ForegroundColor = colorActual;
+        }
+
+        public static void ForEach<T>(this IEnumerable<T> enumerable, Action<T> action, int? maximoElementos = null)
+        {
+            int contador = 0;
+            foreach (T item in enumerable)
+            {
+                if (maximoElementos.HasValue && maximoElementos.Value < contador++)
+                    break;
+                action(item);
+            }
         }
     }
 }

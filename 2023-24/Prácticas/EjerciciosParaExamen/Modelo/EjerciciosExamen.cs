@@ -384,6 +384,108 @@ namespace Modelo
             };
         }
 
+        //-------------------------------------------------------------------------------------------------------
+        // -- A partir de aquí, pongo ejercicios extra que se me han ido ocurriendo relacionados con Funciones --
+        // ---------------------,generadores, memoizacion, currificacion, clausuras etc etc----------------------
+        //-------------------------------------------------------------------------------------------------------
+
+        /*
+         * Currificación de un Filtrador y Transformador de Colecciones: Implementa un método que utilice currificación 
+         * para aceptar primero un Predicate<TP> para filtrado, luego un Func<TP, TResult> para transformación, y finalmente 
+         * un IEnumerable<T> sobre el cual aplicar estas operaciones, retornando un IEnumerable<TResult>.
+         */
+
+        //Primera versión sin currificar
+        public static IEnumerable<TR> Ejercicio6a_P6<TP, TR>(Predicate<TP> filtrado, Func<TP, TR> transformer, IEnumerable<TP> collection)
+        {
+            List<TR> res = new();
+            foreach (var elem in collection)
+            {
+                if (filtrado(elem))
+                    res.Add(transformer(elem));
+            }
+
+            return res;
+        }
+
+        //Primera versión currificada 1 vez
+        public static Func<IEnumerable<TP>, IEnumerable<TR>> Ejercicio6b_P6<TP, TR>(Predicate<TP> filtrado, Func<TP, TR> transformer)//, IEnumerable<TP> collection)
+        {
+            return collection =>
+            {
+                List<TR> res = new();
+                foreach (var elem in collection)
+                {
+                    if (filtrado(elem))
+                        res.Add(transformer(elem));
+                }
+
+                return res;
+            };
+        }
+
+        //Primera versión currificada 2 vez
+        public static Func<Func<TP, TR>, Func<IEnumerable<TP>, IEnumerable<TR>>> Ejercicio6c_P6<TP, TR>(Predicate<TP> filtrado)//, Func<TP, TR> transformer)//, IEnumerable<TP> collection)
+        {
+            return transformer =>
+            {
+                return collection =>
+                {
+                    List<TR> res = new();
+                    foreach (var elem in collection)
+                    {
+                        if (filtrado(elem))
+                            res.Add(transformer(elem));
+                    }
+
+                    return res;
+                };
+            };
+        }
+
+        /*
+         * Generador Infinito de Números Aleatorios con Estado: Utiliza un generador para implementar un 
+         * método que produzca una secuencia (potencialmente) infinita de pares de números aleatorios (del 0 al 10). 
+         * Sin embargo, cada par generado debe ser diferente al anterior (sin repetición inmediata). 
+         * Implementa esto usando técnicas de memoización para recordar el último par generado
+         */
+
+
+        public static IEnumerable<(int, int)> Ejercicio7_P6(int desde, int cuantos)
+        {
+            return RandomGeneradorLazy().Skip(desde).Take(cuantos);
+        }
+
+        //El generador
+        private static IEnumerable<(int, int)> RandomGeneradorLazy()
+        {
+            PrintInGreen("Entra en generador perezoso de números aleatorios");
+            int i = 0;
+            while (true)
+                yield return RandomNumerosMemoization.RandomNumber();
+        }
+
+        //La clase con la caché que genera las tuplas de números random
+        internal class RandomNumerosMemoization
+        {
+            //private static IDictionary<(int, int), (int, int)> _cache = new Dictionary<(int, int), (int, int)>(); Esto sería SIN REPETICIÓN
+            private static (int, int)? prevValues = null;//Esto es para SIN REPETICIÓN INMEDIATA
+            private static Random random = new();
+            public static (int, int) RandomNumber()
+            {
+                var newValue = (random.Next(0, 11), random.Next(0, 11));
+                //while (_cache.Keys.Contains((random.Next(0, 101), random.Next(0, 101)))) Esto sería SIN REPETICIÓN
+                while (newValue.Equals(prevValues))
+                {
+                    newValue = (random.Next(0, 11), random.Next(0, 11));
+                    Console.WriteLine($"La tupla {prevValues} era la anterior -> nueva tupla: {newValue}");
+                }
+                //_cache.Add((value1, value2), (value1, value2)); Esto sería SIN REPETICIÓN
+                prevValues = newValue;
+                return newValue;
+            }
+        }
+
         ///------------------------------------------------///
         ///------------------PRACTICA 7--------------------///
         ///------------------------------------------------///
@@ -418,6 +520,7 @@ namespace Modelo
                     return item;
             return default;
         }
+
 
         ///------------------------------------------------///
         ///------------------PRACTICA 8--------------------///
@@ -823,6 +926,57 @@ namespace Modelo
             var empleadosConLlamadas = empleadosQueLlaman.Union(empleadosQueReciben).Select(e => e.TelephoneNumber);
 
             var result = modelo.Employees.Where(e => !empleadosConLlamadas.Contains(e.TelephoneNumber)).Select(e => e.Name);
+
+            Show(result);
+        }
+
+        public static void Ejercicio22_P8()
+        {
+            Console.WriteLine("---Ejercicio 22 P8---");
+            //Obtener el nombre del empleado que ha gastado la mayor cantidad total de segundos
+            //en llamadas telefónicas, junto con el tiempo total gastado en llamadas.
+
+            var empleadosQueLlaman = modelo.Employees.Join(
+                modelo.PhoneCalls,
+                e => e.TelephoneNumber,
+                ll => ll.SourceNumber,
+                (e, ll) => new { Empleado = e, Llamada = ll }
+                );
+
+            var empleadosQueReciben = modelo.Employees.Join(
+                modelo.PhoneCalls,
+                e => e.TelephoneNumber,
+                ll => ll.DestinationNumber,
+                (e, ll) => new { Empleado = e, Llamada = ll }
+                );
+
+            var empleadosConLlamadas = empleadosQueLlaman.Union(empleadosQueReciben).GroupBy(a => a.Empleado)
+                .Select(grupo => new
+                {
+                    Empleado = grupo.Key.Name,
+                    Duracion = grupo.Sum(a => a.Llamada.Seconds) // grupo.Aggregate(0, (acu, a) => acu + a.Llamada.Seconds)
+                }).OrderByDescending(a => a.Duracion).FirstOrDefault();
+
+            PrintInGreen(empleadosConLlamadas);
+        }
+
+        public static void Ejercicio23_P8()
+        {
+            Console.WriteLine("---Ejercicio 23 P8---");
+            //Listar los departamentos cuyos empleados en conjunto han realizado llamadas (las han comenzado ellos)
+            //de un total acumulado de más de 40 segundos, incluyendo el nombre del departamento y el tiempo total de llamadas.
+
+            var result = modelo.Employees.Join(
+                modelo.PhoneCalls,
+                e => e.TelephoneNumber,
+                ll => ll.SourceNumber,
+                (e, ll) => new { Empleado = e, Llamada = ll }
+                ).GroupBy(a => a.Empleado.Department).Select(grupo => new
+                {
+                    Departamento = grupo.Key.Name,
+                    TotalLlamadas = grupo.Sum(a => a.Llamada.Seconds)
+                }
+                ).Where(a => a.TotalLlamadas > 40).Select(a => $"{a.Departamento}, con un total de {a.TotalLlamadas} segundos");
 
             Show(result);
         }
