@@ -525,26 +525,26 @@ namespace Modelo
             };
         }
 
-        //Currificado (totalmente)
-        public static Func<Predicate<Tkey>, Func<Func<TValue, TRes>, IDictionary<Tkey, TRes>>> Ejercicio8c_P6<Tkey, TValue, TRes>(this IDictionary<Tkey, TValue> dictionary)//, Predicate<Tkey> condition)//, Func<TValue, TRes> mapper)
-        {
-            return condition =>
-            {
-                return mapper =>
-                {
-                    Dictionary<Tkey, TRes> res = new();
-                    foreach (var item in dictionary)
-                    {
-                        if (condition(item.Key))
-                        {
-                            res[item.Key] = mapper(item.Value);
-                        }
-                    }
+        //ESTO ESTA MAL, PORQUE NO SE LE ESTARÍA PASANDO NINGÚN PARÁMETRO (FIJARSE QUE ES EXTENSOR)
+        //public static Func<Predicate<Tkey>, Func<Func<TValue, TRes>, IDictionary<Tkey, TRes>>> Ejercicio8c_P6<Tkey, TValue, TRes>(this IDictionary<Tkey, TValue> dictionary)//, Predicate<Tkey> condition)//, Func<TValue, TRes> mapper)
+        //{
+        //    return condition =>
+        //    {
+        //        return mapper =>
+        //        {
+        //            Dictionary<Tkey, TRes> res = new();
+        //            foreach (var item in dictionary)
+        //            {
+        //                if (condition(item.Key))
+        //                {
+        //                    res[item.Key] = mapper(item.Value);
+        //                }
+        //            }
 
-                    return res;
-                };
-            };
-        }
+        //            return res;
+        //        };
+        //    };
+        //}
 
         /*
          * EJERCICIO EXAMEN LUNES (Siento la explicación, es lo que me pasaron)
