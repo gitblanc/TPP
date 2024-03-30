@@ -144,6 +144,25 @@ namespace EjerciciosParaExamen
             Console.Write("{0} elementos tras el término {1} (perezosa/lazy):\n\t", mostrarNElementos, desde);
             resEj7_P6.ForEach(item => PrintInGreen($"{item} "), mostrarNElementos);
 
+            Console.WriteLine("---Ejercicio 9 P6---");
+            var collection = new List<int> { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11 };
+            int n = 3;
+
+            var partitionedCollection = EjerciciosExamen.Ejercicio9_P6(collection, n);
+
+            foreach (var part in partitionedCollection)
+            {
+                foreach (var item in part)
+                {
+                    Console.Write(item + " ");
+                }
+                Console.WriteLine();
+            }
+
+            Console.WriteLine("---Ejercicio 10 P6---");
+            var resEj10_P6 = EjerciciosExamen.Ejercicio10_P6(collection, 40);//Cogemos la colección del ejercicio anterior
+            resEj10_P6.ForEach(item => PrintInGreen($"{item} "));
+
             PrintInRed("///------------------------------------------------///\r\n///------------------PRACTICA 7--------------------///\r\n///------------------------------------------------///");
 
             Console.WriteLine("---Ejercicio 1 P7---");

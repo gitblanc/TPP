@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
+using System.Drawing;
+using System.IO.MemoryMappedFiles;
 using System.Linq;
 using System.Linq.Expressions;
 using System.Text;
@@ -460,7 +462,6 @@ namespace Modelo
         private static IEnumerable<(int, int)> RandomGeneradorLazy()
         {
             PrintInGreen("Entra en generador perezoso de números aleatorios");
-            int i = 0;
             while (true)
                 yield return RandomNumerosMemoization.RandomNumber();
         }
@@ -485,6 +486,140 @@ namespace Modelo
                 return newValue;
             }
         }
+
+        /*
+         * Método Extensor de Tuplas para Mapeo y Filtrado Condicional: Crea un método extensor currificado para IDictionary<TKey, TValue> 
+         * que permita filtrar la colección basándose en una condición aplicada a TKey y luego mapear TValue a un nuevo valor. 
+         * El resultado debe ser un IDictionary<TKey, TResult>.
+         */
+        //Sin currificar
+        public static IDictionary<Tkey, TRes> Ejercicio8a_P6<Tkey, TValue, TRes>(this IDictionary<Tkey, TValue> dictionary, Predicate<Tkey> condition, Func<TValue, TRes> mapper)
+        {
+            Dictionary<Tkey, TRes> res = new();
+            foreach (var item in dictionary)
+            {
+                if (condition(item.Key))
+                {
+                    res[item.Key] = mapper(item.Value);
+                }
+            }
+
+            return res;
+        }
+
+        //Currificado (1 vez)
+        public static Func<Func<TValue, TRes>, IDictionary<Tkey, TRes>> Ejercicio8b_P6<Tkey, TValue, TRes>(this IDictionary<Tkey, TValue> dictionary, Predicate<Tkey> condition)//, Func<TValue, TRes> mapper)
+        {
+            return mapper =>
+            {
+                Dictionary<Tkey, TRes> res = new();
+                foreach (var item in dictionary)
+                {
+                    if (condition(item.Key))
+                    {
+                        res[item.Key] = mapper(item.Value);
+                    }
+                }
+
+                return res;
+            };
+        }
+
+        //Currificado (totalmente)
+        public static Func<Predicate<Tkey>, Func<Func<TValue, TRes>, IDictionary<Tkey, TRes>>> Ejercicio8c_P6<Tkey, TValue, TRes>(this IDictionary<Tkey, TValue> dictionary)//, Predicate<Tkey> condition)//, Func<TValue, TRes> mapper)
+        {
+            return condition =>
+            {
+                return mapper =>
+                {
+                    Dictionary<Tkey, TRes> res = new();
+                    foreach (var item in dictionary)
+                    {
+                        if (condition(item.Key))
+                        {
+                            res[item.Key] = mapper(item.Value);
+                        }
+                    }
+
+                    return res;
+                };
+            };
+        }
+
+        /*
+         * EJERCICIO EXAMEN LUNES (Siento la explicación, es lo que me pasaron)
+         * Dado una colección y un n, patir la colección dada en partes de tamaño n y devolver una colección de colecciones
+         */
+
+        /* ¿Qué pasa si el tamaño es mayor al de la colección pasada?
+         * - Asumo que se devolverá una lista con una única lista dentro
+         * 
+         * ¿Qué pasa si al dividir en x trozos de tamaño n, hay un trozo que no tiene dicho tamaño (sino que tiene n-1 por ejemplo)?
+         * - Asumo que quedarán x listas de tamaño n y una de tamaño n-1
+        */
+        public static IEnumerable<IEnumerable<T>> Ejercicio9_P6<T>(IEnumerable<T> collection, int n)
+        {
+            var part = new List<T>();
+
+            foreach (var item in collection)
+            {
+                part.Add(item);
+                if (part.Count == n)
+                {
+                    yield return new List<T>(part);
+                    part.Clear();
+                }
+            }
+
+            if (part.Count > 0)
+            {
+                yield return part; // Devolvemos los que quedasen sueltos
+            }
+        }
+
+        /*
+         * EJERCICIO EXAMEN LUNES (Siento la explicación, es lo que me pasaron)
+         * Dado una colección y un n, sacar n elementos de la colección de forma aleatoria. Sólo se pueden repetir si ya se seleccionaron
+         * todos los elementos al menos 1 vez
+         * 
+         * ¿Qué pasa si el usuario pide coger más elementos de los que hay en la colección?
+         * - Asumo que sólo cogerá los que tenga la lista (es decir, todos)
+         */
+
+        public static IEnumerable<T> Ejercicio10_P6<T>(IEnumerable<T> collection, int n)
+        {
+            if (n > collection.Count())
+                return ElementosAleatoriosColeccionGenerador(collection).Take(collection.Count());
+            return ElementosAleatoriosColeccionGenerador(collection).Take(n);
+        }
+
+        private static IEnumerable<T> ElementosAleatoriosColeccionGenerador<T>(IEnumerable<T> collection)
+        {
+            PrintInGreen("Entra en generador perezoso de elementos aleatorios de la colección");
+            while (true)
+                yield return ElementosAleatoriosColeccion<T>.RandomElement(collection);//Acordarse de especificar el <T>, sino error de compilación
+        }
+
+        internal class ElementosAleatoriosColeccion<T>
+        {
+            private static Dictionary<T, T> _cache = new();
+            private static Random random = new();
+
+            public static T RandomElement(IEnumerable<T> collection)
+            {
+                //Sacamos un elemento random de la colección y lo añadimos a la caché
+                //Mientras el elemento generado esté en la caché, generamos otro elemento random
+                var elem = collection.ElementAt(random.Next(0, collection.Count()));
+                while (_cache.Keys.Contains(elem))
+                {
+                    elem = collection.ElementAt(random.Next(0, collection.Count()));
+                }
+
+                _cache.Add(elem, elem);
+                return elem;
+            }
+        }
+
 
         ///------------------------------------------------///
         ///------------------PRACTICA 7--------------------///
