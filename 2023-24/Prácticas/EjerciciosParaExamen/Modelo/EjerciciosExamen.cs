@@ -7,6 +7,7 @@ using System.Linq;
 using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
+using System.Threading.Tasks.Dataflow;
 
 namespace Modelo
 {
@@ -1112,6 +1113,40 @@ namespace Modelo
                     TotalLlamadas = grupo.Sum(a => a.Llamada.Seconds)
                 }
                 ).Where(a => a.TotalLlamadas > 40).Select(a => $"{a.Departamento}, con un total de {a.TotalLlamadas} segundos");
+
+            Show(result);
+        }
+
+        public static void Ejercicio24_P8()
+        {
+            Console.WriteLine("---Ejercicio 24 P8---");
+            //Encontrar el empleado más veterano de cada departamento y listar su nombre junto con el nombre del departamento.
+
+            var result = modelo.Employees.GroupBy(e => e.Department).Select(grupo => new
+            {
+                Empleado = grupo.Key.Employees.OrderBy(e => e.Age).FirstOrDefault().Name,
+                Departamento = grupo.Key.Name
+            }).Select(a => $"Empleado: {a.Empleado}, Departamento: {a.Departamento}");
+
+            Show(result);
+        }
+
+        public static void Ejercicio25_P8()
+        {
+            Console.WriteLine("---Ejercicio 25 P8---");
+            //Listar los departamentos cuyos empleados en promedio han realizado llamadas de más de 30 segundos.
+            //Incluir el nombre del departamento y el promedio de duración de las llamadas.
+
+            var result = modelo.Employees.Join(
+                modelo.PhoneCalls,
+                e => e.TelephoneNumber,
+                ll => ll.SourceNumber,
+                (e, ll) => new { e.Department, Llamada = ll }
+                ).GroupBy(a => a.Department).Select(grupo => new
+                {
+                    Departamento = grupo.Key.Name,
+                    Promedio = grupo.Average(g => g.Llamada.Seconds)
+                }).Where(a => a.Promedio > 30).Select(a => $"Dep: {a.Departamento}, Promedio: {a.Promedio}");
 
             Show(result);
         }

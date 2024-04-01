@@ -194,6 +194,8 @@ namespace EjerciciosParaExamen
             EjerciciosExamen.Ejercicio21_P8();
             EjerciciosExamen.Ejercicio22_P8();
             EjerciciosExamen.Ejercicio23_P8();
+            EjerciciosExamen.Ejercicio24_P8();
+            EjerciciosExamen.Ejercicio25_P8();
         }
 
         private static void PrintInRed(string text)
