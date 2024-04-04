@@ -78,6 +78,7 @@ namespace TPP07
             combinacion2.Map(c => c.Item1 + " : " + c.Item2).ForEach(Console.WriteLine);
         }
 
+        //Es como el ejercicio de examen
         public static IEnumerable<(T, Q)> MyZip<T, Q>(this IEnumerable<T> collection1, IEnumerable<Q> collection2)
         {
             // Un iterador al crearlo apunta al -1

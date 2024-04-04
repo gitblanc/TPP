@@ -829,7 +829,8 @@ namespace Modelo
             //Los nombres de los empleados que pertenecen al departamento de “Computer Science”, tienen un despacho en la
             //“Faculty of Science” y han realizado al menos una llamada con duración superior a 1 minuto.
             var result = modelo.Employees.Where(e => e.Department.Name.ToLower().Equals("computer science")
-                && e.Office.Building.ToLower().Equals("faculty of science") && modelo.PhoneCalls.Any(ll => ll.Seconds > 60)).Select(e => e.Name);
+                && e.Office.Building.ToLower().Equals("faculty of science") && modelo.PhoneCalls.Any(ll =>
+                    e.TelephoneNumber.Equals(ll.SourceNumber) && ll.Seconds > 60)).Select(e => e.Name);
 
             Show(result);
         }

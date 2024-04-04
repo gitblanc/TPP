@@ -72,5 +72,64 @@ namespace Currificacion
                 };
             };
         }
+
+        /*
+         * Método Extensor de Tuplas para Mapeo y Filtrado Condicional: Crea un método extensor currificado para IDictionary<TKey, TValue> 
+         * que permita filtrar la colección basándose en una condición aplicada a TKey y luego mapear TValue a un nuevo valor. 
+         * El resultado debe ser un IDictionary<TKey, TResult>.
+         */
+        //Sin currificar
+        public static IDictionary<Tkey, TRes> Ejercicio8a_P6<Tkey, TValue, TRes>(this IDictionary<Tkey, TValue> dictionary, Predicate<Tkey> condition, Func<TValue, TRes> mapper)
+        {
+            Dictionary<Tkey, TRes> res = new();
+            foreach (var item in dictionary)
+            {
+                if (condition(item.Key))
+                {
+                    res[item.Key] = mapper(item.Value);
+                }
+            }
+
+            return res;
+        }
+
+        //Currificado (1 vez)
+        public static Func<Func<TValue, TRes>, IDictionary<Tkey, TRes>> Ejercicio8b_P6<Tkey, TValue, TRes>(this IDictionary<Tkey, TValue> dictionary, Predicate<Tkey> condition)//, Func<TValue, TRes> mapper)
+        {
+            return mapper =>
+            {
+                Dictionary<Tkey, TRes> res = new();
+                foreach (var item in dictionary)
+                {
+                    if (condition(item.Key))
+                    {
+                        res[item.Key] = mapper(item.Value);
+                    }
+                }
+
+                return res;
+            };
+        }
+
+        //ESTO ESTA MAL, PORQUE NO SE LE ESTARÍA PASANDO NINGÚN PARÁMETRO (FIJARSE QUE ES EXTENSOR)
+        //public static Func<Predicate<Tkey>, Func<Func<TValue, TRes>, IDictionary<Tkey, TRes>>> Ejercicio8c_P6<Tkey, TValue, TRes>(this IDictionary<Tkey, TValue> dictionary)//, Predicate<Tkey> condition)//, Func<TValue, TRes> mapper)
+        //{
+        //    return condition =>
+        //    {
+        //        return mapper =>
+        //        {
+        //            Dictionary<Tkey, TRes> res = new();
+        //            foreach (var item in dictionary)
+        //            {
+        //                if (condition(item.Key))
+        //                {
+        //                    res[item.Key] = mapper(item.Value);
+        //                }
+        //            }
+
+        //            return res;
+        //        };
+        //    };
+        //}
     }
 }

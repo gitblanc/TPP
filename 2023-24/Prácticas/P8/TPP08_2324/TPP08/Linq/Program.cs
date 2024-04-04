@@ -339,12 +339,155 @@ namespace Linq
             Show(result);
         }
 
+        public static void Consulta8()
+        {
+            Console.WriteLine("---Consulta8---");
+            //Obtener una lista de los números de teléfono que han recibido llamadas pero nunca han realizado una,
+            //incluyendo el total de segundos recibidos.
+
+            //Opción 1: la más natural
+            var source = modelo.PhoneCalls.Select(ll => ll.SourceNumber).Distinct();
+            var destination = modelo.PhoneCalls.Select(ll => ll.DestinationNumber).Distinct();
+            var result = destination.Where(ll => !source.Contains(ll));
+
+            //Opción 2: más eficiente
+            var result2 = modelo.PhoneCalls.Select(ll => ll.SourceNumber).Except(modelo.PhoneCalls.Select(ll => ll.DestinationNumber));
+
+            Show(result);
+            Show(result2);
+            //"No te rayes que no hay ningún número de tlfno que no llamase nunca. Prueba a añadirlo tú mismo. Por eso no ves resultados
+        }
+
+        public static void Consulta9()
+        {
+            Console.WriteLine("---Consulta9---");
+            //Listar todos los empleados (por su nombre) que han hecho al menos una llamada de más de 20
+            //segundos a otro empleado del mismo departamento.
+
+            var result = modelo.Employees.Where(e =>
+                modelo.PhoneCalls.Any(ll => ll.SourceNumber.Equals(e.TelephoneNumber) && ll.Seconds > 20 && modelo.Employees.Any(e2 =>
+                    e2.Department.Equals(e.Department) && e2.TelephoneNumber.Equals(ll.DestinationNumber) && !e2.TelephoneNumber.Equals(ll.SourceNumber))))
+                        .Select(e => e.Name);
+
+            Show(result);
+
+            //"No te rayes que no hay ningun empleado que llame a otro de su mismo departamento. Prueba a añadirlo tú mismo. Por eso no ves resultados
+        }
+
+        public static void Consulta10()
+        {
+            Console.WriteLine("---Consulta10---");
+            //Calcular el promedio de duración de las llamadas realizadas por cada empleado, mostrando solo aquellos empleados
+            //con un promedio superior a 10 segundos. Ordenar los resultados por el promedio de duración de forma descendente.
+
+            var result = modelo.Employees.Join(modelo.PhoneCalls, // Unir con PhoneCalls
+              employee => employee.TelephoneNumber, // Clave primaria de Employee
+              phoneCall => phoneCall.SourceNumber, // Clave foránea en PhoneCalls
+              (employee, phoneCall) => new { Employee = employee, PhoneCall = phoneCall }) // Seleccionar ambos en un tipo anónimo
+                .Where(x => x.PhoneCall.Seconds > 10) // Filtrar llamadas de más de 10 segundos
+                .GroupBy(x => x.Employee) // Agrupar por empleado
+                .Select(group => new
+                {
+                    EmployeeName = group.Key.Name,
+                    AverageDuration = group.Average(x => x.PhoneCall.Seconds) // Calcular el promedio de duración
+                })
+                .Where(x => x.AverageDuration > 10) // Filtrar empleados con promedio de duración mayor a 10
+                .OrderByDescending(x => x.AverageDuration) // Ordenar por promedio descendente
+                .Select(a => $"{a.EmployeeName}: {a.AverageDuration} segs");
+
+            Show(result);
+        }
+
+        public static void Consulta11()
+        {
+            Console.WriteLine("---Consulta11---");
+            //Identificar el día con mayor número de llamadas realizadas y mostrar la fecha junto con el número de llamadas.
+
+            var result = modelo.PhoneCalls.GroupBy(ll => ll.Date.Day).Select(grupo => new
+            {
+                Day = grupo.Key,
+                Llamadas = grupo.Count()
+            }
+            ).OrderByDescending(a => a.Llamadas).First();
+
+            PrintInGreen(result);
+        }
+
+        public static void Consulta12()
+        {
+            Console.WriteLine("---Consulta12---");
+            //Para cada oficina, encontrar el empleado más joven y listar el nombre de la oficina
+            //junto con el nombre completo del empleado y su fecha de nacimiento.
+
+            var result = modelo.Employees.GroupBy(e => e.Office).Select(grupo => new
+            {
+                Oficina = grupo.Key,
+                Empleado = modelo.Employees.Where(e => e.Office.Equals(grupo.Key)).OrderBy(e => e.Age).FirstOrDefault()
+            }).Select(a => $"{a.Oficina.Building}: {a.Empleado.Name} {a.Empleado.Surname} {a.Empleado.Age} {a.Empleado.DateOfBirth}");
+
+            Show(result);
+        }
+
+        public static void Consulta13()
+        {
+            Console.WriteLine("---Consulta13---");
+            //Crear un listado de todos los empleados que no han realizado ni recibido ninguna llamada telefónica.
+
+            var empleadosQueLlaman = modelo.Employees.Join(
+                modelo.PhoneCalls,
+                e => e.TelephoneNumber,
+                ll => ll.SourceNumber,
+                (e, ll) => e).Distinct();
+
+            var empleadosQueReciben = modelo.Employees.Join(
+                modelo.PhoneCalls,
+                e => e.TelephoneNumber,
+                ll => ll.DestinationNumber,
+                (e, ll) => e).Distinct();
+
+            var empleadosConLlamadas = empleadosQueLlaman.Union(empleadosQueReciben).Select(e => e.TelephoneNumber);
+
+            var result = modelo.Employees.Where(e => !empleadosConLlamadas.Contains(e.TelephoneNumber)).Select(e => e.Name);
+
+            Show(result);
+        }
+
+        public static void Consulta14()
+        {
+            Console.WriteLine("---Consulta14---");
+            //Obtener el nombre del empleado que ha gastado la mayor cantidad total de segundos
+            //en llamadas telefónicas, junto con el tiempo total gastado en llamadas.
+
+            var empleadosQueLlaman = modelo.Employees.Join(
+                modelo.PhoneCalls,
+                e => e.TelephoneNumber,
+                ll => ll.SourceNumber,
+                (e, ll) => new { Empleado = e, Llamada = ll }
+                );
+
+            var empleadosQueReciben = modelo.Employees.Join(
+                modelo.PhoneCalls,
+                e => e.TelephoneNumber,
+                ll => ll.DestinationNumber,
+                (e, ll) => new { Empleado = e, Llamada = ll }
+                );
+
+            var empleadosConLlamadas = empleadosQueLlaman.Union(empleadosQueReciben).GroupBy(a => a.Empleado)
+                .Select(grupo => new
+                {
+                    Empleado = grupo.Key.Name,
+                    Duracion = grupo.Sum(a => a.Llamada.Seconds) // grupo.Aggregate(0, (acu, a) => acu + a.Llamada.Seconds)
+                }).OrderByDescending(a => a.Duracion).FirstOrDefault();
+
+            PrintInGreen(empleadosConLlamadas);
+        }
+
 
         private static void Show<T>(IEnumerable<T> colección)
         {
             foreach (var item in colección)
             {
-                Console.WriteLine(item);
+                PrintInGreen(item);
             }
             Console.WriteLine("Elementos en la colección: {0}.", colección.Count());
         }
@@ -355,5 +498,19 @@ namespace Linq
             Console.ReadKey();
             Console.Clear();
         }
+
+        private static void PrintInGreen<T>(T text)
+        {
+            var colorActual = Console.ForegroundColor;
+
+            // Cambiar el color del texto a Verde
+            Console.ForegroundColor = ConsoleColor.Green;
+
+            Console.WriteLine(text);
+
+            // Restablecer al color original
+            Console.ForegroundColor = colorActual;
+        }
     }
+
 }
