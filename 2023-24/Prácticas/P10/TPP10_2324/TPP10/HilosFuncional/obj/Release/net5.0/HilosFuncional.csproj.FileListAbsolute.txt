@@ -1,0 +1,16 @@
+D:\TPP\P10\TPP10_2324\TPP10\HilosFuncional\bin\Release\net5.0\HilosFuncional.exe
+D:\TPP\P10\TPP10_2324\TPP10\HilosFuncional\bin\Release\net5.0\HilosFuncional.deps.json
+D:\TPP\P10\TPP10_2324\TPP10\HilosFuncional\bin\Release\net5.0\HilosFuncional.runtimeconfig.json
+D:\TPP\P10\TPP10_2324\TPP10\HilosFuncional\bin\Release\net5.0\HilosFuncional.runtimeconfig.dev.json
+D:\TPP\P10\TPP10_2324\TPP10\HilosFuncional\bin\Release\net5.0\HilosFuncional.dll
+D:\TPP\P10\TPP10_2324\TPP10\HilosFuncional\bin\Release\net5.0\HilosFuncional.pdb
+D:\TPP\P10\TPP10_2324\TPP10\HilosFuncional\obj\Release\net5.0\HilosFuncional.csproj.AssemblyReference.cache
+D:\TPP\P10\TPP10_2324\TPP10\HilosFuncional\obj\Release\net5.0\HilosFuncional.GeneratedMSBuildEditorConfig.editorconfig
+D:\TPP\P10\TPP10_2324\TPP10\HilosFuncional\obj\Release\net5.0\HilosFuncional.AssemblyInfoInputs.cache
+D:\TPP\P10\TPP10_2324\TPP10\HilosFuncional\obj\Release\net5.0\HilosFuncional.AssemblyInfo.cs
+D:\TPP\P10\TPP10_2324\TPP10\HilosFuncional\obj\Release\net5.0\HilosFuncional.csproj.CoreCompileInputs.cache
+D:\TPP\P10\TPP10_2324\TPP10\HilosFuncional\obj\Release\net5.0\HilosFuncional.dll
+D:\TPP\P10\TPP10_2324\TPP10\HilosFuncional\obj\Release\net5.0\refint\HilosFuncional.dll
+D:\TPP\P10\TPP10_2324\TPP10\HilosFuncional\obj\Release\net5.0\HilosFuncional.pdb
+D:\TPP\P10\TPP10_2324\TPP10\HilosFuncional\obj\Release\net5.0\HilosFuncional.genruntimeconfig.cache
+D:\TPP\P10\TPP10_2324\TPP10\HilosFuncional\obj\Release\net5.0\ref\HilosFuncional.dll

@@ -1,0 +1,16 @@
+D:\TPP\P10\TPP10_2324\TPP10\MasterWorker\bin\Release\net5.0\MasterWorker.exe
+D:\TPP\P10\TPP10_2324\TPP10\MasterWorker\bin\Release\net5.0\MasterWorker.deps.json
+D:\TPP\P10\TPP10_2324\TPP10\MasterWorker\bin\Release\net5.0\MasterWorker.runtimeconfig.json
+D:\TPP\P10\TPP10_2324\TPP10\MasterWorker\bin\Release\net5.0\MasterWorker.runtimeconfig.dev.json
+D:\TPP\P10\TPP10_2324\TPP10\MasterWorker\bin\Release\net5.0\MasterWorker.dll
+D:\TPP\P10\TPP10_2324\TPP10\MasterWorker\bin\Release\net5.0\MasterWorker.pdb
+D:\TPP\P10\TPP10_2324\TPP10\MasterWorker\obj\Release\net5.0\MasterWorker.csproj.AssemblyReference.cache
+D:\TPP\P10\TPP10_2324\TPP10\MasterWorker\obj\Release\net5.0\MasterWorker.GeneratedMSBuildEditorConfig.editorconfig
+D:\TPP\P10\TPP10_2324\TPP10\MasterWorker\obj\Release\net5.0\MasterWorker.AssemblyInfoInputs.cache
+D:\TPP\P10\TPP10_2324\TPP10\MasterWorker\obj\Release\net5.0\MasterWorker.AssemblyInfo.cs
+D:\TPP\P10\TPP10_2324\TPP10\MasterWorker\obj\Release\net5.0\MasterWorker.csproj.CoreCompileInputs.cache
+D:\TPP\P10\TPP10_2324\TPP10\MasterWorker\obj\Release\net5.0\MasterWorker.dll
+D:\TPP\P10\TPP10_2324\TPP10\MasterWorker\obj\Release\net5.0\refint\MasterWorker.dll
+D:\TPP\P10\TPP10_2324\TPP10\MasterWorker\obj\Release\net5.0\MasterWorker.pdb
+D:\TPP\P10\TPP10_2324\TPP10\MasterWorker\obj\Release\net5.0\MasterWorker.genruntimeconfig.cache
+D:\TPP\P10\TPP10_2324\TPP10\MasterWorker\obj\Release\net5.0\ref\MasterWorker.dll

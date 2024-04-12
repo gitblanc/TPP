@@ -1,0 +1,21 @@
+concurrencia -> paralelismo simulado en un procesador
+paralelismo -> el real (en varios procesadores)
+
+TOMAR LOS TIEMPOS EN MODO DEBUG ES UN 0
+
+Al generar las graficas hay que explicar:
+- Fijarse en los valores que empiezan a estar por encima de ejecutar con un sólo hilo
+- Fijarse en el mejor valor de hilos
+
+PARA HACER LAS GRAFICAS
+- Cambiar de Debug a Release
+- Compilar
+- Ejecutar
+- Carpeta /bin
+- Release
+- Abrir un cmd
+- Escribir: MasterWorker.exe > datos.csv -> nombre programa y mandarlo a un .csv
+- Abrir el fichero e insertar un gráfico de dispersión
+- Guardarlo como un libro de excel
+
+ME FALTAN HACER EJS

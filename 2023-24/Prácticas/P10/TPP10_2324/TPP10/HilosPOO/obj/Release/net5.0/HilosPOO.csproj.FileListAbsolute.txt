@@ -1,0 +1,16 @@
+D:\TPP\P10\TPP10_2324\TPP10\HilosPOO\bin\Release\net5.0\HilosPOO.exe
+D:\TPP\P10\TPP10_2324\TPP10\HilosPOO\bin\Release\net5.0\HilosPOO.deps.json
+D:\TPP\P10\TPP10_2324\TPP10\HilosPOO\bin\Release\net5.0\HilosPOO.runtimeconfig.json
+D:\TPP\P10\TPP10_2324\TPP10\HilosPOO\bin\Release\net5.0\HilosPOO.runtimeconfig.dev.json
+D:\TPP\P10\TPP10_2324\TPP10\HilosPOO\bin\Release\net5.0\HilosPOO.dll
+D:\TPP\P10\TPP10_2324\TPP10\HilosPOO\bin\Release\net5.0\HilosPOO.pdb
+D:\TPP\P10\TPP10_2324\TPP10\HilosPOO\obj\Release\net5.0\HilosPOO.csproj.AssemblyReference.cache
+D:\TPP\P10\TPP10_2324\TPP10\HilosPOO\obj\Release\net5.0\HilosPOO.GeneratedMSBuildEditorConfig.editorconfig
+D:\TPP\P10\TPP10_2324\TPP10\HilosPOO\obj\Release\net5.0\HilosPOO.AssemblyInfoInputs.cache
+D:\TPP\P10\TPP10_2324\TPP10\HilosPOO\obj\Release\net5.0\HilosPOO.AssemblyInfo.cs
+D:\TPP\P10\TPP10_2324\TPP10\HilosPOO\obj\Release\net5.0\HilosPOO.csproj.CoreCompileInputs.cache
+D:\TPP\P10\TPP10_2324\TPP10\HilosPOO\obj\Release\net5.0\HilosPOO.dll
+D:\TPP\P10\TPP10_2324\TPP10\HilosPOO\obj\Release\net5.0\refint\HilosPOO.dll
+D:\TPP\P10\TPP10_2324\TPP10\HilosPOO\obj\Release\net5.0\HilosPOO.pdb
+D:\TPP\P10\TPP10_2324\TPP10\HilosPOO\obj\Release\net5.0\HilosPOO.genruntimeconfig.cache
+D:\TPP\P10\TPP10_2324\TPP10\HilosPOO\obj\Release\net5.0\ref\HilosPOO.dll

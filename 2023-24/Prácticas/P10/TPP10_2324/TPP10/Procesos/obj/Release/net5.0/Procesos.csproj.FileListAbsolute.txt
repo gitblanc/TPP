@@ -1,0 +1,16 @@
+D:\TPP\P10\TPP10_2324\TPP10\Procesos\bin\Release\net5.0\Procesos.exe
+D:\TPP\P10\TPP10_2324\TPP10\Procesos\bin\Release\net5.0\Procesos.deps.json
+D:\TPP\P10\TPP10_2324\TPP10\Procesos\bin\Release\net5.0\Procesos.runtimeconfig.json
+D:\TPP\P10\TPP10_2324\TPP10\Procesos\bin\Release\net5.0\Procesos.runtimeconfig.dev.json
+D:\TPP\P10\TPP10_2324\TPP10\Procesos\bin\Release\net5.0\Procesos.dll
+D:\TPP\P10\TPP10_2324\TPP10\Procesos\bin\Release\net5.0\Procesos.pdb
+D:\TPP\P10\TPP10_2324\TPP10\Procesos\obj\Release\net5.0\Procesos.csproj.AssemblyReference.cache
+D:\TPP\P10\TPP10_2324\TPP10\Procesos\obj\Release\net5.0\Procesos.GeneratedMSBuildEditorConfig.editorconfig
+D:\TPP\P10\TPP10_2324\TPP10\Procesos\obj\Release\net5.0\Procesos.AssemblyInfoInputs.cache
+D:\TPP\P10\TPP10_2324\TPP10\Procesos\obj\Release\net5.0\Procesos.AssemblyInfo.cs
+D:\TPP\P10\TPP10_2324\TPP10\Procesos\obj\Release\net5.0\Procesos.csproj.CoreCompileInputs.cache
+D:\TPP\P10\TPP10_2324\TPP10\Procesos\obj\Release\net5.0\Procesos.dll
+D:\TPP\P10\TPP10_2324\TPP10\Procesos\obj\Release\net5.0\refint\Procesos.dll
+D:\TPP\P10\TPP10_2324\TPP10\Procesos\obj\Release\net5.0\Procesos.pdb
+D:\TPP\P10\TPP10_2324\TPP10\Procesos\obj\Release\net5.0\Procesos.genruntimeconfig.cache
+D:\TPP\P10\TPP10_2324\TPP10\Procesos\obj\Release\net5.0\ref\Procesos.dll
