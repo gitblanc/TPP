@@ -1,0 +1,16 @@
+C:\Users\blanc\Desktop\TPP\2023-24\Prácticas\P10\TPP10_2324\TPP10\MasterWorkerClase\bin\Debug\net5.0\MasterWorkerClase.exe
+C:\Users\blanc\Desktop\TPP\2023-24\Prácticas\P10\TPP10_2324\TPP10\MasterWorkerClase\bin\Debug\net5.0\MasterWorkerClase.deps.json
+C:\Users\blanc\Desktop\TPP\2023-24\Prácticas\P10\TPP10_2324\TPP10\MasterWorkerClase\bin\Debug\net5.0\MasterWorkerClase.runtimeconfig.json
+C:\Users\blanc\Desktop\TPP\2023-24\Prácticas\P10\TPP10_2324\TPP10\MasterWorkerClase\bin\Debug\net5.0\MasterWorkerClase.runtimeconfig.dev.json
+C:\Users\blanc\Desktop\TPP\2023-24\Prácticas\P10\TPP10_2324\TPP10\MasterWorkerClase\bin\Debug\net5.0\MasterWorkerClase.dll
+C:\Users\blanc\Desktop\TPP\2023-24\Prácticas\P10\TPP10_2324\TPP10\MasterWorkerClase\bin\Debug\net5.0\MasterWorkerClase.pdb
+C:\Users\blanc\Desktop\TPP\2023-24\Prácticas\P10\TPP10_2324\TPP10\MasterWorkerClase\obj\Debug\net5.0\MasterWorkerClase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blanc\Desktop\TPP\2023-24\Prácticas\P10\TPP10_2324\TPP10\MasterWorkerClase\obj\Debug\net5.0\MasterWorkerClase.AssemblyInfoInputs.cache
+C:\Users\blanc\Desktop\TPP\2023-24\Prácticas\P10\TPP10_2324\TPP10\MasterWorkerClase\obj\Debug\net5.0\MasterWorkerClase.AssemblyInfo.cs
+C:\Users\blanc\Desktop\TPP\2023-24\Prácticas\P10\TPP10_2324\TPP10\MasterWorkerClase\obj\Debug\net5.0\MasterWorkerClase.csproj.CoreCompileInputs.cache
+C:\Users\blanc\Desktop\TPP\2023-24\Prácticas\P10\TPP10_2324\TPP10\MasterWorkerClase\obj\Debug\net5.0\MasterWorkerClase.sourcelink.json
+C:\Users\blanc\Desktop\TPP\2023-24\Prácticas\P10\TPP10_2324\TPP10\MasterWorkerClase\obj\Debug\net5.0\MasterWorkerClase.dll
+C:\Users\blanc\Desktop\TPP\2023-24\Prácticas\P10\TPP10_2324\TPP10\MasterWorkerClase\obj\Debug\net5.0\refint\MasterWorkerClase.dll
+C:\Users\blanc\Desktop\TPP\2023-24\Prácticas\P10\TPP10_2324\TPP10\MasterWorkerClase\obj\Debug\net5.0\MasterWorkerClase.pdb
+C:\Users\blanc\Desktop\TPP\2023-24\Prácticas\P10\TPP10_2324\TPP10\MasterWorkerClase\obj\Debug\net5.0\MasterWorkerClase.genruntimeconfig.cache
+C:\Users\blanc\Desktop\TPP\2023-24\Prácticas\P10\TPP10_2324\TPP10\MasterWorkerClase\obj\Debug\net5.0\ref\MasterWorkerClase.dll

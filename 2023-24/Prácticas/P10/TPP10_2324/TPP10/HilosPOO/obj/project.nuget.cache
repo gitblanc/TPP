@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "L8A/lk28RurF19bgB0V3+k9u8Cj2iLffx/BNXEpZyvXe6MuA4qAXVi78Dx45NGhSHvZo08kygmNGwa/X4gRkFw==",
+  "dgSpecHash": "ocuhhMLN7C7eShyzhR45SC1Bi4R2y7YlCuNV7PV1CqRRuZ1t6mQLFKOn87QxltC4/e5m5bL/1Shj3VO7v7LXQA==",
   "success": true,
-  "projectFilePath": "D:\\TPP\\P10\\TPP10_2324\\TPP10\\HilosPOO\\HilosPOO.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\blanc\\Desktop\\TPP\\2023-24\\Prácticas\\P10\\TPP10_2324\\TPP10\\HilosPOO\\HilosPOO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\blanc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
   "logs": []
 }

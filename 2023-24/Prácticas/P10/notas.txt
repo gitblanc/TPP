@@ -17,5 +17,3 @@ PARA HACER LAS GRAFICAS
 - Escribir: MasterWorker.exe > datos.csv -> nombre programa y mandarlo a un .csv
 - Abrir el fichero e insertar un gráfico de dispersión
 - Guardarlo como un libro de excel
-
-ME FALTAN HACER EJS

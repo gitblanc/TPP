@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "P8lP0Cu2Xv43JQDt+CQ8Em7XrciC5cruic0LHIOwVyJOzxfjL/CZKELfzLI7k7QrxL45cVPAj3VlAG59Qc3wwQ==",
+  "dgSpecHash": "W5K5T7sP4s14rskSUqm8So2D8sNEq1m8Uetii16HdrKeKH6bmFrKq58NTRDX4D3wBDYq8MQE2ZOQ4z6CGt4D5Q==",
   "success": true,
-  "projectFilePath": "D:\\TPP\\P10\\TPP10_2324\\TPP10\\HilosFuncional\\HilosFuncional.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\blanc\\Desktop\\TPP\\2023-24\\Prácticas\\P10\\TPP10_2324\\TPP10\\HilosFuncional\\HilosFuncional.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\blanc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
   "logs": []
 }
