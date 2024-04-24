@@ -1,0 +1,16 @@
+D:\TPP\P11\TPP11_2324\TPP11\02ConSincronizacion\bin\Release\net5.0\02ConSincronizacion.exe
+D:\TPP\P11\TPP11_2324\TPP11\02ConSincronizacion\bin\Release\net5.0\02ConSincronizacion.deps.json
+D:\TPP\P11\TPP11_2324\TPP11\02ConSincronizacion\bin\Release\net5.0\02ConSincronizacion.runtimeconfig.json
+D:\TPP\P11\TPP11_2324\TPP11\02ConSincronizacion\bin\Release\net5.0\02ConSincronizacion.runtimeconfig.dev.json
+D:\TPP\P11\TPP11_2324\TPP11\02ConSincronizacion\bin\Release\net5.0\02ConSincronizacion.dll
+D:\TPP\P11\TPP11_2324\TPP11\02ConSincronizacion\bin\Release\net5.0\02ConSincronizacion.pdb
+D:\TPP\P11\TPP11_2324\TPP11\02ConSincronizacion\obj\Release\net5.0\02ConSincronizacion.csproj.AssemblyReference.cache
+D:\TPP\P11\TPP11_2324\TPP11\02ConSincronizacion\obj\Release\net5.0\02ConSincronizacion.GeneratedMSBuildEditorConfig.editorconfig
+D:\TPP\P11\TPP11_2324\TPP11\02ConSincronizacion\obj\Release\net5.0\02ConSincronizacion.AssemblyInfoInputs.cache
+D:\TPP\P11\TPP11_2324\TPP11\02ConSincronizacion\obj\Release\net5.0\02ConSincronizacion.AssemblyInfo.cs
+D:\TPP\P11\TPP11_2324\TPP11\02ConSincronizacion\obj\Release\net5.0\02ConSincronizacion.csproj.CoreCompileInputs.cache
+D:\TPP\P11\TPP11_2324\TPP11\02ConSincronizacion\obj\Release\net5.0\02ConSincronizacion.dll
+D:\TPP\P11\TPP11_2324\TPP11\02ConSincronizacion\obj\Release\net5.0\refint\02ConSincronizacion.dll
+D:\TPP\P11\TPP11_2324\TPP11\02ConSincronizacion\obj\Release\net5.0\02ConSincronizacion.pdb
+D:\TPP\P11\TPP11_2324\TPP11\02ConSincronizacion\obj\Release\net5.0\02ConSincronizacion.genruntimeconfig.cache
+D:\TPP\P11\TPP11_2324\TPP11\02ConSincronizacion\obj\Release\net5.0\ref\02ConSincronizacion.dll

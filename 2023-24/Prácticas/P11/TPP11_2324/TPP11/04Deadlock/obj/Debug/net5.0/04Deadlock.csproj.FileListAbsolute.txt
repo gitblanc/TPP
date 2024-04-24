@@ -1,0 +1,16 @@
+D:\TPP\P11\TPP11_2324\TPP11\04Deadlock\bin\Debug\net5.0\04Deadlock.exe
+D:\TPP\P11\TPP11_2324\TPP11\04Deadlock\bin\Debug\net5.0\04Deadlock.deps.json
+D:\TPP\P11\TPP11_2324\TPP11\04Deadlock\bin\Debug\net5.0\04Deadlock.runtimeconfig.json
+D:\TPP\P11\TPP11_2324\TPP11\04Deadlock\bin\Debug\net5.0\04Deadlock.runtimeconfig.dev.json
+D:\TPP\P11\TPP11_2324\TPP11\04Deadlock\bin\Debug\net5.0\04Deadlock.dll
+D:\TPP\P11\TPP11_2324\TPP11\04Deadlock\bin\Debug\net5.0\04Deadlock.pdb
+D:\TPP\P11\TPP11_2324\TPP11\04Deadlock\obj\Debug\net5.0\04Deadlock.csproj.AssemblyReference.cache
+D:\TPP\P11\TPP11_2324\TPP11\04Deadlock\obj\Debug\net5.0\04Deadlock.GeneratedMSBuildEditorConfig.editorconfig
+D:\TPP\P11\TPP11_2324\TPP11\04Deadlock\obj\Debug\net5.0\04Deadlock.AssemblyInfoInputs.cache
+D:\TPP\P11\TPP11_2324\TPP11\04Deadlock\obj\Debug\net5.0\04Deadlock.AssemblyInfo.cs
+D:\TPP\P11\TPP11_2324\TPP11\04Deadlock\obj\Debug\net5.0\04Deadlock.csproj.CoreCompileInputs.cache
+D:\TPP\P11\TPP11_2324\TPP11\04Deadlock\obj\Debug\net5.0\04Deadlock.dll
+D:\TPP\P11\TPP11_2324\TPP11\04Deadlock\obj\Debug\net5.0\refint\04Deadlock.dll
+D:\TPP\P11\TPP11_2324\TPP11\04Deadlock\obj\Debug\net5.0\04Deadlock.pdb
+D:\TPP\P11\TPP11_2324\TPP11\04Deadlock\obj\Debug\net5.0\04Deadlock.genruntimeconfig.cache
+D:\TPP\P11\TPP11_2324\TPP11\04Deadlock\obj\Debug\net5.0\ref\04Deadlock.dll

@@ -1,0 +1,16 @@
+D:\TPP\P11\TPP11_2324\TPP11\EjercicioProductorConsumidor\bin\Debug\net5.0\EjercicioProductorConsumidor.exe
+D:\TPP\P11\TPP11_2324\TPP11\EjercicioProductorConsumidor\bin\Debug\net5.0\EjercicioProductorConsumidor.deps.json
+D:\TPP\P11\TPP11_2324\TPP11\EjercicioProductorConsumidor\bin\Debug\net5.0\EjercicioProductorConsumidor.runtimeconfig.json
+D:\TPP\P11\TPP11_2324\TPP11\EjercicioProductorConsumidor\bin\Debug\net5.0\EjercicioProductorConsumidor.runtimeconfig.dev.json
+D:\TPP\P11\TPP11_2324\TPP11\EjercicioProductorConsumidor\bin\Debug\net5.0\EjercicioProductorConsumidor.dll
+D:\TPP\P11\TPP11_2324\TPP11\EjercicioProductorConsumidor\bin\Debug\net5.0\EjercicioProductorConsumidor.pdb
+D:\TPP\P11\TPP11_2324\TPP11\EjercicioProductorConsumidor\obj\Debug\net5.0\EjercicioProductorConsumidor.csproj.AssemblyReference.cache
+D:\TPP\P11\TPP11_2324\TPP11\EjercicioProductorConsumidor\obj\Debug\net5.0\EjercicioProductorConsumidor.GeneratedMSBuildEditorConfig.editorconfig
+D:\TPP\P11\TPP11_2324\TPP11\EjercicioProductorConsumidor\obj\Debug\net5.0\EjercicioProductorConsumidor.AssemblyInfoInputs.cache
+D:\TPP\P11\TPP11_2324\TPP11\EjercicioProductorConsumidor\obj\Debug\net5.0\EjercicioProductorConsumidor.AssemblyInfo.cs
+D:\TPP\P11\TPP11_2324\TPP11\EjercicioProductorConsumidor\obj\Debug\net5.0\EjercicioProductorConsumidor.csproj.CoreCompileInputs.cache
+D:\TPP\P11\TPP11_2324\TPP11\EjercicioProductorConsumidor\obj\Debug\net5.0\EjercicioProductorConsumidor.dll
+D:\TPP\P11\TPP11_2324\TPP11\EjercicioProductorConsumidor\obj\Debug\net5.0\refint\EjercicioProductorConsumidor.dll
+D:\TPP\P11\TPP11_2324\TPP11\EjercicioProductorConsumidor\obj\Debug\net5.0\EjercicioProductorConsumidor.pdb
+D:\TPP\P11\TPP11_2324\TPP11\EjercicioProductorConsumidor\obj\Debug\net5.0\EjercicioProductorConsumidor.genruntimeconfig.cache
+D:\TPP\P11\TPP11_2324\TPP11\EjercicioProductorConsumidor\obj\Debug\net5.0\ref\EjercicioProductorConsumidor.dll

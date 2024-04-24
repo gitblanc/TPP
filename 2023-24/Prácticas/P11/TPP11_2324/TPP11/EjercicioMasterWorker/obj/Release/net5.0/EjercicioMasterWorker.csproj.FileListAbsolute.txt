@@ -1,0 +1,16 @@
+D:\TPP\P11\TPP11_2324\TPP11\EjercicioMasterWorker\bin\Release\net5.0\EjercicioMasterWorker.exe
+D:\TPP\P11\TPP11_2324\TPP11\EjercicioMasterWorker\bin\Release\net5.0\EjercicioMasterWorker.deps.json
+D:\TPP\P11\TPP11_2324\TPP11\EjercicioMasterWorker\bin\Release\net5.0\EjercicioMasterWorker.runtimeconfig.json
+D:\TPP\P11\TPP11_2324\TPP11\EjercicioMasterWorker\bin\Release\net5.0\EjercicioMasterWorker.runtimeconfig.dev.json
+D:\TPP\P11\TPP11_2324\TPP11\EjercicioMasterWorker\bin\Release\net5.0\EjercicioMasterWorker.dll
+D:\TPP\P11\TPP11_2324\TPP11\EjercicioMasterWorker\bin\Release\net5.0\EjercicioMasterWorker.pdb
+D:\TPP\P11\TPP11_2324\TPP11\EjercicioMasterWorker\obj\Release\net5.0\EjercicioMasterWorker.csproj.AssemblyReference.cache
+D:\TPP\P11\TPP11_2324\TPP11\EjercicioMasterWorker\obj\Release\net5.0\EjercicioMasterWorker.GeneratedMSBuildEditorConfig.editorconfig
+D:\TPP\P11\TPP11_2324\TPP11\EjercicioMasterWorker\obj\Release\net5.0\EjercicioMasterWorker.AssemblyInfoInputs.cache
+D:\TPP\P11\TPP11_2324\TPP11\EjercicioMasterWorker\obj\Release\net5.0\EjercicioMasterWorker.AssemblyInfo.cs
+D:\TPP\P11\TPP11_2324\TPP11\EjercicioMasterWorker\obj\Release\net5.0\EjercicioMasterWorker.csproj.CoreCompileInputs.cache
+D:\TPP\P11\TPP11_2324\TPP11\EjercicioMasterWorker\obj\Release\net5.0\EjercicioMasterWorker.dll
+D:\TPP\P11\TPP11_2324\TPP11\EjercicioMasterWorker\obj\Release\net5.0\refint\EjercicioMasterWorker.dll
+D:\TPP\P11\TPP11_2324\TPP11\EjercicioMasterWorker\obj\Release\net5.0\EjercicioMasterWorker.pdb
+D:\TPP\P11\TPP11_2324\TPP11\EjercicioMasterWorker\obj\Release\net5.0\EjercicioMasterWorker.genruntimeconfig.cache
+D:\TPP\P11\TPP11_2324\TPP11\EjercicioMasterWorker\obj\Release\net5.0\ref\EjercicioMasterWorker.dll

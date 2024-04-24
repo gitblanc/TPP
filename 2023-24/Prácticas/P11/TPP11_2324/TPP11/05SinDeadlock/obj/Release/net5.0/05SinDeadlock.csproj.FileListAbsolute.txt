@@ -1,0 +1,16 @@
+D:\TPP\P11\TPP11_2324\TPP11\05SinDeadlock\bin\Release\net5.0\05SinDeadlock.exe
+D:\TPP\P11\TPP11_2324\TPP11\05SinDeadlock\bin\Release\net5.0\05SinDeadlock.deps.json
+D:\TPP\P11\TPP11_2324\TPP11\05SinDeadlock\bin\Release\net5.0\05SinDeadlock.runtimeconfig.json
+D:\TPP\P11\TPP11_2324\TPP11\05SinDeadlock\bin\Release\net5.0\05SinDeadlock.runtimeconfig.dev.json
+D:\TPP\P11\TPP11_2324\TPP11\05SinDeadlock\bin\Release\net5.0\05SinDeadlock.dll
+D:\TPP\P11\TPP11_2324\TPP11\05SinDeadlock\bin\Release\net5.0\05SinDeadlock.pdb
+D:\TPP\P11\TPP11_2324\TPP11\05SinDeadlock\obj\Release\net5.0\05SinDeadlock.csproj.AssemblyReference.cache
+D:\TPP\P11\TPP11_2324\TPP11\05SinDeadlock\obj\Release\net5.0\05SinDeadlock.GeneratedMSBuildEditorConfig.editorconfig
+D:\TPP\P11\TPP11_2324\TPP11\05SinDeadlock\obj\Release\net5.0\05SinDeadlock.AssemblyInfoInputs.cache
+D:\TPP\P11\TPP11_2324\TPP11\05SinDeadlock\obj\Release\net5.0\05SinDeadlock.AssemblyInfo.cs
+D:\TPP\P11\TPP11_2324\TPP11\05SinDeadlock\obj\Release\net5.0\05SinDeadlock.csproj.CoreCompileInputs.cache
+D:\TPP\P11\TPP11_2324\TPP11\05SinDeadlock\obj\Release\net5.0\05SinDeadlock.dll
+D:\TPP\P11\TPP11_2324\TPP11\05SinDeadlock\obj\Release\net5.0\refint\05SinDeadlock.dll
+D:\TPP\P11\TPP11_2324\TPP11\05SinDeadlock\obj\Release\net5.0\05SinDeadlock.pdb
+D:\TPP\P11\TPP11_2324\TPP11\05SinDeadlock\obj\Release\net5.0\05SinDeadlock.genruntimeconfig.cache
+D:\TPP\P11\TPP11_2324\TPP11\05SinDeadlock\obj\Release\net5.0\ref\05SinDeadlock.dll
