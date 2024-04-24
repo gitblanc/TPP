@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "GmEQ6x1xHHn1wjk6iIe1P6S1Ht59RuXwPOCsXk0arMoGcMHBnyvYvobaxfzonL4/1WcXO6IKsDWnYPyovP6Yfg==",
+  "dgSpecHash": "PNO0MNMv6aVFr3lBozsmr5m8ZLbDrfI0ufBuhV3ET31O952Ec9GigoaLH3mMyZFFsYbsSyHWBOFrPMZn7iexnw==",
   "success": true,
-  "projectFilePath": "D:\\TPP\\P11\\TPP11_2324\\TPP11\\02ConSincronizacion\\02ConSincronizacion.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\blanc\\Desktop\\TPP\\2023-24\\Prácticas\\P11\\TPP11_2324\\TPP11\\02ConSincronizacion\\02ConSincronizacion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\blanc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
   "logs": []
 }

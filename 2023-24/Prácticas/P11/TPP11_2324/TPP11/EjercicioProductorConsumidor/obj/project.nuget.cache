@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "+n9JIPmvBVbqhtAUO2yCjmmhGa/qaTGHsRbI+5oXzB4RdkcuNsc+PkAnO9eEqTxCvlN6sG1IZrJqCh1YOXDBog==",
+  "dgSpecHash": "G8BQnIwN7riaKPyHdwmLBIUday9J/qLD9UKYJVVS3N4ol8StDbGljFeKNacbA+GwYpJI+pOD7tzTZlpPyBVp6A==",
   "success": true,
-  "projectFilePath": "D:\\TPP\\P11\\TPP11_2324\\TPP11\\EjercicioProductorConsumidor\\EjercicioProductorConsumidor.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\blanc\\Desktop\\TPP\\2023-24\\Prácticas\\P11\\TPP11_2324\\TPP11\\EjercicioProductorConsumidor\\EjercicioProductorConsumidor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\blanc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "AC4FxnuPNvWTDZjfyQ3Xg8Ryh5YC+KK5pukyGGBBqModYGhgQMS/+ksS35g4fMgyXpAkNUfcMn7i2mKxYNvcGQ==",
+  "dgSpecHash": "tUgcQXpfObcjSlh5AT98pH+wC3dZjSEpVTwB0sjSfrnMYp8/p9xxnpgalWa/vwm1/wPmSs3ZPR3DiqcVmYO29A==",
   "success": true,
-  "projectFilePath": "D:\\TPP\\P11\\TPP11_2324\\TPP11\\01SinSincronizar\\01SinSincronizar.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\blanc\\Desktop\\TPP\\2023-24\\Prácticas\\P11\\TPP11_2324\\TPP11\\01SinSincronizar\\01SinSincronizar.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\blanc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -2,7 +2,7 @@ Hay que tener cuidado con las secciones críticas en los métodos que **modifica
 
 Deadlock: espera indefinida
 
-- Para hacer la cola concurrente: crear 4 hilos que añadan 500 elementos. Luego comprobar que hay 200.
+- Para hacer la cola concurrente: crear 4 hilos que añadan 500 elementos. Luego comprobar que hay 2000.
 - Crear 4 hilos que eliminen cada uno 500 elementos. Luego comprobar que haya 0 elementos.
 
 - 2 hilos (1 colecciona numeros pares y otro numeros impares)
