@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EjercicioMasterWorker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7aeda681a543e29ecd3b5b35e39449a5b6798a04")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+82114a727ca073adea2331c685118493ee59dfaa")]
 [assembly: System.Reflection.AssemblyProductAttribute("EjercicioMasterWorker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EjercicioMasterWorker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

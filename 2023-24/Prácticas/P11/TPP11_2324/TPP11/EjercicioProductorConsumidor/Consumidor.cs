@@ -9,6 +9,7 @@ namespace EjercicioProductorConsumidor
     {
 
         private Queue<Producto> cola;
+        private readonly object _obj = new object();
 
         public Consumidor(Queue<Producto> cola)
         {
@@ -22,7 +23,8 @@ namespace EjercicioProductorConsumidor
             {
                 Console.WriteLine("- Sacando producto...");
                 Producto producto = null;
-                lock (cola)
+                //lock (cola)
+                lock (_obj)
                 {
                     while (cola.Count == 0)
                         Thread.Sleep(100);
