@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6KI+Zk3NLbmnCqP0PJDDhiV2WlUsbXIs/C7jyolUV92oTy3h/2K2vasFn/D1GLOSZdTjOFEgEb0b5mPN1EF/6g==",
+  "success": true,
+  "projectFilePath": "D:\\TPP\\P12\\TPP12_2324\\TPP12\\01Division.Datos.Secuencial\\01Division.Datos.Secuencial.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\uo285176\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\uo285176\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

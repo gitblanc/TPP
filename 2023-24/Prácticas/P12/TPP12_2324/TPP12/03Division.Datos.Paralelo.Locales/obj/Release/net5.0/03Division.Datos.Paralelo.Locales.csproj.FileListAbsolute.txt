@@ -1,0 +1,16 @@
+D:\TPP\P12\TPP12_2324\TPP12\03Division.Datos.Paralelo.Locales\bin\Release\net5.0\03Division.Datos.Paralelo.Locales.exe
+D:\TPP\P12\TPP12_2324\TPP12\03Division.Datos.Paralelo.Locales\bin\Release\net5.0\03Division.Datos.Paralelo.Locales.deps.json
+D:\TPP\P12\TPP12_2324\TPP12\03Division.Datos.Paralelo.Locales\bin\Release\net5.0\03Division.Datos.Paralelo.Locales.runtimeconfig.json
+D:\TPP\P12\TPP12_2324\TPP12\03Division.Datos.Paralelo.Locales\bin\Release\net5.0\03Division.Datos.Paralelo.Locales.runtimeconfig.dev.json
+D:\TPP\P12\TPP12_2324\TPP12\03Division.Datos.Paralelo.Locales\bin\Release\net5.0\03Division.Datos.Paralelo.Locales.dll
+D:\TPP\P12\TPP12_2324\TPP12\03Division.Datos.Paralelo.Locales\bin\Release\net5.0\03Division.Datos.Paralelo.Locales.pdb
+D:\TPP\P12\TPP12_2324\TPP12\03Division.Datos.Paralelo.Locales\obj\Release\net5.0\03Division.Datos.Paralelo.Locales.csproj.AssemblyReference.cache
+D:\TPP\P12\TPP12_2324\TPP12\03Division.Datos.Paralelo.Locales\obj\Release\net5.0\03Division.Datos.Paralelo.Locales.GeneratedMSBuildEditorConfig.editorconfig
+D:\TPP\P12\TPP12_2324\TPP12\03Division.Datos.Paralelo.Locales\obj\Release\net5.0\03Division.Datos.Paralelo.Locales.AssemblyInfoInputs.cache
+D:\TPP\P12\TPP12_2324\TPP12\03Division.Datos.Paralelo.Locales\obj\Release\net5.0\03Division.Datos.Paralelo.Locales.AssemblyInfo.cs
+D:\TPP\P12\TPP12_2324\TPP12\03Division.Datos.Paralelo.Locales\obj\Release\net5.0\03Division.Datos.Paralelo.Locales.csproj.CoreCompileInputs.cache
+D:\TPP\P12\TPP12_2324\TPP12\03Division.Datos.Paralelo.Locales\obj\Release\net5.0\03Division.Datos.Paralelo.Locales.dll
+D:\TPP\P12\TPP12_2324\TPP12\03Division.Datos.Paralelo.Locales\obj\Release\net5.0\refint\03Division.Datos.Paralelo.Locales.dll
+D:\TPP\P12\TPP12_2324\TPP12\03Division.Datos.Paralelo.Locales\obj\Release\net5.0\03Division.Datos.Paralelo.Locales.pdb
+D:\TPP\P12\TPP12_2324\TPP12\03Division.Datos.Paralelo.Locales\obj\Release\net5.0\03Division.Datos.Paralelo.Locales.genruntimeconfig.cache
+D:\TPP\P12\TPP12_2324\TPP12\03Division.Datos.Paralelo.Locales\obj\Release\net5.0\ref\03Division.Datos.Paralelo.Locales.dll

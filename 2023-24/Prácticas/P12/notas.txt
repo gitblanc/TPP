@@ -1,0 +1,9 @@
+- Hay que ejecutar el proyecto desde consola para medir tiempos pq si lo ejecutas desde el boton verde el tiempo se ve alterado por el tiempo de compilación
+- El Parallel.ForEach va a intentar crear 1 hilo por cada elemento (potencialmente, no tiene pq crear un millon de hilos para 1 millon de elementos)
+- Si se declara una variable compartida y se usa dentro del Parallel.ForEach hay que hacer un lock pq es un recurso compartido por los hilos
+- Para calcular el número de hilos no hay que fijarse en los IDs (que pueden ser más altos), sino que hay que contarlos manualmente (siempre han 
+	de ser igual o menor al número de elementos del array)
+
+- Hay que hacer los ejercicios 
+
+- En la cola hay que hacer un lock a todo, incluso a las operaciones de lectura

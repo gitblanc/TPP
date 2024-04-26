@@ -1,0 +1,16 @@
+D:\TPP\P12\TPP12_2324\TPP12\04Procesado.Tareas.Secuencial\bin\Release\net5.0\04Procesado.Tareas.Secuencial.exe
+D:\TPP\P12\TPP12_2324\TPP12\04Procesado.Tareas.Secuencial\bin\Release\net5.0\04Procesado.Tareas.Secuencial.deps.json
+D:\TPP\P12\TPP12_2324\TPP12\04Procesado.Tareas.Secuencial\bin\Release\net5.0\04Procesado.Tareas.Secuencial.runtimeconfig.json
+D:\TPP\P12\TPP12_2324\TPP12\04Procesado.Tareas.Secuencial\bin\Release\net5.0\04Procesado.Tareas.Secuencial.runtimeconfig.dev.json
+D:\TPP\P12\TPP12_2324\TPP12\04Procesado.Tareas.Secuencial\bin\Release\net5.0\04Procesado.Tareas.Secuencial.dll
+D:\TPP\P12\TPP12_2324\TPP12\04Procesado.Tareas.Secuencial\bin\Release\net5.0\04Procesado.Tareas.Secuencial.pdb
+D:\TPP\P12\TPP12_2324\TPP12\04Procesado.Tareas.Secuencial\obj\Release\net5.0\04Procesado.Tareas.Secuencial.csproj.AssemblyReference.cache
+D:\TPP\P12\TPP12_2324\TPP12\04Procesado.Tareas.Secuencial\obj\Release\net5.0\04Procesado.Tareas.Secuencial.GeneratedMSBuildEditorConfig.editorconfig
+D:\TPP\P12\TPP12_2324\TPP12\04Procesado.Tareas.Secuencial\obj\Release\net5.0\04Procesado.Tareas.Secuencial.AssemblyInfoInputs.cache
+D:\TPP\P12\TPP12_2324\TPP12\04Procesado.Tareas.Secuencial\obj\Release\net5.0\04Procesado.Tareas.Secuencial.AssemblyInfo.cs
+D:\TPP\P12\TPP12_2324\TPP12\04Procesado.Tareas.Secuencial\obj\Release\net5.0\04Procesado.Tareas.Secuencial.csproj.CoreCompileInputs.cache
+D:\TPP\P12\TPP12_2324\TPP12\04Procesado.Tareas.Secuencial\obj\Release\net5.0\04Procesado.Tareas.Secuencial.dll
+D:\TPP\P12\TPP12_2324\TPP12\04Procesado.Tareas.Secuencial\obj\Release\net5.0\refint\04Procesado.Tareas.Secuencial.dll
+D:\TPP\P12\TPP12_2324\TPP12\04Procesado.Tareas.Secuencial\obj\Release\net5.0\04Procesado.Tareas.Secuencial.pdb
+D:\TPP\P12\TPP12_2324\TPP12\04Procesado.Tareas.Secuencial\obj\Release\net5.0\04Procesado.Tareas.Secuencial.genruntimeconfig.cache
+D:\TPP\P12\TPP12_2324\TPP12\04Procesado.Tareas.Secuencial\obj\Release\net5.0\ref\04Procesado.Tareas.Secuencial.dll
