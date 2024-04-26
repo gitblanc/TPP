@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "DFI6WfW/HF3CNebvYEsH9aO0eD9/9WBoQYAPA6gqn5lH46OX/gWiLVD0ueKIls0WFHlsX9M8rJdAV5aGS4TDBw==",
+  "dgSpecHash": "fiH/l5HADGSDAX86sK3ULSi+FWpBdrp5LWzX35K2wAdMDtumBNG4P0txa3QgVBA0+J+WdY5h2ohJyF56e4cfLQ==",
   "success": true,
-  "projectFilePath": "D:\\TPP\\P12\\TPP12_2324\\TPP12\\02Division.Datos.Paralelo\\02Division.Datos.Paralelo.csproj",
+  "projectFilePath": "C:\\Users\\blanc\\Desktop\\TPP\\2023-24\\Prácticas\\P12\\TPP12_2324\\TPP12\\02Division.Datos.Paralelo\\02Division.Datos.Paralelo.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\uo285176\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
-    "C:\\Users\\uo285176\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+    "C:\\Users\\blanc\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\blanc\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\blanc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
   ],
   "logs": []
 }

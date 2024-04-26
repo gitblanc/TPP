@@ -2,6 +2,7 @@
 using System.Diagnostics;
 using System.Linq.Expressions;
 using System.Numerics;
+using System.Reflection.Metadata.Ecma335;
 using System.Threading;
 using System.Threading.Tasks;
 
@@ -47,7 +48,7 @@ namespace _03Procesado.Tareas.Secuencial.Locales
             );
             sw.Stop();
 
-            Console.WriteLine("El sumatorio total es {0}. Tiempo: {1}.", resultadoTotal, sw.ElapsedMilliseconds);
+            Console.WriteLine("El sumatorio total es {0}. Tiempo: {1} ms.", resultadoTotal, sw.ElapsedMilliseconds);
 
             //EJERCICIO:
             //Impleméntese el cálculo del valor mínimo en el vector anterior, siguiendo los dos enfoques posibles:
@@ -55,6 +56,55 @@ namespace _03Procesado.Tareas.Secuencial.Locales
             //  - No empleando resultados parciales/locales (téngase en cuenta los posibles recursos compartidos).
             // Imprímase el tiempo empleado para cada uno de los enfoques.
 
+            //var maxValue = int.MaxValue;
+
+            // 1 EJERCICIO: Con reultados parciales/locales
+            var resultadoTotalFinal = int.MaxValue;
+            object obj1 = new();
+            // Para medir tiempos
+            sw.Reset();
+            sw.Start();
+            Parallel.ForEach<int, int>(
+                vector,
+                () => int.MaxValue,
+                (actual, loopState, resultadoLocal) =>
+                {
+                    if (actual < resultadoLocal)
+                    {
+                        resultadoLocal = actual;
+                    }
+                    return resultadoLocal;
+                }
+                ,
+                resutadoLocalFinal =>
+                {
+                    lock (obj1)// Hay que hacer un lock pues resultadoTotal es un recurso compartido, y
+                               // varias particiones pueden terminar al mismo tiempo, por lo que es una sección crtítica
+                    {
+                        if (resutadoLocalFinal < resultadoTotalFinal)
+                            resultadoTotalFinal = resutadoLocalFinal;
+                    }
+                }
+                );
+            sw.Stop();
+            Console.WriteLine("El valor mínimo es {0}. Tiempo: {1} ms.", resultadoTotalFinal, sw.ElapsedMilliseconds);
+
+            // 2 EJERCICIO: No empleando resultados parciales/locales (téngase en cuenta los posibles recursos compartidos).
+
+            resultadoTotalFinal = int.MaxValue;
+
+            sw.Reset();
+            sw.Start();
+            Parallel.ForEach(vector, elemento =>
+            {
+                lock (obj1)
+                {
+                    if (elemento < resultadoTotalFinal)
+                        resultadoTotalFinal = elemento;
+                }
+            });
+            sw.Stop();
+            Console.WriteLine("El valor mínimo es {0}. Tiempo: {1} ms.", resultadoTotalFinal, sw.ElapsedMilliseconds);
 
             //EJERCICIO:
             //Impleméntese el ejercicio anterior empleando el For, almacenando la POSICIÓN del valor mínimo.

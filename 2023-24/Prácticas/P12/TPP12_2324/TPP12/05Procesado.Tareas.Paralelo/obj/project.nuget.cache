@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "c6Lvqf9THuhpdD+WARYebe2u491lSCheVm9i4wpo07zuOs1rTdXlDY0tL/g6bCVuWvsgMp5OVnV2s8hjwMC4bA==",
+  "dgSpecHash": "Y6tEbFkF7gSrL9EwyFADOHLY5t9kjkzN/iwRVKTmCGy1eowNKm9pHJie897Qen2Qf1SdetWyNwgaiO/lyxmpOA==",
   "success": true,
-  "projectFilePath": "D:\\TPP\\P12\\TPP12_2324\\TPP12\\05Procesado.Tareas.Paralelo\\05Procesado.Tareas.Paralelo.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\blanc\\Desktop\\TPP\\2023-24\\Prácticas\\P12\\TPP12_2324\\TPP12\\05Procesado.Tareas.Paralelo\\05Procesado.Tareas.Paralelo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\blanc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
   "logs": []
 }

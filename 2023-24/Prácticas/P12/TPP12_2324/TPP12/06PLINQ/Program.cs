@@ -101,7 +101,7 @@ namespace _06PLINQ
             // {50, 45, 5, 1,....} o en cualquier otro orden.
             // .AsOrdered() mantendría el orden original a coste de perjudicar el rendimiento.
 
-            var resultadoListaMinusculasPLINQ = palabras.AsParallel().Select(ContarPalabras2).ToList();
+            var resultadoListaMinusculasPLINQ = palabras.AsParallel().Select(ContarPalabras2).ToList();// IMPORTANTE: poner el ToList()
             sw.Stop();
 
             //¿Qué ocurre si comentamos la siguiente línea? -> que el contador es 0
