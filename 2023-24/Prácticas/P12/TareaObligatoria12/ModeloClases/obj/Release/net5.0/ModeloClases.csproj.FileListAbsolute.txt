@@ -1,0 +1,12 @@
+C:\Users\blanc\Desktop\TPP\2023-24\Prácticas\P12\TareaObligatoria12\ModeloClases\bin\Release\net5.0\ModeloClases.deps.json
+C:\Users\blanc\Desktop\TPP\2023-24\Prácticas\P12\TareaObligatoria12\ModeloClases\bin\Release\net5.0\ModeloClases.dll
+C:\Users\blanc\Desktop\TPP\2023-24\Prácticas\P12\TareaObligatoria12\ModeloClases\bin\Release\net5.0\ModeloClases.pdb
+C:\Users\blanc\Desktop\TPP\2023-24\Prácticas\P12\TareaObligatoria12\ModeloClases\obj\Release\net5.0\ModeloClases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blanc\Desktop\TPP\2023-24\Prácticas\P12\TareaObligatoria12\ModeloClases\obj\Release\net5.0\ModeloClases.AssemblyInfoInputs.cache
+C:\Users\blanc\Desktop\TPP\2023-24\Prácticas\P12\TareaObligatoria12\ModeloClases\obj\Release\net5.0\ModeloClases.AssemblyInfo.cs
+C:\Users\blanc\Desktop\TPP\2023-24\Prácticas\P12\TareaObligatoria12\ModeloClases\obj\Release\net5.0\ModeloClases.csproj.CoreCompileInputs.cache
+C:\Users\blanc\Desktop\TPP\2023-24\Prácticas\P12\TareaObligatoria12\ModeloClases\obj\Release\net5.0\ModeloClases.sourcelink.json
+C:\Users\blanc\Desktop\TPP\2023-24\Prácticas\P12\TareaObligatoria12\ModeloClases\obj\Release\net5.0\ModeloClases.dll
+C:\Users\blanc\Desktop\TPP\2023-24\Prácticas\P12\TareaObligatoria12\ModeloClases\obj\Release\net5.0\refint\ModeloClases.dll
+C:\Users\blanc\Desktop\TPP\2023-24\Prácticas\P12\TareaObligatoria12\ModeloClases\obj\Release\net5.0\ModeloClases.pdb
+C:\Users\blanc\Desktop\TPP\2023-24\Prácticas\P12\TareaObligatoria12\ModeloClases\obj\Release\net5.0\ref\ModeloClases.dll

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TareaObligatoria12/1.0.0": {
+        "dependencies": {
+          "ModeloClases": "1.0.0"
+        },
+        "runtime": {
+          "TareaObligatoria12.dll": {}
+        }
+      },
+      "ModeloClases/1.0.0": {
+        "runtime": {
+          "ModeloClases.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TareaObligatoria12/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ModeloClases/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
