@@ -14,8 +14,16 @@ namespace ModeloClases
     public class ColaConcurrente<T>
     {
         private LinkedList<T> _list;
-        private readonly object _obj = new object();// no hace falta poner static porque sólo hay un objeto ColaConcurrente
-        public int NumeroElementos { get { return this._list.NumberOfElements; } }
+        // Es más eficiente bloquear la lista directamente
+        //private readonly object _obj = new object();// no hace falta poner static porque sólo hay un objeto ColaConcurrente
+        public int NumeroElementos
+        {
+            get
+            {
+                lock (this._list)
+                    return this._list.NumberOfElements;
+            }
+        }
 
         public ColaConcurrente()
         {
@@ -38,7 +46,7 @@ namespace ModeloClases
         /// <returns></returns>
         public void Add(T elem)
         {
-            lock (_obj)
+            lock (this._list)
             {
                 _list.Add(elem);
             }
@@ -50,7 +58,7 @@ namespace ModeloClases
         /// <returns></returns>
         public T Extract()
         {
-            lock (_obj)
+            lock (this._list)
             {
                 //Pongo la condición dentro para evitar una condición de carrera
                 if (NumeroElementos == 0)
@@ -69,7 +77,8 @@ namespace ModeloClases
         /// <returns></returns>
         public T PrimerElemento()
         {
-            return _list.GetElement(0);
+            lock (this._list)
+                return _list.GetElement(0);
         }
     }
 }
