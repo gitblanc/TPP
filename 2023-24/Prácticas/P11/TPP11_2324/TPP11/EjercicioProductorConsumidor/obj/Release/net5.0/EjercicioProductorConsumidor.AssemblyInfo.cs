@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EjercicioProductorConsumidor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+82114a727ca073adea2331c685118493ee59dfaa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+30c0a0e7deca92ec35158178bc977a8ce30e83db")]
 [assembly: System.Reflection.AssemblyProductAttribute("EjercicioProductorConsumidor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EjercicioProductorConsumidor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
