@@ -1,0 +1,16 @@
+C:\Users\blanc\Desktop\TPP\2023-24\Prácticas\EjerciciosParaExamen2\P10\bin\Release\net5.0\P10.exe
+C:\Users\blanc\Desktop\TPP\2023-24\Prácticas\EjerciciosParaExamen2\P10\bin\Release\net5.0\P10.deps.json
+C:\Users\blanc\Desktop\TPP\2023-24\Prácticas\EjerciciosParaExamen2\P10\bin\Release\net5.0\P10.runtimeconfig.json
+C:\Users\blanc\Desktop\TPP\2023-24\Prácticas\EjerciciosParaExamen2\P10\bin\Release\net5.0\P10.runtimeconfig.dev.json
+C:\Users\blanc\Desktop\TPP\2023-24\Prácticas\EjerciciosParaExamen2\P10\bin\Release\net5.0\P10.dll
+C:\Users\blanc\Desktop\TPP\2023-24\Prácticas\EjerciciosParaExamen2\P10\bin\Release\net5.0\P10.pdb
+C:\Users\blanc\Desktop\TPP\2023-24\Prácticas\EjerciciosParaExamen2\P10\obj\Release\net5.0\P10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blanc\Desktop\TPP\2023-24\Prácticas\EjerciciosParaExamen2\P10\obj\Release\net5.0\P10.AssemblyInfoInputs.cache
+C:\Users\blanc\Desktop\TPP\2023-24\Prácticas\EjerciciosParaExamen2\P10\obj\Release\net5.0\P10.AssemblyInfo.cs
+C:\Users\blanc\Desktop\TPP\2023-24\Prácticas\EjerciciosParaExamen2\P10\obj\Release\net5.0\P10.csproj.CoreCompileInputs.cache
+C:\Users\blanc\Desktop\TPP\2023-24\Prácticas\EjerciciosParaExamen2\P10\obj\Release\net5.0\P10.sourcelink.json
+C:\Users\blanc\Desktop\TPP\2023-24\Prácticas\EjerciciosParaExamen2\P10\obj\Release\net5.0\P10.dll
+C:\Users\blanc\Desktop\TPP\2023-24\Prácticas\EjerciciosParaExamen2\P10\obj\Release\net5.0\refint\P10.dll
+C:\Users\blanc\Desktop\TPP\2023-24\Prácticas\EjerciciosParaExamen2\P10\obj\Release\net5.0\P10.pdb
+C:\Users\blanc\Desktop\TPP\2023-24\Prácticas\EjerciciosParaExamen2\P10\obj\Release\net5.0\P10.genruntimeconfig.cache
+C:\Users\blanc\Desktop\TPP\2023-24\Prácticas\EjerciciosParaExamen2\P10\obj\Release\net5.0\ref\P10.dll

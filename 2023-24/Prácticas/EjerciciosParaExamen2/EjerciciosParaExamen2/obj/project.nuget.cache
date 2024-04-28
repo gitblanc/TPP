@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bYZV6+1hLueYy7UWzAU6S0t8y867jz2kcMM9dH4oKVwW7IQ7oi5KeXUH5EM4io0wU1Tk3Qj63itEl2GTBKlhtQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\blanc\\Desktop\\TPP\\2023-24\\Prácticas\\EjerciciosParaExamen2\\EjerciciosParaExamen2\\EjerciciosParaExamen2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\blanc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
