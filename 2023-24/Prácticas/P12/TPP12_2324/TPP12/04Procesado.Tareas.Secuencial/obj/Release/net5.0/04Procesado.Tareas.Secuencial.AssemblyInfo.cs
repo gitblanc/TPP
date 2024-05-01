@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("04Procesado.Tareas.Secuencial")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+11c0f1bfa0db230dbe1458b3e07f44ee5c65e1aa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5315753d9774798d26347582c3e4aae46fdd83f0")]
 [assembly: System.Reflection.AssemblyProductAttribute("04Procesado.Tareas.Secuencial")]
 [assembly: System.Reflection.AssemblyTitleAttribute("04Procesado.Tareas.Secuencial")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

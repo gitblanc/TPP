@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("no.plink.data.parallelism")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c3545116fa4cf117d61cdcfd011d161b52ba24f8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5315753d9774798d26347582c3e4aae46fdd83f0")]
 [assembly: System.Reflection.AssemblyProductAttribute("no.plink.data.parallelism")]
 [assembly: System.Reflection.AssemblyTitleAttribute("no.plink.data.parallelism")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("05SinDeadlock")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+30c0a0e7deca92ec35158178bc977a8ce30e83db")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5315753d9774798d26347582c3e4aae46fdd83f0")]
 [assembly: System.Reflection.AssemblyProductAttribute("05SinDeadlock")]
 [assembly: System.Reflection.AssemblyTitleAttribute("05SinDeadlock")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

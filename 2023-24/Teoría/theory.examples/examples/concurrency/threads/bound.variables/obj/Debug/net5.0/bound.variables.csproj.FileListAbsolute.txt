@@ -1,0 +1,15 @@
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\concurrency\threads\bound.variables\bin\Debug\net5.0\bound.variables.exe
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\concurrency\threads\bound.variables\bin\Debug\net5.0\bound.variables.dll.config
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\concurrency\threads\bound.variables\bin\Debug\net5.0\bound.variables.deps.json
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\concurrency\threads\bound.variables\bin\Debug\net5.0\bound.variables.runtimeconfig.json
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\concurrency\threads\bound.variables\bin\Debug\net5.0\bound.variables.runtimeconfig.dev.json
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\concurrency\threads\bound.variables\bin\Debug\net5.0\bound.variables.dll
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\concurrency\threads\bound.variables\bin\Debug\net5.0\bound.variables.pdb
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\concurrency\threads\bound.variables\obj\Debug\net5.0\bound.variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\concurrency\threads\bound.variables\obj\Debug\net5.0\bound.variables.csproj.CoreCompileInputs.cache
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\concurrency\threads\bound.variables\obj\Debug\net5.0\bound.variables.sourcelink.json
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\concurrency\threads\bound.variables\obj\Debug\net5.0\bound.variables.dll
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\concurrency\threads\bound.variables\obj\Debug\net5.0\refint\bound.variables.dll
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\concurrency\threads\bound.variables\obj\Debug\net5.0\bound.variables.pdb
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\concurrency\threads\bound.variables\obj\Debug\net5.0\bound.variables.genruntimeconfig.cache
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\concurrency\threads\bound.variables\obj\Debug\net5.0\ref\bound.variables.dll

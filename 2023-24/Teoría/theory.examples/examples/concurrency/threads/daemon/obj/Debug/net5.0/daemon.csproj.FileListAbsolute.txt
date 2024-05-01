@@ -1,0 +1,15 @@
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\concurrency\threads\daemon\bin\Debug\net5.0\daemon.exe
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\concurrency\threads\daemon\bin\Debug\net5.0\daemon.dll.config
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\concurrency\threads\daemon\bin\Debug\net5.0\daemon.deps.json
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\concurrency\threads\daemon\bin\Debug\net5.0\daemon.runtimeconfig.json
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\concurrency\threads\daemon\bin\Debug\net5.0\daemon.runtimeconfig.dev.json
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\concurrency\threads\daemon\bin\Debug\net5.0\daemon.dll
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\concurrency\threads\daemon\bin\Debug\net5.0\daemon.pdb
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\concurrency\threads\daemon\obj\Debug\net5.0\daemon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\concurrency\threads\daemon\obj\Debug\net5.0\daemon.csproj.CoreCompileInputs.cache
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\concurrency\threads\daemon\obj\Debug\net5.0\daemon.sourcelink.json
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\concurrency\threads\daemon\obj\Debug\net5.0\daemon.dll
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\concurrency\threads\daemon\obj\Debug\net5.0\refint\daemon.dll
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\concurrency\threads\daemon\obj\Debug\net5.0\daemon.pdb
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\concurrency\threads\daemon\obj\Debug\net5.0\daemon.genruntimeconfig.cache
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\concurrency\threads\daemon\obj\Debug\net5.0\ref\daemon.dll

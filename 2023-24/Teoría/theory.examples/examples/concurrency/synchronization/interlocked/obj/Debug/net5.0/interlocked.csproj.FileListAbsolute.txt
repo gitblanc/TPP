@@ -1,0 +1,14 @@
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\concurrency\synchronization\interlocked\bin\Debug\net5.0\interlocked.exe
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\concurrency\synchronization\interlocked\bin\Debug\net5.0\interlocked.deps.json
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\concurrency\synchronization\interlocked\bin\Debug\net5.0\interlocked.runtimeconfig.json
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\concurrency\synchronization\interlocked\bin\Debug\net5.0\interlocked.runtimeconfig.dev.json
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\concurrency\synchronization\interlocked\bin\Debug\net5.0\interlocked.dll
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\concurrency\synchronization\interlocked\bin\Debug\net5.0\interlocked.pdb
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\concurrency\synchronization\interlocked\obj\Debug\net5.0\interlocked.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\concurrency\synchronization\interlocked\obj\Debug\net5.0\interlocked.csproj.CoreCompileInputs.cache
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\concurrency\synchronization\interlocked\obj\Debug\net5.0\interlocked.sourcelink.json
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\concurrency\synchronization\interlocked\obj\Debug\net5.0\interlocked.dll
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\concurrency\synchronization\interlocked\obj\Debug\net5.0\refint\interlocked.dll
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\concurrency\synchronization\interlocked\obj\Debug\net5.0\interlocked.pdb
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\concurrency\synchronization\interlocked\obj\Debug\net5.0\interlocked.genruntimeconfig.cache
+C:\Users\blanc\Desktop\TPP\2023-24\Teoría\theory.examples\examples\concurrency\synchronization\interlocked\obj\Debug\net5.0\ref\interlocked.dll

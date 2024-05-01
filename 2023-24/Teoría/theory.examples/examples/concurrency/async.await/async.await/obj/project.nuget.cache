@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kFxReB2vZq2VLImZ4R0mG5WIiJue4INRSJqPJE0oVpVHOmlfviLhaQ6hDh8ziHZz9faIxnmBPqugmjFVhc9Veg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\blanc\\Desktop\\TPP\\2023-24\\Teoría\\theory.examples\\examples\\concurrency\\async.await\\async.await\\async.await.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\blanc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "AKvPlQaXyFAm6HEtsobs1FLhacEafvUmvvpKKbnzwxocQ9Qfh9ZNjobl10sH08hmf67Xznqo3UzjH5Nm29yxCQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\blanc\\Desktop\\TPP\\2023-24\\Teoría\\theory.examples\\examples\\concurrency\\tpl\\explicit.data.parallelism\\explicit.data.parallelism.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\blanc\\.nuget\\packages\\system.drawing.common\\8.0.1\\system.drawing.common.8.0.1.nupkg.sha512",
+    "C:\\Users\\blanc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
